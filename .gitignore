@@ -1,0 +1,12 @@
+.DS_Store
+.pytest_cache/
+.venv/
+.venv*/
+*.local.yaml
+packages/systems/runs/
+dist/
+__pycache__/
+*.py[cod]
+results/tables/
+results/recomputed/
+data/benchmarks/*.jsonl

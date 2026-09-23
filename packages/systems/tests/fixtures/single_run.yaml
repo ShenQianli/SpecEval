@@ -1,0 +1,62 @@
+schema_version: 1
+experiment_name: single_run_test
+master_seed: 42
+
+benchmark:
+  id: aime24
+  path: assets/dataset/aime24.jsonl
+  sha256: 66675268a74beba516b24e94426906b8730c38c3409f58ff683d252cf5aa2ce7
+  expected_tasks: 30
+  scorer: aime
+
+model:
+  alias: qwen3_5_4b
+  family: qwen3_5
+  path: assets/model
+  dtype: bfloat16
+  tensor_parallel_size: 1
+  chat_template_kwargs:
+    enable_thinking: true
+  thinking_budget_tokens: 8192
+
+design:
+  n_tasks: 30
+  budget_per_task: 32
+  pilot_per_task: 10
+  stage_weight: 0.28592995791015385
+  continuation_total: 660
+  quadrature_order: 16
+  speculative_depth: 4
+
+engine:
+  gpu_ids: [0, 1, 2, 3, 4, 5, 6, 7]
+  max_model_len: 32768
+  max_num_seqs: 128
+  max_inflight_per_engine: 32
+  gpu_memory_utilization: 0.9
+  enable_prefix_caching: false
+  reasoning_parser: qwen3
+  batch_invariant: false
+  reproducibility_mode: seeded_non_batch_invariant
+
+sampling:
+  temperature: 0.6
+  top_p: 0.95
+  top_k: -1
+  max_new_tokens: 16384
+
+execution:
+  max_infra_retries: 1
+  timed_blocks: 1
+  policy_order_seed: 20260831
+  policies:
+    - uniform_flat
+    - hbn_sync
+    - hbn_spec_fill256_partial_plugin
+
+reward:
+  mode: profile_bernoulli
+  profile_path: fixtures/profile.json
+  profile_sha256: aa60b8ed6123a5ce61f95cd50d60c29b5e6ef01f7a2ac9ae38bf3e2c91200f0b
+  tested_k: 1024
+  seed: 42

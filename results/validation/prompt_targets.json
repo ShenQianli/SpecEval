@@ -1,0 +1,430 @@
+{
+  "aime24__model=qwen2_5_32b": {
+    "rendered_sha256": "2d99383226ee2f00c934950f8d7f5d7efe9f9fea157e348dd6103a8ddad2ca44",
+    "token_ids_sha256": "f320c7d17cfcfda91a8a950309e330520f014a233e9f35c3bd5829bfc6b9ae67"
+  },
+  "aime24__model=qwen2_5_3b": {
+    "rendered_sha256": "2d99383226ee2f00c934950f8d7f5d7efe9f9fea157e348dd6103a8ddad2ca44",
+    "token_ids_sha256": "f320c7d17cfcfda91a8a950309e330520f014a233e9f35c3bd5829bfc6b9ae67"
+  },
+  "aime24__model=qwen2_5_7b": {
+    "rendered_sha256": "2d99383226ee2f00c934950f8d7f5d7efe9f9fea157e348dd6103a8ddad2ca44",
+    "token_ids_sha256": "f320c7d17cfcfda91a8a950309e330520f014a233e9f35c3bd5829bfc6b9ae67"
+  },
+  "aime24__model=qwen3_5_27b": {
+    "rendered_sha256": "4ab0cc545d264a7ae3797f43747471fe1cafcfaf538389f82ff1cceec163bf70",
+    "token_ids_sha256": "bdcebd36f567efa5327c14ab31a9e02bcf22e2f2196f783db5324135dc81830e"
+  },
+  "aime24__model=qwen3_5_4b": {
+    "rendered_sha256": "4ab0cc545d264a7ae3797f43747471fe1cafcfaf538389f82ff1cceec163bf70",
+    "token_ids_sha256": "bdcebd36f567efa5327c14ab31a9e02bcf22e2f2196f783db5324135dc81830e"
+  },
+  "aime24__model=qwen3_5_9b": {
+    "rendered_sha256": "4ab0cc545d264a7ae3797f43747471fe1cafcfaf538389f82ff1cceec163bf70",
+    "token_ids_sha256": "bdcebd36f567efa5327c14ab31a9e02bcf22e2f2196f783db5324135dc81830e"
+  },
+  "aime25__model=qwen2_5_32b": {
+    "rendered_sha256": "413e688af420441ce2f30abf27cf050fc59f1b970804ea580830a94d4a831ccf",
+    "token_ids_sha256": "a4c081f21224da1fd984d5075a2a70a67b7c2483c7d80c2c7ed2c3cfe0040325"
+  },
+  "aime25__model=qwen2_5_3b": {
+    "rendered_sha256": "413e688af420441ce2f30abf27cf050fc59f1b970804ea580830a94d4a831ccf",
+    "token_ids_sha256": "a4c081f21224da1fd984d5075a2a70a67b7c2483c7d80c2c7ed2c3cfe0040325"
+  },
+  "aime25__model=qwen2_5_7b": {
+    "rendered_sha256": "413e688af420441ce2f30abf27cf050fc59f1b970804ea580830a94d4a831ccf",
+    "token_ids_sha256": "a4c081f21224da1fd984d5075a2a70a67b7c2483c7d80c2c7ed2c3cfe0040325"
+  },
+  "aime25__model=qwen3_5_27b": {
+    "rendered_sha256": "6c11a94d7546be1e16e7fb741616924b745a89b1279eb16d27fd7e4fa44d0086",
+    "token_ids_sha256": "ae7fff622c8c891408a37914ee847c8ec09bb84c76dce7c658652fdcf3e146b3"
+  },
+  "aime25__model=qwen3_5_4b": {
+    "rendered_sha256": "6c11a94d7546be1e16e7fb741616924b745a89b1279eb16d27fd7e4fa44d0086",
+    "token_ids_sha256": "ae7fff622c8c891408a37914ee847c8ec09bb84c76dce7c658652fdcf3e146b3"
+  },
+  "aime25__model=qwen3_5_9b": {
+    "rendered_sha256": "6c11a94d7546be1e16e7fb741616924b745a89b1279eb16d27fd7e4fa44d0086",
+    "token_ids_sha256": "ae7fff622c8c891408a37914ee847c8ec09bb84c76dce7c658652fdcf3e146b3"
+  },
+  "aime26__model=qwen2_5_32b": {
+    "rendered_sha256": "074891742abf7420805e5318b71f6fef94f9da81c0a1c18a57f922d3cae0d7e8",
+    "token_ids_sha256": "38d12b52e135fd64c3b8aebdf9b7dd7800aec69db3dfbef7f8872c2b90e31035"
+  },
+  "aime26__model=qwen2_5_3b": {
+    "rendered_sha256": "074891742abf7420805e5318b71f6fef94f9da81c0a1c18a57f922d3cae0d7e8",
+    "token_ids_sha256": "38d12b52e135fd64c3b8aebdf9b7dd7800aec69db3dfbef7f8872c2b90e31035"
+  },
+  "aime26__model=qwen2_5_7b": {
+    "rendered_sha256": "074891742abf7420805e5318b71f6fef94f9da81c0a1c18a57f922d3cae0d7e8",
+    "token_ids_sha256": "38d12b52e135fd64c3b8aebdf9b7dd7800aec69db3dfbef7f8872c2b90e31035"
+  },
+  "aime26__model=qwen3_5_27b": {
+    "rendered_sha256": "16e70d47a33dba7b89304f699b9d2a2e0ff66dba9414545740a3ad817bbbe395",
+    "token_ids_sha256": "e483afa89a79e6b8d80d040c9e72bf970dd42a2619a8b6d560ef8820bcaa1f33"
+  },
+  "aime26__model=qwen3_5_4b": {
+    "rendered_sha256": "16e70d47a33dba7b89304f699b9d2a2e0ff66dba9414545740a3ad817bbbe395",
+    "token_ids_sha256": "e483afa89a79e6b8d80d040c9e72bf970dd42a2619a8b6d560ef8820bcaa1f33"
+  },
+  "aime26__model=qwen3_5_9b": {
+    "rendered_sha256": "16e70d47a33dba7b89304f699b9d2a2e0ff66dba9414545740a3ad817bbbe395",
+    "token_ids_sha256": "e483afa89a79e6b8d80d040c9e72bf970dd42a2619a8b6d560ef8820bcaa1f33"
+  },
+  "gpqa_diamond__domain_biology__model=qwen2_5_32b": {
+    "rendered_sha256": "e04051b2e91875faeaf4e4a1acfad7e34b41b1acb4179efef968b5eec8444387",
+    "token_ids_sha256": "b02c8b0db1f700e577afae04bd12df84317b167a2f403314c2eab2766acf1f05"
+  },
+  "gpqa_diamond__domain_biology__model=qwen2_5_7b": {
+    "rendered_sha256": "e04051b2e91875faeaf4e4a1acfad7e34b41b1acb4179efef968b5eec8444387",
+    "token_ids_sha256": "b02c8b0db1f700e577afae04bd12df84317b167a2f403314c2eab2766acf1f05"
+  },
+  "gpqa_diamond__domain_biology__model=qwen3_5_27b": {
+    "rendered_sha256": "3b64ed2fdeecdb41bb84b8817456bebe1c66fd6f1534e9e57e5912ca549f3ceb",
+    "token_ids_sha256": "5b61f0ebb5fc15fbdc646a74ed884667622f1449fd38078d627bbf44ecbd3dcf"
+  },
+  "gpqa_diamond__domain_biology__model=qwen3_5_4b": {
+    "rendered_sha256": "3b64ed2fdeecdb41bb84b8817456bebe1c66fd6f1534e9e57e5912ca549f3ceb",
+    "token_ids_sha256": "5b61f0ebb5fc15fbdc646a74ed884667622f1449fd38078d627bbf44ecbd3dcf"
+  },
+  "gpqa_diamond__domain_biology__model=qwen3_5_9b": {
+    "rendered_sha256": "3b64ed2fdeecdb41bb84b8817456bebe1c66fd6f1534e9e57e5912ca549f3ceb",
+    "token_ids_sha256": "5b61f0ebb5fc15fbdc646a74ed884667622f1449fd38078d627bbf44ecbd3dcf"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen2_5_32b": {
+    "rendered_sha256": "63be93cfcf3f20d4316c2395a191df4c56a4f11295b7144165123e854dd7d37a",
+    "token_ids_sha256": "625909e6ff7a6115a023eb7cbd752d09491c593c29e644addec96b8b37646b8e"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen2_5_3b": {
+    "rendered_sha256": "63be93cfcf3f20d4316c2395a191df4c56a4f11295b7144165123e854dd7d37a",
+    "token_ids_sha256": "625909e6ff7a6115a023eb7cbd752d09491c593c29e644addec96b8b37646b8e"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen2_5_7b": {
+    "rendered_sha256": "63be93cfcf3f20d4316c2395a191df4c56a4f11295b7144165123e854dd7d37a",
+    "token_ids_sha256": "625909e6ff7a6115a023eb7cbd752d09491c593c29e644addec96b8b37646b8e"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen3_5_27b": {
+    "rendered_sha256": "e586b98e0f9d763059d59255686d07711728da2851e12e9860322432da85c955",
+    "token_ids_sha256": "5878e15ce9b7f3dd82b35a44f42e1d4bd19f90e0784cab723310a48c259eff83"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen3_5_4b": {
+    "rendered_sha256": "e586b98e0f9d763059d59255686d07711728da2851e12e9860322432da85c955",
+    "token_ids_sha256": "5878e15ce9b7f3dd82b35a44f42e1d4bd19f90e0784cab723310a48c259eff83"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen3_5_9b": {
+    "rendered_sha256": "e586b98e0f9d763059d59255686d07711728da2851e12e9860322432da85c955",
+    "token_ids_sha256": "5878e15ce9b7f3dd82b35a44f42e1d4bd19f90e0784cab723310a48c259eff83"
+  },
+  "gpqa_diamond__domain_physics__model=qwen2_5_32b": {
+    "rendered_sha256": "1801a43c0fb0cb044d4b28082791dcb2a8f91ba00b481bbeebad209f9c00d5b3",
+    "token_ids_sha256": "71eeb8f1ae8cc9318eae8e3e7cb9510ab9d5b407185896c163e2e87b56afc692"
+  },
+  "gpqa_diamond__domain_physics__model=qwen2_5_3b": {
+    "rendered_sha256": "1801a43c0fb0cb044d4b28082791dcb2a8f91ba00b481bbeebad209f9c00d5b3",
+    "token_ids_sha256": "71eeb8f1ae8cc9318eae8e3e7cb9510ab9d5b407185896c163e2e87b56afc692"
+  },
+  "gpqa_diamond__domain_physics__model=qwen2_5_7b": {
+    "rendered_sha256": "1801a43c0fb0cb044d4b28082791dcb2a8f91ba00b481bbeebad209f9c00d5b3",
+    "token_ids_sha256": "71eeb8f1ae8cc9318eae8e3e7cb9510ab9d5b407185896c163e2e87b56afc692"
+  },
+  "gpqa_diamond__domain_physics__model=qwen3_5_27b": {
+    "rendered_sha256": "d98fbf804fd8ced5960460ad4e5f75966cb2630e49557b6d428114a4f8b590e4",
+    "token_ids_sha256": "b3cf4c788477dc3dea85008b32b7b95a2930496f7022e3b6d94ff278c8183040"
+  },
+  "gpqa_diamond__domain_physics__model=qwen3_5_4b": {
+    "rendered_sha256": "d98fbf804fd8ced5960460ad4e5f75966cb2630e49557b6d428114a4f8b590e4",
+    "token_ids_sha256": "b3cf4c788477dc3dea85008b32b7b95a2930496f7022e3b6d94ff278c8183040"
+  },
+  "gpqa_diamond__domain_physics__model=qwen3_5_9b": {
+    "rendered_sha256": "d98fbf804fd8ced5960460ad4e5f75966cb2630e49557b6d428114a4f8b590e4",
+    "token_ids_sha256": "b3cf4c788477dc3dea85008b32b7b95a2930496f7022e3b6d94ff278c8183040"
+  },
+  "hle__text_only_sample100__model=qwen2_5_32b": {
+    "rendered_sha256": "d111dc65e33f7fd07f856a38f1d479d4611507760e1aee34796368714b7a05af",
+    "token_ids_sha256": "93971d8fb0e1b4cd916fe3cf9aa951bd0e028277087b8b41e304214a73a01515"
+  },
+  "hle__text_only_sample100__model=qwen2_5_3b": {
+    "rendered_sha256": "d111dc65e33f7fd07f856a38f1d479d4611507760e1aee34796368714b7a05af",
+    "token_ids_sha256": "93971d8fb0e1b4cd916fe3cf9aa951bd0e028277087b8b41e304214a73a01515"
+  },
+  "hle__text_only_sample100__model=qwen2_5_7b": {
+    "rendered_sha256": "d111dc65e33f7fd07f856a38f1d479d4611507760e1aee34796368714b7a05af",
+    "token_ids_sha256": "93971d8fb0e1b4cd916fe3cf9aa951bd0e028277087b8b41e304214a73a01515"
+  },
+  "hle__text_only_sample100__model=qwen3_5_27b": {
+    "rendered_sha256": "1c0c1d42e74538239ce939d03553ab3347de42e704386dedb2e3695f5bd8a7ea",
+    "token_ids_sha256": "c1093ac2c5fb3d85ca009cc16da998d719c4cf86c698d0b0688c577a8948d698"
+  },
+  "hle__text_only_sample100__model=qwen3_5_4b": {
+    "rendered_sha256": "1c0c1d42e74538239ce939d03553ab3347de42e704386dedb2e3695f5bd8a7ea",
+    "token_ids_sha256": "c1093ac2c5fb3d85ca009cc16da998d719c4cf86c698d0b0688c577a8948d698"
+  },
+  "hle__text_only_sample100__model=qwen3_5_9b": {
+    "rendered_sha256": "1c0c1d42e74538239ce939d03553ab3347de42e704386dedb2e3695f5bd8a7ea",
+    "token_ids_sha256": "c1093ac2c5fb3d85ca009cc16da998d719c4cf86c698d0b0688c577a8948d698"
+  },
+  "hmmt__model=qwen2_5_32b": {
+    "rendered_sha256": "a3c0352feb72bb3c202ddb23c20bf5971719bc8c14b912488e5dc8de6068b3ee",
+    "token_ids_sha256": "8b888f803d2daa17b2b8b9051c006a56843e35a52fd587f5f2814d2cf3057c07"
+  },
+  "hmmt__model=qwen2_5_3b": {
+    "rendered_sha256": "a3c0352feb72bb3c202ddb23c20bf5971719bc8c14b912488e5dc8de6068b3ee",
+    "token_ids_sha256": "8b888f803d2daa17b2b8b9051c006a56843e35a52fd587f5f2814d2cf3057c07"
+  },
+  "hmmt__model=qwen2_5_7b": {
+    "rendered_sha256": "a3c0352feb72bb3c202ddb23c20bf5971719bc8c14b912488e5dc8de6068b3ee",
+    "token_ids_sha256": "8b888f803d2daa17b2b8b9051c006a56843e35a52fd587f5f2814d2cf3057c07"
+  },
+  "hmmt__model=qwen3_5_27b": {
+    "rendered_sha256": "76971457db5a0a459e03010e0ec3045462664f6bd54d8224b3e0c68d01a827a6",
+    "token_ids_sha256": "9dc43898d9e1424f8d8c5a72dbb333722f0c5daa9642f04f7611689da1ccf395"
+  },
+  "hmmt__model=qwen3_5_4b": {
+    "rendered_sha256": "76971457db5a0a459e03010e0ec3045462664f6bd54d8224b3e0c68d01a827a6",
+    "token_ids_sha256": "9dc43898d9e1424f8d8c5a72dbb333722f0c5daa9642f04f7611689da1ccf395"
+  },
+  "hmmt__model=qwen3_5_9b": {
+    "rendered_sha256": "76971457db5a0a459e03010e0ec3045462664f6bd54d8224b3e0c68d01a827a6",
+    "token_ids_sha256": "9dc43898d9e1424f8d8c5a72dbb333722f0c5daa9642f04f7611689da1ccf395"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen2_5_32b": {
+    "rendered_sha256": "9fca6e03c1c5fd43dc405716b812a86495fa5ae3e4d82ba45cdd8a54add60d84",
+    "token_ids_sha256": "6d24b1e21f2126258c9f80e8390034ead79cd64c96536c76147b187b0d82fb1f"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen2_5_3b": {
+    "rendered_sha256": "9fca6e03c1c5fd43dc405716b812a86495fa5ae3e4d82ba45cdd8a54add60d84",
+    "token_ids_sha256": "6d24b1e21f2126258c9f80e8390034ead79cd64c96536c76147b187b0d82fb1f"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen2_5_7b": {
+    "rendered_sha256": "9fca6e03c1c5fd43dc405716b812a86495fa5ae3e4d82ba45cdd8a54add60d84",
+    "token_ids_sha256": "6d24b1e21f2126258c9f80e8390034ead79cd64c96536c76147b187b0d82fb1f"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen3_5_27b": {
+    "rendered_sha256": "49bb807d0038764d6ee7fd5bd6514a1ca02730c68e0e7a5284f65539ab74f492",
+    "token_ids_sha256": "959fec555ed1670e4764f058ed9144632efc6a63dbda6aafe54e8ec8b7b7a0d3"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen3_5_4b": {
+    "rendered_sha256": "49bb807d0038764d6ee7fd5bd6514a1ca02730c68e0e7a5284f65539ab74f492",
+    "token_ids_sha256": "959fec555ed1670e4764f058ed9144632efc6a63dbda6aafe54e8ec8b7b7a0d3"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen3_5_9b": {
+    "rendered_sha256": "49bb807d0038764d6ee7fd5bd6514a1ca02730c68e0e7a5284f65539ab74f492",
+    "token_ids_sha256": "959fec555ed1670e4764f058ed9144632efc6a63dbda6aafe54e8ec8b7b7a0d3"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen2_5_32b": {
+    "rendered_sha256": "b885b535e77b9e29f3b54990f049afd61f712a469b386422be8a9c507d340a86",
+    "token_ids_sha256": "77bcf6c9eb02562c36b0c16e4df41d51852124fc8adb976d24685cb8ba30df43"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen2_5_3b": {
+    "rendered_sha256": "b885b535e77b9e29f3b54990f049afd61f712a469b386422be8a9c507d340a86",
+    "token_ids_sha256": "77bcf6c9eb02562c36b0c16e4df41d51852124fc8adb976d24685cb8ba30df43"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen2_5_7b": {
+    "rendered_sha256": "b885b535e77b9e29f3b54990f049afd61f712a469b386422be8a9c507d340a86",
+    "token_ids_sha256": "77bcf6c9eb02562c36b0c16e4df41d51852124fc8adb976d24685cb8ba30df43"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen3_5_27b": {
+    "rendered_sha256": "a31c614297241b5e22f739c8aa19193cae93acdda8c3c08369d2a713c0d04101",
+    "token_ids_sha256": "4e782b705853b54bfc9cddbf0375c15f245dd6d3ecd4d37193916157276e7324"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen3_5_4b": {
+    "rendered_sha256": "a31c614297241b5e22f739c8aa19193cae93acdda8c3c08369d2a713c0d04101",
+    "token_ids_sha256": "4e782b705853b54bfc9cddbf0375c15f245dd6d3ecd4d37193916157276e7324"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen3_5_9b": {
+    "rendered_sha256": "a31c614297241b5e22f739c8aa19193cae93acdda8c3c08369d2a713c0d04101",
+    "token_ids_sha256": "4e782b705853b54bfc9cddbf0375c15f245dd6d3ecd4d37193916157276e7324"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen2_5_32b": {
+    "rendered_sha256": "b6ad34a1f74b983bb73164d4d59a2bb6076a9121314f8c246d14083286307726",
+    "token_ids_sha256": "83b2113c7a62d01b3cf939430290a209d4dc1d5e28088e3e4716d2238af01446"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen2_5_3b": {
+    "rendered_sha256": "b6ad34a1f74b983bb73164d4d59a2bb6076a9121314f8c246d14083286307726",
+    "token_ids_sha256": "83b2113c7a62d01b3cf939430290a209d4dc1d5e28088e3e4716d2238af01446"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen2_5_7b": {
+    "rendered_sha256": "b6ad34a1f74b983bb73164d4d59a2bb6076a9121314f8c246d14083286307726",
+    "token_ids_sha256": "83b2113c7a62d01b3cf939430290a209d4dc1d5e28088e3e4716d2238af01446"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen3_5_27b": {
+    "rendered_sha256": "cbc294edbc302e8c9e80948cd822df2f30d54b89c8dae66e1265d6c02e70ee81",
+    "token_ids_sha256": "5ccb08dd835b62131d9caec22df576444748447749a6638864569842a5a39aea"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen3_5_4b": {
+    "rendered_sha256": "cbc294edbc302e8c9e80948cd822df2f30d54b89c8dae66e1265d6c02e70ee81",
+    "token_ids_sha256": "5ccb08dd835b62131d9caec22df576444748447749a6638864569842a5a39aea"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen3_5_9b": {
+    "rendered_sha256": "cbc294edbc302e8c9e80948cd822df2f30d54b89c8dae66e1265d6c02e70ee81",
+    "token_ids_sha256": "5ccb08dd835b62131d9caec22df576444748447749a6638864569842a5a39aea"
+  },
+  "math_100__model=qwen2_5_32b": {
+    "rendered_sha256": "8510fbc6fd8a60cc77a9c2e724e33f84aaaceb1f8623366d484229d4b0ea7629",
+    "token_ids_sha256": "b7b414b63708dcd3be06fb66f98ea37c93423c866953a88faa1b201857265759"
+  },
+  "math_100__model=qwen2_5_3b": {
+    "rendered_sha256": "8510fbc6fd8a60cc77a9c2e724e33f84aaaceb1f8623366d484229d4b0ea7629",
+    "token_ids_sha256": "b7b414b63708dcd3be06fb66f98ea37c93423c866953a88faa1b201857265759"
+  },
+  "math_100__model=qwen2_5_7b": {
+    "rendered_sha256": "8510fbc6fd8a60cc77a9c2e724e33f84aaaceb1f8623366d484229d4b0ea7629",
+    "token_ids_sha256": "b7b414b63708dcd3be06fb66f98ea37c93423c866953a88faa1b201857265759"
+  },
+  "math_100__model=qwen3_5_27b": {
+    "rendered_sha256": "eeb6c898d8ce57d160a1db9baade48e90235688b21121a25798d473d584e4c43",
+    "token_ids_sha256": "f243db99fe80caf802a50e2438360e40c12d4ef14e2df1b7c47f3c7db0d449bb"
+  },
+  "math_100__model=qwen3_5_4b": {
+    "rendered_sha256": "eeb6c898d8ce57d160a1db9baade48e90235688b21121a25798d473d584e4c43",
+    "token_ids_sha256": "f243db99fe80caf802a50e2438360e40c12d4ef14e2df1b7c47f3c7db0d449bb"
+  },
+  "math_100__model=qwen3_5_9b": {
+    "rendered_sha256": "eeb6c898d8ce57d160a1db9baade48e90235688b21121a25798d473d584e4c43",
+    "token_ids_sha256": "f243db99fe80caf802a50e2438360e40c12d4ef14e2df1b7c47f3c7db0d449bb"
+  },
+  "mmlu_science__subject_college_biology__model=qwen2_5_32b": {
+    "rendered_sha256": "5346f3786b4ca647b2391ef5c311a59f876cb78f94b960d2e02e46524754c99f",
+    "token_ids_sha256": "11e2596be13d5f53a5ddd883ec89fa7950e44f21ccb4df332b99761e4ec39cc6"
+  },
+  "mmlu_science__subject_college_biology__model=qwen2_5_3b": {
+    "rendered_sha256": "5346f3786b4ca647b2391ef5c311a59f876cb78f94b960d2e02e46524754c99f",
+    "token_ids_sha256": "11e2596be13d5f53a5ddd883ec89fa7950e44f21ccb4df332b99761e4ec39cc6"
+  },
+  "mmlu_science__subject_college_biology__model=qwen2_5_7b": {
+    "rendered_sha256": "5346f3786b4ca647b2391ef5c311a59f876cb78f94b960d2e02e46524754c99f",
+    "token_ids_sha256": "11e2596be13d5f53a5ddd883ec89fa7950e44f21ccb4df332b99761e4ec39cc6"
+  },
+  "mmlu_science__subject_college_biology__model=qwen3_5_27b": {
+    "rendered_sha256": "c1d5686c7e45833fb0a7628e3a375f1d2868f1db120fdc52820f5495db1a492d",
+    "token_ids_sha256": "86a38d37ae849bf8713b5e5cf3cedc1b8754e017a7e645dbbf0ae258071937fd"
+  },
+  "mmlu_science__subject_college_biology__model=qwen3_5_4b": {
+    "rendered_sha256": "c1d5686c7e45833fb0a7628e3a375f1d2868f1db120fdc52820f5495db1a492d",
+    "token_ids_sha256": "86a38d37ae849bf8713b5e5cf3cedc1b8754e017a7e645dbbf0ae258071937fd"
+  },
+  "mmlu_science__subject_college_biology__model=qwen3_5_9b": {
+    "rendered_sha256": "c1d5686c7e45833fb0a7628e3a375f1d2868f1db120fdc52820f5495db1a492d",
+    "token_ids_sha256": "86a38d37ae849bf8713b5e5cf3cedc1b8754e017a7e645dbbf0ae258071937fd"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen2_5_32b": {
+    "rendered_sha256": "d42141153ed6958edda58ce15b855f6fade5ea2008445cdea3cc387feb6841e3",
+    "token_ids_sha256": "da5f83d1f992d309d0a9b96b6729e2ab460b5f098983b41539590ae24e2a7859"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen2_5_3b": {
+    "rendered_sha256": "d42141153ed6958edda58ce15b855f6fade5ea2008445cdea3cc387feb6841e3",
+    "token_ids_sha256": "da5f83d1f992d309d0a9b96b6729e2ab460b5f098983b41539590ae24e2a7859"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen2_5_7b": {
+    "rendered_sha256": "d42141153ed6958edda58ce15b855f6fade5ea2008445cdea3cc387feb6841e3",
+    "token_ids_sha256": "da5f83d1f992d309d0a9b96b6729e2ab460b5f098983b41539590ae24e2a7859"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen3_5_27b": {
+    "rendered_sha256": "2b2b99779cb83846b79189a6c618980e314b9e1000ddada956a77165e314a318",
+    "token_ids_sha256": "44a7885b9598cddf4f632d1b59aa42ecdf7bb95e2ee82a6404fe692bd01e0a16"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen3_5_4b": {
+    "rendered_sha256": "2b2b99779cb83846b79189a6c618980e314b9e1000ddada956a77165e314a318",
+    "token_ids_sha256": "44a7885b9598cddf4f632d1b59aa42ecdf7bb95e2ee82a6404fe692bd01e0a16"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen3_5_9b": {
+    "rendered_sha256": "2b2b99779cb83846b79189a6c618980e314b9e1000ddada956a77165e314a318",
+    "token_ids_sha256": "44a7885b9598cddf4f632d1b59aa42ecdf7bb95e2ee82a6404fe692bd01e0a16"
+  },
+  "mmlu_science__subject_college_physics__model=qwen2_5_32b": {
+    "rendered_sha256": "bb75296e431de7452df4694ec4b86021bc128d5030819c13ba6bbf1693e90ce2",
+    "token_ids_sha256": "240ec04e2be50ced0034974551bfe9492bf0d18d7a56dbb5666d1158f05e8dd3"
+  },
+  "mmlu_science__subject_college_physics__model=qwen2_5_3b": {
+    "rendered_sha256": "bb75296e431de7452df4694ec4b86021bc128d5030819c13ba6bbf1693e90ce2",
+    "token_ids_sha256": "240ec04e2be50ced0034974551bfe9492bf0d18d7a56dbb5666d1158f05e8dd3"
+  },
+  "mmlu_science__subject_college_physics__model=qwen2_5_7b": {
+    "rendered_sha256": "bb75296e431de7452df4694ec4b86021bc128d5030819c13ba6bbf1693e90ce2",
+    "token_ids_sha256": "240ec04e2be50ced0034974551bfe9492bf0d18d7a56dbb5666d1158f05e8dd3"
+  },
+  "mmlu_science__subject_college_physics__model=qwen3_5_27b": {
+    "rendered_sha256": "fb7229f71799375ee142912042125870ca4fc0d39be3ad5e9eae316e66198f1d",
+    "token_ids_sha256": "60b1feda027ca0755d8f1fa282071f322952c6fcd9405ff98c807b4685ba8655"
+  },
+  "mmlu_science__subject_college_physics__model=qwen3_5_4b": {
+    "rendered_sha256": "fb7229f71799375ee142912042125870ca4fc0d39be3ad5e9eae316e66198f1d",
+    "token_ids_sha256": "60b1feda027ca0755d8f1fa282071f322952c6fcd9405ff98c807b4685ba8655"
+  },
+  "mmlu_science__subject_college_physics__model=qwen3_5_9b": {
+    "rendered_sha256": "fb7229f71799375ee142912042125870ca4fc0d39be3ad5e9eae316e66198f1d",
+    "token_ids_sha256": "60b1feda027ca0755d8f1fa282071f322952c6fcd9405ff98c807b4685ba8655"
+  },
+  "supergpqa_science__field_biology__model=qwen2_5_32b": {
+    "rendered_sha256": "d77caee68321f292057f8444d91fd488014829af8516a81551afd48eb1f1f5a1",
+    "token_ids_sha256": "810c3ad1e76e95293c8d19cceb723200fc7b4260f654d88b3bc3b271a16307aa"
+  },
+  "supergpqa_science__field_biology__model=qwen2_5_3b": {
+    "rendered_sha256": "d77caee68321f292057f8444d91fd488014829af8516a81551afd48eb1f1f5a1",
+    "token_ids_sha256": "810c3ad1e76e95293c8d19cceb723200fc7b4260f654d88b3bc3b271a16307aa"
+  },
+  "supergpqa_science__field_biology__model=qwen2_5_7b": {
+    "rendered_sha256": "d77caee68321f292057f8444d91fd488014829af8516a81551afd48eb1f1f5a1",
+    "token_ids_sha256": "810c3ad1e76e95293c8d19cceb723200fc7b4260f654d88b3bc3b271a16307aa"
+  },
+  "supergpqa_science__field_biology__model=qwen3_5_27b": {
+    "rendered_sha256": "922c49b26c3b41fcfa995c3a02797856300d0e6e9f3e63b943b2f1182d917424",
+    "token_ids_sha256": "0f2424fe439ae3010cc2a618fa46e2701e6a7c74ef143804ce359b721ce0e8f3"
+  },
+  "supergpqa_science__field_biology__model=qwen3_5_4b": {
+    "rendered_sha256": "922c49b26c3b41fcfa995c3a02797856300d0e6e9f3e63b943b2f1182d917424",
+    "token_ids_sha256": "0f2424fe439ae3010cc2a618fa46e2701e6a7c74ef143804ce359b721ce0e8f3"
+  },
+  "supergpqa_science__field_biology__model=qwen3_5_9b": {
+    "rendered_sha256": "922c49b26c3b41fcfa995c3a02797856300d0e6e9f3e63b943b2f1182d917424",
+    "token_ids_sha256": "0f2424fe439ae3010cc2a618fa46e2701e6a7c74ef143804ce359b721ce0e8f3"
+  },
+  "supergpqa_science__field_chemistry__model=qwen2_5_32b": {
+    "rendered_sha256": "18cd479a238d9bc4aeeac6b4f4c737ac1e3c518b1f39bdcd56dcae7f9471ce5b",
+    "token_ids_sha256": "69b3e2c53510ca3b4496fab1c025b200c6c3530a8d92e60bc74221e98f3984d4"
+  },
+  "supergpqa_science__field_chemistry__model=qwen2_5_3b": {
+    "rendered_sha256": "18cd479a238d9bc4aeeac6b4f4c737ac1e3c518b1f39bdcd56dcae7f9471ce5b",
+    "token_ids_sha256": "69b3e2c53510ca3b4496fab1c025b200c6c3530a8d92e60bc74221e98f3984d4"
+  },
+  "supergpqa_science__field_chemistry__model=qwen2_5_7b": {
+    "rendered_sha256": "18cd479a238d9bc4aeeac6b4f4c737ac1e3c518b1f39bdcd56dcae7f9471ce5b",
+    "token_ids_sha256": "69b3e2c53510ca3b4496fab1c025b200c6c3530a8d92e60bc74221e98f3984d4"
+  },
+  "supergpqa_science__field_chemistry__model=qwen3_5_27b": {
+    "rendered_sha256": "adff0c50e59f2508f79b45d3c12adccd413d89f7943b5a6b4ad3d391e3610799",
+    "token_ids_sha256": "ea6622124083e8cbddda9b463a82315cd4a5c5d992e793917b424ae48d698357"
+  },
+  "supergpqa_science__field_chemistry__model=qwen3_5_4b": {
+    "rendered_sha256": "adff0c50e59f2508f79b45d3c12adccd413d89f7943b5a6b4ad3d391e3610799",
+    "token_ids_sha256": "ea6622124083e8cbddda9b463a82315cd4a5c5d992e793917b424ae48d698357"
+  },
+  "supergpqa_science__field_chemistry__model=qwen3_5_9b": {
+    "rendered_sha256": "adff0c50e59f2508f79b45d3c12adccd413d89f7943b5a6b4ad3d391e3610799",
+    "token_ids_sha256": "ea6622124083e8cbddda9b463a82315cd4a5c5d992e793917b424ae48d698357"
+  },
+  "supergpqa_science__field_physics__model=qwen2_5_32b": {
+    "rendered_sha256": "0d94202e61fe0d6b426d062d768881b846df33c5377199cc0dcc92f7ce2adf86",
+    "token_ids_sha256": "687774e2350cba91e035b251188dc072aac36105060b16b59359f7c20236e29d"
+  },
+  "supergpqa_science__field_physics__model=qwen2_5_3b": {
+    "rendered_sha256": "0d94202e61fe0d6b426d062d768881b846df33c5377199cc0dcc92f7ce2adf86",
+    "token_ids_sha256": "687774e2350cba91e035b251188dc072aac36105060b16b59359f7c20236e29d"
+  },
+  "supergpqa_science__field_physics__model=qwen2_5_7b": {
+    "rendered_sha256": "0d94202e61fe0d6b426d062d768881b846df33c5377199cc0dcc92f7ce2adf86",
+    "token_ids_sha256": "687774e2350cba91e035b251188dc072aac36105060b16b59359f7c20236e29d"
+  },
+  "supergpqa_science__field_physics__model=qwen3_5_27b": {
+    "rendered_sha256": "ed9a80f698a10201df9950257a4983a8946963c00b8a07a7862fa9edcec5cd50",
+    "token_ids_sha256": "7dbf696a098e5fee3986374d8d41c4c38ca17823529512a5083603022c867fad"
+  },
+  "supergpqa_science__field_physics__model=qwen3_5_4b": {
+    "rendered_sha256": "ed9a80f698a10201df9950257a4983a8946963c00b8a07a7862fa9edcec5cd50",
+    "token_ids_sha256": "7dbf696a098e5fee3986374d8d41c4c38ca17823529512a5083603022c867fad"
+  },
+  "supergpqa_science__field_physics__model=qwen3_5_9b": {
+    "rendered_sha256": "ed9a80f698a10201df9950257a4983a8946963c00b8a07a7862fa9edcec5cd50",
+    "token_ids_sha256": "7dbf696a098e5fee3986374d8d41c4c38ca17823529512a5083603022c867fad"
+  }
+}

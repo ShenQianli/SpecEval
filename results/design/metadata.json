@@ -1,0 +1,63 @@
+{
+  "budgets": [
+    8,
+    16,
+    32,
+    64
+  ],
+  "en": {
+    "draws_per_profile_candidate": 8192,
+    "max_pilot": 63,
+    "selection": "post-hoc on the 107 evaluation profiles"
+  },
+  "hbn": {
+    "draws_per_replicate": 8192,
+    "max_pilot": 63,
+    "prior": {
+      "dispersion_a": 1.0,
+      "dispersion_b": 1.0,
+      "mu_a": 1.0,
+      "mu_b": 1.0
+    },
+    "replicates": 8
+  },
+  "ibn": {
+    "draws_per_replicate": 8192,
+    "max_pilot": 63,
+    "positive_alpha_grid": [
+      0.01,
+      0.02,
+      0.03,
+      0.04,
+      0.05,
+      0.06,
+      0.07,
+      0.08,
+      0.09,
+      0.1,
+      0.11,
+      0.12,
+      0.13,
+      0.14,
+      0.15,
+      0.16,
+      0.17,
+      0.18,
+      0.19,
+      0.2,
+      0.25,
+      0.5,
+      1.0
+    ],
+    "prior": "iid Beta(alpha, alpha), separately for each alpha",
+    "replicates": 8
+  },
+  "n_values": [
+    19,
+    30,
+    86,
+    93,
+    100
+  ],
+  "workers": 4
+}

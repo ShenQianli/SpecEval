@@ -1,0 +1,9 @@
+# Relative paths resolve from this YAML file, not the current working directory.
+model: qwen3_5_4b
+benchmark: aime24
+budget: 32
+strategy: hbn-async
+model_path: /path/to/Qwen3.5-4B
+output_dir: ../../packages/systems/runs
+gpu_ids: [0, 1, 2, 3, 4, 5, 6, 7]
+max_inflight_per_engine: 32

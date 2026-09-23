@@ -1,0 +1,23 @@
+{
+  "files": {
+    "configurations/profiles.json": "f25bca74d6ae25a2dee42beceaa0e664c1ca70d34055d5dd5145602e2f264bc7",
+    "design/en_candidates.csv": "642e02d3d9a71aa0c51a61e77b87aadd0b5136093167d8de8989053aa9180575",
+    "design/en_schedule.csv": "94d6077f55398733a57f412ae90a1db337581ed13c08c09e4026dd45c63531c3",
+    "design/hbn_candidates.csv": "ec2182868054ccc58245ac021bbdf3a5dad70c6a7d78953b96bfa82cb146a893",
+    "design/hbn_schedule.csv": "44a2e4c74893ff62e463ce1099f3b486ff5d93fac35f7ca0f9d3d297300d1c67",
+    "design/ibn_candidates.csv": "30a4efef7f17adb58fb82970be5b52da89a3d397bbe3994c2229e3fe12c982fe",
+    "design/ibn_schedule.csv": "8a72f278be6e072d7f15b2dd63d7576db5a86ce36f7a9a92b04902fa220bdb8b",
+    "design/metadata.json": "725abb59b09d79619bd98f691877bbb49ed2127b34b26a82cf3fe823597e0658",
+    "replay/en_pair_results.csv": "e268624e3bbe7c45a0e8aeda427f9899dabb6e4a80ca543c1d67101dc0478653",
+    "replay/hbn_pair_results.csv": "0669721fa26117fee305b0747bbe1736274542aa726a1ca70f5b8f4f7759fa02",
+    "replay/ibn_tuned_pair_results.csv": "f1ce9e52732277e4258ebfbc39df3edface6f508fee6807927fdfb719581c43c",
+    "replay/oracle_pair_results.csv": "54997106c04edac1489e6d97f2622d15151490dc68a155adef9544d334d6bf07",
+    "systems/architectures.json": "e5918569325d63a402cb5e6a1acd30eeefa873bcfc11d8f78879dd4085a1d5b3",
+    "systems/measurements.csv": "bf314404af501e2181ce2e42ae1b0a5daef415c6bdef9022b9fd65e9ffaa58fc",
+    "systems/uniform_equivalent_budgets.csv": "e50df4556ac32682917019025b51749d3a99cecaa4e5ad8e74470c4502d3726c",
+    "validation/core_source_sha256.json": "8d4c21f34051fb025784ded12a50dee1235406b66b5672fd9d4737f53b6d3b9f",
+    "validation/expected_identity.json": "7280ad81c18ade1dd47d5ab1e32c62eb28da9e41c93eb33c64a46aa656a857d0",
+    "validation/prompt_targets.json": "d6e62943f6d3d2d7670d063cf52023b34989a3a3ec8c167f90c020cfd3a195e6",
+    "validation/table1_targets.json": "8e783ccd95034e24f405410c7e4c3706242654c02461d62f8a1c5a7bbfd5613c"
+  }
+}

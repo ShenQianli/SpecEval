@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "benchmarks": {
+    "hle__text_only_sample100": {
+      "file": "hle__text_only_sample100.jsonl",
+      "sha256": "074cc232332ad3bb38e94782e58d4361f8211bad8f37051ca58fbbaeadbc66da",
+      "task_count": 100,
+      "source_artifact_sha256": "92517edfbfc9114d23442805ecb399b9b393acbbc33b5b075b4b3fe6a04d8ca9",
+      "source_repo": "cais/hle",
+      "source_split": "test"
+    },
+    "livecodebench_gt_2024_03_30__difficulty_easy": {
+      "file": "livecodebench_gt_2024_03_30__difficulty_easy.jsonl",
+      "sha256": "25047d7f94d751a3a90d87474f88954e0786c2f99cafc73802ffe9eabb27f5c3",
+      "task_count": 100,
+      "source_artifact_sha256": "85d1765268f240ffb795f7f61a863176ba760f2a8364534d3f95d912971b6f20",
+      "source_repo": "livecodebench/code_generation_lite",
+      "source_split": "test"
+    },
+    "livecodebench_gt_2024_03_30__difficulty_medium": {
+      "file": "livecodebench_gt_2024_03_30__difficulty_medium.jsonl",
+      "sha256": "ac79bc4f3449071fc36f9d0d8b8b39c97f08f475870db37baeb34e93fb6ccc97",
+      "task_count": 100,
+      "source_artifact_sha256": "be67e5387f96dd9a8c918f2280d0a2925de76d48c0be45b10ae9f30e16dd1256",
+      "source_repo": "livecodebench/code_generation_lite",
+      "source_split": "test"
+    },
+    "livecodebench_gt_2024_03_30__difficulty_hard": {
+      "file": "livecodebench_gt_2024_03_30__difficulty_hard.jsonl",
+      "sha256": "da04ead1fc5edf870ac345c6c5d97cf6a16755c6068d0adf1c145d21780d0697",
+      "task_count": 100,
+      "source_artifact_sha256": "ce70df6001fcb2951fa34dde8338cf54a892bb929a9dd32ca5e4be50de768dcc",
+      "source_repo": "livecodebench/code_generation_lite",
+      "source_split": "test"
+    },
+    "aime24": {
+      "file": "aime24.jsonl",
+      "sha256": "766e9f47d8beb8053ad3ffa5754b099485568314caf4024eb1000ab93e297225",
+      "task_count": 30,
+      "source_artifact_sha256": "66675268a74beba516b24e94426906b8730c38c3409f58ff683d252cf5aa2ce7",
+      "source_repo": "HuggingFaceH4/aime_2024",
+      "source_split": "train"
+    },
+    "aime25": {
+      "file": "aime25.jsonl",
+      "sha256": "d9a8d3bc15ac8a5019877babeae22ed1cf0fd4d69f43e3bbc5a399a086ada148",
+      "task_count": 30,
+      "source_artifact_sha256": "d1c55df74c08101affb1726619f51095598bde96aca7678bd85c064da961ce03",
+      "source_repo": "math-ai/aime25",
+      "source_split": "test"
+    },
+    "aime26": {
+      "file": "aime26.jsonl",
+      "sha256": "b7c438fc6fad0932aab21075b0896f295354fcdb65fc65da48d94b677aeaa6c0",
+      "task_count": 30,
+      "source_artifact_sha256": "56e23393f1be941bfca74c9c9d741357359ff8d577322de1069258845b84aaee",
+      "source_repo": "math-ai/aime26",
+      "source_split": "test"
+    },
+    "hmmt": {
+      "file": "hmmt.jsonl",
+      "sha256": "9340aa38351bfc5df41a0668eed6870cf7d4b9444ebdc75baff41bf1e9149dd6",
+      "task_count": 30,
+      "source_artifact_sha256": "39d5fa65a5c1cda6a250eeaa7593debc15fb6d486048a44940118de416a2e39c",
+      "source_repo": "MathArena/hmmt_feb_2025",
+      "source_split": "train"
+    },
+    "math_100": {
+      "file": "math_100.jsonl",
+      "sha256": "e79586ec849534a18c1285de9b8304500c1e331cfac10871da4fce960e4a4d5b",
+      "task_count": 100,
+      "source_artifact_sha256": "0865d194120a859996607e4e7530316a90533bba154b875598eeaf4c293e9a2a",
+      "source_repo": "HuggingFaceH4/MATH-500",
+      "source_split": "test"
+    },
+    "gpqa_diamond__domain_biology": {
+      "file": "gpqa_diamond__domain_biology.jsonl",
+      "sha256": "0dbb14b6934a6e7daa00b9445355256cd083e92097e765fb5b6d259cecada90a",
+      "task_count": 19,
+      "source_artifact_sha256": "88863508a9ad455f96bb773d44171f4a43afa8f67fa5509dfc9b1a5d20c35fc4",
+      "source_repo": "Idavidrein/gpqa",
+      "source_split": "test"
+    },
+    "gpqa_diamond__domain_chemistry": {
+      "file": "gpqa_diamond__domain_chemistry.jsonl",
+      "sha256": "76bd32030b78fe03ee4eb583ad57540d80c5e97f2cd090c78f4439066de1e6f8",
+      "task_count": 93,
+      "source_artifact_sha256": "fc8bcfc23b5d355b9df17c136b9978eec2203e4dcc1c8ed8915fd3e1b8671f76",
+      "source_repo": "Idavidrein/gpqa",
+      "source_split": "test"
+    },
+    "gpqa_diamond__domain_physics": {
+      "file": "gpqa_diamond__domain_physics.jsonl",
+      "sha256": "09479868ddf2effbb0e1548675329046e74a170b8a4ec42c3ff641614dc82be4",
+      "task_count": 86,
+      "source_artifact_sha256": "d80464395597d9c18ec57169c3bc29655f33b5b787a514e1cc8603dedcf2745d",
+      "source_repo": "Idavidrein/gpqa",
+      "source_split": "test"
+    },
+    "supergpqa_science__field_biology": {
+      "file": "supergpqa_science__field_biology.jsonl",
+      "sha256": "557c1ea9270181848ef9c9fb7b80b738d9a70981b306281ba7cf54525e6e2c6e",
+      "task_count": 100,
+      "source_artifact_sha256": "f72da0fbbeb13cdc1a7f2e45311f4b32935c59b308fddd5bdabba4f8b5f52ffe",
+      "source_repo": "m-a-p/SuperGPQA",
+      "source_split": "test"
+    },
+    "supergpqa_science__field_chemistry": {
+      "file": "supergpqa_science__field_chemistry.jsonl",
+      "sha256": "9efeb4d714fd4b6377f2bb18ba2fe9e81722e4b9b3040544273fc412be7ad75d",
+      "task_count": 100,
+      "source_artifact_sha256": "f24da15a38f2eba23f36cf728124f4a758ebd3779d308577a227b2be580c9ed8",
+      "source_repo": "m-a-p/SuperGPQA",
+      "source_split": "test"
+    },
+    "supergpqa_science__field_physics": {
+      "file": "supergpqa_science__field_physics.jsonl",
+      "sha256": "0117e6178b93e03dcedf4d5ad0bcefdf2d9fc2e423963260a2bf325b56109949",
+      "task_count": 100,
+      "source_artifact_sha256": "663336f8d622a63397e36e431ef35845b4ab6bc8c3b6b2d781be7dabc73dc7e1",
+      "source_repo": "m-a-p/SuperGPQA",
+      "source_split": "test"
+    },
+    "mmlu_science__subject_college_biology": {
+      "file": "mmlu_science__subject_college_biology.jsonl",
+      "sha256": "fa9035dfe87dc12db55ffdd60618465f472b5101c9df4b48789cb04fd13053b6",
+      "task_count": 100,
+      "source_artifact_sha256": "d5c0fc5e0ab08c87f7dc72beeab32b916142b9b06b3748b210d3ce379c78ddad",
+      "source_repo": "cais/mmlu",
+      "source_split": "test"
+    },
+    "mmlu_science__subject_college_chemistry": {
+      "file": "mmlu_science__subject_college_chemistry.jsonl",
+      "sha256": "6f5749d33d6efe8f650c997fe81c1c199824b8acd2abfd9d0050a9b1b916e91c",
+      "task_count": 100,
+      "source_artifact_sha256": "0194e497fee2f5957be018023961520a15437130e7e7266acaff2a4f2bccc36b",
+      "source_repo": "cais/mmlu",
+      "source_split": "test"
+    },
+    "mmlu_science__subject_college_physics": {
+      "file": "mmlu_science__subject_college_physics.jsonl",
+      "sha256": "429753a0a80c412d1affee7b91ae25529b6b0a461bfdc2810d0e5c71b575901b",
+      "task_count": 100,
+      "source_artifact_sha256": "7ad7f1deb5b9527fc15d11aa20c6ea7141ed655fc2f9376d8f0a5f9dfa91ca37",
+      "source_repo": "cais/mmlu",
+      "source_split": "test"
+    }
+  }
+}

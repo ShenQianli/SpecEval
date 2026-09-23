@@ -1,0 +1,978 @@
+{
+  "schema_version": 1,
+  "artifact_count": 108,
+  "artifacts": [
+    {
+      "file": "benchmark=aime24__model=qwen2_5_32b.json",
+      "benchmark_id": "aime24",
+      "model_alias": "qwen2_5_32b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "evalchemy_hendrycks_math_v1",
+      "sha256": "14c610bb1619e147f43444c0007b0b8e623d0feb1c56e2624a64c73d1dedac6e"
+    },
+    {
+      "file": "benchmark=aime24__model=qwen2_5_3b.json",
+      "benchmark_id": "aime24",
+      "model_alias": "qwen2_5_3b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "evalchemy_hendrycks_math_v1",
+      "sha256": "2cc4dd555efa2b3f35d193c7162601b5ad52840ce537d9c09952cbc545b3a9f7"
+    },
+    {
+      "file": "benchmark=aime24__model=qwen2_5_7b.json",
+      "benchmark_id": "aime24",
+      "model_alias": "qwen2_5_7b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "evalchemy_hendrycks_math_v1",
+      "sha256": "259202e437b4c88bd517be92b31a2d2fd3e612d767de2bb49db0874a231602c1"
+    },
+    {
+      "file": "benchmark=aime24__model=qwen3_5_27b.json",
+      "benchmark_id": "aime24",
+      "model_alias": "qwen3_5_27b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "evalchemy_hendrycks_math_v1",
+      "sha256": "a5acb9bb516bc0db8c2a02aed1b57e711edaa8cac080f931b723d5481fa50de2"
+    },
+    {
+      "file": "benchmark=aime24__model=qwen3_5_4b.json",
+      "benchmark_id": "aime24",
+      "model_alias": "qwen3_5_4b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "evalchemy_hendrycks_math_v1",
+      "sha256": "8198849776615c82d8817076d59fd8291155cf7af27e6d10235a03f21c1e3748"
+    },
+    {
+      "file": "benchmark=aime24__model=qwen3_5_9b.json",
+      "benchmark_id": "aime24",
+      "model_alias": "qwen3_5_9b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "evalchemy_hendrycks_math_v1",
+      "sha256": "0bc8732e3e50b564d13d68b43307ba7612330260babb46eb58756b0f9ce4023a"
+    },
+    {
+      "file": "benchmark=aime25__model=qwen2_5_32b.json",
+      "benchmark_id": "aime25",
+      "model_alias": "qwen2_5_32b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "evalchemy_hendrycks_math_v1",
+      "sha256": "a67e84b68f21a260be2a31a883d4c9fd79578cf80e5aa1437c9011f1ae65daf4"
+    },
+    {
+      "file": "benchmark=aime25__model=qwen2_5_3b.json",
+      "benchmark_id": "aime25",
+      "model_alias": "qwen2_5_3b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "evalchemy_hendrycks_math_v1",
+      "sha256": "1706f451595d07e042adaac9bed2f49bbce2979171fddd81e1171f5995b9f884"
+    },
+    {
+      "file": "benchmark=aime25__model=qwen2_5_7b.json",
+      "benchmark_id": "aime25",
+      "model_alias": "qwen2_5_7b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "evalchemy_hendrycks_math_v1",
+      "sha256": "2b55f1be53889098fa6ee65404ba8312bd51e3e5b6341ee65d6952cb11401c68"
+    },
+    {
+      "file": "benchmark=aime25__model=qwen3_5_27b.json",
+      "benchmark_id": "aime25",
+      "model_alias": "qwen3_5_27b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "evalchemy_hendrycks_math_v1",
+      "sha256": "7286c0387e2e6908b510564f3a262c025e3aec35c02687d7aec84c1218c0502f"
+    },
+    {
+      "file": "benchmark=aime25__model=qwen3_5_4b.json",
+      "benchmark_id": "aime25",
+      "model_alias": "qwen3_5_4b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "evalchemy_hendrycks_math_v1",
+      "sha256": "25096df1e7d0e0316d84f2538520009e8f307870a45d4cafbc793fe97567fd32"
+    },
+    {
+      "file": "benchmark=aime25__model=qwen3_5_9b.json",
+      "benchmark_id": "aime25",
+      "model_alias": "qwen3_5_9b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "evalchemy_hendrycks_math_v1",
+      "sha256": "1d68081fc6f6b3342c88ae63bab66d36176c8b1c5c48b715f32d884bf4947729"
+    },
+    {
+      "file": "benchmark=aime26__model=qwen2_5_32b.json",
+      "benchmark_id": "aime26",
+      "model_alias": "qwen2_5_32b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "evalchemy_hendrycks_math_v1",
+      "sha256": "4448dfc8ffd78700be1a347057fcf5a1e465f903df39ff00ece4626fd60a6df7"
+    },
+    {
+      "file": "benchmark=aime26__model=qwen2_5_3b.json",
+      "benchmark_id": "aime26",
+      "model_alias": "qwen2_5_3b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "evalchemy_hendrycks_math_v1",
+      "sha256": "549666584a26d9abb9c43d92ce2be154e27208d78b7be547984f2fadf38af3dc"
+    },
+    {
+      "file": "benchmark=aime26__model=qwen2_5_7b.json",
+      "benchmark_id": "aime26",
+      "model_alias": "qwen2_5_7b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "evalchemy_hendrycks_math_v1",
+      "sha256": "d28c3d0202cf919c6bedcf22d7cabce179baf2ba522b8f82ccf29d52973f0aa4"
+    },
+    {
+      "file": "benchmark=aime26__model=qwen3_5_27b.json",
+      "benchmark_id": "aime26",
+      "model_alias": "qwen3_5_27b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "evalchemy_hendrycks_math_v1",
+      "sha256": "603d87d57a82e7c6523cee94267e5631e7cffba318fcf82921e43e81944d60fa"
+    },
+    {
+      "file": "benchmark=aime26__model=qwen3_5_4b.json",
+      "benchmark_id": "aime26",
+      "model_alias": "qwen3_5_4b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "evalchemy_hendrycks_math_v1",
+      "sha256": "9ba6b87831b3368227a2747d283e67319c3143df15dba99fb19eb74d85030ceb"
+    },
+    {
+      "file": "benchmark=aime26__model=qwen3_5_9b.json",
+      "benchmark_id": "aime26",
+      "model_alias": "qwen3_5_9b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "evalchemy_hendrycks_math_v1",
+      "sha256": "51ea2170186d7ae36cfa42651da2f589f493a7feb4558b4dd2059c64ad12f230"
+    },
+    {
+      "file": "benchmark=gpqa_diamond__domain_biology__model=qwen2_5_32b.json",
+      "benchmark_id": "gpqa_diamond__domain_biology",
+      "model_alias": "qwen2_5_32b",
+      "tested_k": 1024,
+      "task_count": 19,
+      "scorer_version": "gpqa_diamond_row_seeded_conservative_choice_v2",
+      "sha256": "a50d088fb33c291339de08914e0eec1d3ab9dd9f5a0b94f26c7bd59ed8f91038"
+    },
+    {
+      "file": "benchmark=gpqa_diamond__domain_biology__model=qwen2_5_3b.json",
+      "benchmark_id": "gpqa_diamond__domain_biology",
+      "model_alias": "qwen2_5_3b",
+      "tested_k": 1024,
+      "task_count": 19,
+      "scorer_version": "gpqa_diamond_row_seeded_conservative_choice_v2",
+      "sha256": "1ff13e505c446e70f1cb3ecac6473c02a1fa98f059b65e1292614050e8e4a883"
+    },
+    {
+      "file": "benchmark=gpqa_diamond__domain_biology__model=qwen2_5_7b.json",
+      "benchmark_id": "gpqa_diamond__domain_biology",
+      "model_alias": "qwen2_5_7b",
+      "tested_k": 1024,
+      "task_count": 19,
+      "scorer_version": "gpqa_diamond_row_seeded_conservative_choice_v2",
+      "sha256": "b2adf630957bf09ac7cd0da949b999519c006a63ec3eac8c02ea0343a91c4e44"
+    },
+    {
+      "file": "benchmark=gpqa_diamond__domain_biology__model=qwen3_5_27b.json",
+      "benchmark_id": "gpqa_diamond__domain_biology",
+      "model_alias": "qwen3_5_27b",
+      "tested_k": 1024,
+      "task_count": 19,
+      "scorer_version": "gpqa_diamond_row_seeded_conservative_choice_v2",
+      "sha256": "6d5b01e5aadad03e616e18578e9b0cf2d4e1d9ae9ddefe7f040f5e3402eacb69"
+    },
+    {
+      "file": "benchmark=gpqa_diamond__domain_biology__model=qwen3_5_4b.json",
+      "benchmark_id": "gpqa_diamond__domain_biology",
+      "model_alias": "qwen3_5_4b",
+      "tested_k": 1024,
+      "task_count": 19,
+      "scorer_version": "gpqa_diamond_row_seeded_conservative_choice_v2",
+      "sha256": "a10241a60d5e661a94aec933f26098addb44b6e9ad69eed040a2a6f402a7788b"
+    },
+    {
+      "file": "benchmark=gpqa_diamond__domain_biology__model=qwen3_5_9b.json",
+      "benchmark_id": "gpqa_diamond__domain_biology",
+      "model_alias": "qwen3_5_9b",
+      "tested_k": 1024,
+      "task_count": 19,
+      "scorer_version": "gpqa_diamond_row_seeded_conservative_choice_v2",
+      "sha256": "b34d8cbd6d7bc4c7d2350a37095d3f0e343e55125efb4c1b656b170ca533f731"
+    },
+    {
+      "file": "benchmark=gpqa_diamond__domain_chemistry__model=qwen2_5_32b.json",
+      "benchmark_id": "gpqa_diamond__domain_chemistry",
+      "model_alias": "qwen2_5_32b",
+      "tested_k": 1024,
+      "task_count": 93,
+      "scorer_version": "gpqa_diamond_row_seeded_conservative_choice_v2",
+      "sha256": "4e5210a1ca3a99966fa7cf591d9f58c72eb3c402038b4932173aed523a0bc720"
+    },
+    {
+      "file": "benchmark=gpqa_diamond__domain_chemistry__model=qwen2_5_3b.json",
+      "benchmark_id": "gpqa_diamond__domain_chemistry",
+      "model_alias": "qwen2_5_3b",
+      "tested_k": 1024,
+      "task_count": 93,
+      "scorer_version": "gpqa_diamond_row_seeded_conservative_choice_v2",
+      "sha256": "7c979fa4497dd311315f39e4bd6cc04ecb77d9150c7a6e85394f15058b07d041"
+    },
+    {
+      "file": "benchmark=gpqa_diamond__domain_chemistry__model=qwen2_5_7b.json",
+      "benchmark_id": "gpqa_diamond__domain_chemistry",
+      "model_alias": "qwen2_5_7b",
+      "tested_k": 1024,
+      "task_count": 93,
+      "scorer_version": "gpqa_diamond_row_seeded_conservative_choice_v2",
+      "sha256": "933022e3d376ebb4b2fb797b93a7bb7ff1c762f525f0745efa75c661ece78346"
+    },
+    {
+      "file": "benchmark=gpqa_diamond__domain_chemistry__model=qwen3_5_27b.json",
+      "benchmark_id": "gpqa_diamond__domain_chemistry",
+      "model_alias": "qwen3_5_27b",
+      "tested_k": 1024,
+      "task_count": 93,
+      "scorer_version": "gpqa_diamond_row_seeded_conservative_choice_v2",
+      "sha256": "58fb6fa592f76b6f2e0deeeaeb1c76e015ba41be807ae9c6c7e83d8260b0beca"
+    },
+    {
+      "file": "benchmark=gpqa_diamond__domain_chemistry__model=qwen3_5_4b.json",
+      "benchmark_id": "gpqa_diamond__domain_chemistry",
+      "model_alias": "qwen3_5_4b",
+      "tested_k": 1024,
+      "task_count": 93,
+      "scorer_version": "gpqa_diamond_row_seeded_conservative_choice_v2",
+      "sha256": "e714116f1474098df1ab4402472c304eeaa0dab5298f724cb8bf1fcafd5472e2"
+    },
+    {
+      "file": "benchmark=gpqa_diamond__domain_chemistry__model=qwen3_5_9b.json",
+      "benchmark_id": "gpqa_diamond__domain_chemistry",
+      "model_alias": "qwen3_5_9b",
+      "tested_k": 1024,
+      "task_count": 93,
+      "scorer_version": "gpqa_diamond_row_seeded_conservative_choice_v2",
+      "sha256": "de3506d254ca80710dd360af486cdea66201cf533744821d35f0fdf002824968"
+    },
+    {
+      "file": "benchmark=gpqa_diamond__domain_physics__model=qwen2_5_32b.json",
+      "benchmark_id": "gpqa_diamond__domain_physics",
+      "model_alias": "qwen2_5_32b",
+      "tested_k": 1024,
+      "task_count": 86,
+      "scorer_version": "gpqa_diamond_row_seeded_conservative_choice_v2",
+      "sha256": "ca4f67a663afa05a2de330564a46a12726412e3e1d74338a20ac9cb4ce5d8458"
+    },
+    {
+      "file": "benchmark=gpqa_diamond__domain_physics__model=qwen2_5_3b.json",
+      "benchmark_id": "gpqa_diamond__domain_physics",
+      "model_alias": "qwen2_5_3b",
+      "tested_k": 1024,
+      "task_count": 86,
+      "scorer_version": "gpqa_diamond_row_seeded_conservative_choice_v2",
+      "sha256": "2d9833aa9fb172f4972b04ce663919723aa457ccb3d48fde67f20906a42d0ae3"
+    },
+    {
+      "file": "benchmark=gpqa_diamond__domain_physics__model=qwen2_5_7b.json",
+      "benchmark_id": "gpqa_diamond__domain_physics",
+      "model_alias": "qwen2_5_7b",
+      "tested_k": 1024,
+      "task_count": 86,
+      "scorer_version": "gpqa_diamond_row_seeded_conservative_choice_v2",
+      "sha256": "f86a2880a67b838adade9ce790936fb66ad910868634880c99d3cbb6893ad5dc"
+    },
+    {
+      "file": "benchmark=gpqa_diamond__domain_physics__model=qwen3_5_27b.json",
+      "benchmark_id": "gpqa_diamond__domain_physics",
+      "model_alias": "qwen3_5_27b",
+      "tested_k": 1024,
+      "task_count": 86,
+      "scorer_version": "gpqa_diamond_row_seeded_conservative_choice_v2",
+      "sha256": "6732d420fa18c10fdc888cce7c9d0e96bebd468e137311188184762683cdb7c9"
+    },
+    {
+      "file": "benchmark=gpqa_diamond__domain_physics__model=qwen3_5_4b.json",
+      "benchmark_id": "gpqa_diamond__domain_physics",
+      "model_alias": "qwen3_5_4b",
+      "tested_k": 1024,
+      "task_count": 86,
+      "scorer_version": "gpqa_diamond_row_seeded_conservative_choice_v2",
+      "sha256": "e540ecf644c11f371f6216b0ecfe502e7e31de88f8803020e89f6a229f4a3311"
+    },
+    {
+      "file": "benchmark=gpqa_diamond__domain_physics__model=qwen3_5_9b.json",
+      "benchmark_id": "gpqa_diamond__domain_physics",
+      "model_alias": "qwen3_5_9b",
+      "tested_k": 1024,
+      "task_count": 86,
+      "scorer_version": "gpqa_diamond_row_seeded_conservative_choice_v2",
+      "sha256": "64143febc2ba36f9f9392d67c0c9f5b0c579723bea4bdfec3566a96511e3e108"
+    },
+    {
+      "file": "benchmark=hle__text_only_sample100__model=qwen2_5_32b.json",
+      "benchmark_id": "hle__text_only_sample100",
+      "model_alias": "qwen2_5_32b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "cais_hle_73ae974_text100_judge_qwen3_6_35b_a3b_local_v2_488ea0f42595",
+      "sha256": "0aff43d19e37d5702c8840a5cd28b3a604e357ea104d8771a1b6e39a30e0e8ae"
+    },
+    {
+      "file": "benchmark=hle__text_only_sample100__model=qwen2_5_3b.json",
+      "benchmark_id": "hle__text_only_sample100",
+      "model_alias": "qwen2_5_3b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "cais_hle_73ae974_text100_judge_qwen3_6_35b_a3b_local_v2_488ea0f42595",
+      "sha256": "048368799abd308ad5859874f6e65f2feddc66ef370bfeafe0497b427e51235b"
+    },
+    {
+      "file": "benchmark=hle__text_only_sample100__model=qwen2_5_7b.json",
+      "benchmark_id": "hle__text_only_sample100",
+      "model_alias": "qwen2_5_7b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "cais_hle_73ae974_text100_judge_qwen3_6_35b_a3b_local_v2_488ea0f42595",
+      "sha256": "1551e05ca574f6633cbef52c885918c34a48caa537cc3b6bef54cbaa1f84cfb7"
+    },
+    {
+      "file": "benchmark=hle__text_only_sample100__model=qwen3_5_27b.json",
+      "benchmark_id": "hle__text_only_sample100",
+      "model_alias": "qwen3_5_27b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "cais_hle_73ae974_text100_judge_qwen3_6_35b_a3b_local_v2_488ea0f42595",
+      "sha256": "2eb5eb3ceac87b3f64a9087e90dcd2ae642e7f1ed920726dd0c5d7a8f5edad4f"
+    },
+    {
+      "file": "benchmark=hle__text_only_sample100__model=qwen3_5_4b.json",
+      "benchmark_id": "hle__text_only_sample100",
+      "model_alias": "qwen3_5_4b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "cais_hle_73ae974_text100_judge_qwen3_6_35b_a3b_local_v2_488ea0f42595",
+      "sha256": "5854dc4f4598175a3e9a7add16821cb56180a18630fd42b58e25484e81ae0d2e"
+    },
+    {
+      "file": "benchmark=hle__text_only_sample100__model=qwen3_5_9b.json",
+      "benchmark_id": "hle__text_only_sample100",
+      "model_alias": "qwen3_5_9b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "cais_hle_73ae974_text100_judge_qwen3_6_35b_a3b_local_v2_488ea0f42595",
+      "sha256": "1ed7bbfb0fc1431eea3a6b21390adf534d16a95bdf5fd91eef84fbc87b54e68d"
+    },
+    {
+      "file": "benchmark=hmmt__model=qwen2_5_32b.json",
+      "benchmark_id": "hmmt",
+      "model_alias": "qwen2_5_32b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "ade_hmmt_matharena_v1",
+      "sha256": "fbb68565fbba88dc72f36bc64c492b4019b5854f68e661dfc7814ebd75a9efff"
+    },
+    {
+      "file": "benchmark=hmmt__model=qwen2_5_3b.json",
+      "benchmark_id": "hmmt",
+      "model_alias": "qwen2_5_3b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "ade_hmmt_matharena_v1",
+      "sha256": "f0908480c4e6a0ae278175ccce8c7d4829176e336e13673918d3c1b7bf7c4d6b"
+    },
+    {
+      "file": "benchmark=hmmt__model=qwen2_5_7b.json",
+      "benchmark_id": "hmmt",
+      "model_alias": "qwen2_5_7b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "ade_hmmt_matharena_v1",
+      "sha256": "466296f932be0b3787a5d5f813a77640d688993d2556fcf1b5df326ffa742455"
+    },
+    {
+      "file": "benchmark=hmmt__model=qwen3_5_27b.json",
+      "benchmark_id": "hmmt",
+      "model_alias": "qwen3_5_27b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "ade_hmmt_matharena_v1",
+      "sha256": "6bad24d39e5eaf45e5e1067ea2618db95a34a4ec252a8fd44729aadc388bd050"
+    },
+    {
+      "file": "benchmark=hmmt__model=qwen3_5_4b.json",
+      "benchmark_id": "hmmt",
+      "model_alias": "qwen3_5_4b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "ade_hmmt_matharena_v1",
+      "sha256": "c617a95a880d278df7619f6a08e0102b6d837b63e96b7b22177299ddd7ccbf4c"
+    },
+    {
+      "file": "benchmark=hmmt__model=qwen3_5_9b.json",
+      "benchmark_id": "hmmt",
+      "model_alias": "qwen3_5_9b",
+      "tested_k": 1024,
+      "task_count": 30,
+      "scorer_version": "ade_hmmt_matharena_v1",
+      "sha256": "513bdb3a36f876c5e65275f5447dc4356938b8d01bf61d612eeccdffb9332260"
+    },
+    {
+      "file": "benchmark=livecodebench_gt_2024_03_30__difficulty_easy__model=qwen2_5_32b.json",
+      "benchmark_id": "livecodebench_gt_2024_03_30__difficulty_easy",
+      "model_alias": "qwen2_5_32b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_livecodebench_release_v5_runner_v3",
+      "sha256": "fba15a380a70d0e314b5c773f56c85ecb0f4beda9e591eba8a2e55a51c458772"
+    },
+    {
+      "file": "benchmark=livecodebench_gt_2024_03_30__difficulty_easy__model=qwen2_5_3b.json",
+      "benchmark_id": "livecodebench_gt_2024_03_30__difficulty_easy",
+      "model_alias": "qwen2_5_3b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_livecodebench_release_v5_runner_v3",
+      "sha256": "8ddaa41acb48d90a4af15fd096121d22a093d06c0fa80ff0cfccafe780cd9606"
+    },
+    {
+      "file": "benchmark=livecodebench_gt_2024_03_30__difficulty_easy__model=qwen2_5_7b.json",
+      "benchmark_id": "livecodebench_gt_2024_03_30__difficulty_easy",
+      "model_alias": "qwen2_5_7b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_livecodebench_release_v5_runner_v3",
+      "sha256": "7eedfad2995581ec1e4c60cfa296f761ba33394970d9ab205f0869d6cf01abba"
+    },
+    {
+      "file": "benchmark=livecodebench_gt_2024_03_30__difficulty_easy__model=qwen3_5_27b.json",
+      "benchmark_id": "livecodebench_gt_2024_03_30__difficulty_easy",
+      "model_alias": "qwen3_5_27b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_livecodebench_release_v5_runner_v3",
+      "sha256": "c1f6214bb44bbeef4aab5a585f0fb7e91bb941becaa8d4affa7f3901a5a7d183"
+    },
+    {
+      "file": "benchmark=livecodebench_gt_2024_03_30__difficulty_easy__model=qwen3_5_4b.json",
+      "benchmark_id": "livecodebench_gt_2024_03_30__difficulty_easy",
+      "model_alias": "qwen3_5_4b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_livecodebench_release_v5_runner_v3",
+      "sha256": "e552d7157b94e03eb6f7ca7d706d37157e06b112136b3f97c1b63d0ad24c0f27"
+    },
+    {
+      "file": "benchmark=livecodebench_gt_2024_03_30__difficulty_easy__model=qwen3_5_9b.json",
+      "benchmark_id": "livecodebench_gt_2024_03_30__difficulty_easy",
+      "model_alias": "qwen3_5_9b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_livecodebench_release_v5_runner_v3",
+      "sha256": "64175e67b84d007487752e5476ff541115d11f312a7384d20274abdbffe55d62"
+    },
+    {
+      "file": "benchmark=livecodebench_gt_2024_03_30__difficulty_hard__model=qwen2_5_32b.json",
+      "benchmark_id": "livecodebench_gt_2024_03_30__difficulty_hard",
+      "model_alias": "qwen2_5_32b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_livecodebench_release_v5_runner_v3",
+      "sha256": "0d076aed01f8004c255c82a778628e1dff48ab9c3bd54930c8991fbe6206f08e"
+    },
+    {
+      "file": "benchmark=livecodebench_gt_2024_03_30__difficulty_hard__model=qwen2_5_3b.json",
+      "benchmark_id": "livecodebench_gt_2024_03_30__difficulty_hard",
+      "model_alias": "qwen2_5_3b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_livecodebench_release_v5_runner_v3",
+      "sha256": "618ff62a82f05ce53239a1ec2fe7eff9e94d1e36d1e70bedba801bd81bce6a99"
+    },
+    {
+      "file": "benchmark=livecodebench_gt_2024_03_30__difficulty_hard__model=qwen2_5_7b.json",
+      "benchmark_id": "livecodebench_gt_2024_03_30__difficulty_hard",
+      "model_alias": "qwen2_5_7b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_livecodebench_release_v5_runner_v3",
+      "sha256": "df58c1db0b66cc680e0bda0ffd888c73d69f49ef5ad43a741ff2c609a82ffd9c"
+    },
+    {
+      "file": "benchmark=livecodebench_gt_2024_03_30__difficulty_hard__model=qwen3_5_27b.json",
+      "benchmark_id": "livecodebench_gt_2024_03_30__difficulty_hard",
+      "model_alias": "qwen3_5_27b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_livecodebench_release_v5_runner_v3",
+      "sha256": "cbc52b24104cd1d8c5ea03ed5faa9a686e4a07221dd944c8e74522b4440b158e"
+    },
+    {
+      "file": "benchmark=livecodebench_gt_2024_03_30__difficulty_hard__model=qwen3_5_4b.json",
+      "benchmark_id": "livecodebench_gt_2024_03_30__difficulty_hard",
+      "model_alias": "qwen3_5_4b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_livecodebench_release_v5_runner_v3",
+      "sha256": "0200d9033c66b4a7c7954ebc4febae0844bbcd5974772c9e0e500e3a47eac93d"
+    },
+    {
+      "file": "benchmark=livecodebench_gt_2024_03_30__difficulty_hard__model=qwen3_5_9b.json",
+      "benchmark_id": "livecodebench_gt_2024_03_30__difficulty_hard",
+      "model_alias": "qwen3_5_9b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_livecodebench_release_v5_runner_v3",
+      "sha256": "f6552fa6e0f2571e05393d31715c7750593e2acbce16af0321272708a2556675"
+    },
+    {
+      "file": "benchmark=livecodebench_gt_2024_03_30__difficulty_medium__model=qwen2_5_32b.json",
+      "benchmark_id": "livecodebench_gt_2024_03_30__difficulty_medium",
+      "model_alias": "qwen2_5_32b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_livecodebench_release_v5_runner_v3",
+      "sha256": "458af5c70c0e72fd16187222a361a65df89bfb4bf072561fe054a633040b3954"
+    },
+    {
+      "file": "benchmark=livecodebench_gt_2024_03_30__difficulty_medium__model=qwen2_5_3b.json",
+      "benchmark_id": "livecodebench_gt_2024_03_30__difficulty_medium",
+      "model_alias": "qwen2_5_3b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_livecodebench_release_v5_runner_v3",
+      "sha256": "e03e23969b4e9baeb510c694a4b8f4d199708e4b5e61f8fed4356e9acf16e1b2"
+    },
+    {
+      "file": "benchmark=livecodebench_gt_2024_03_30__difficulty_medium__model=qwen2_5_7b.json",
+      "benchmark_id": "livecodebench_gt_2024_03_30__difficulty_medium",
+      "model_alias": "qwen2_5_7b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_livecodebench_release_v5_runner_v3",
+      "sha256": "788baa0764b39ae3baa36293cb04170f4180e15c9db853a0b56828e7317e205e"
+    },
+    {
+      "file": "benchmark=livecodebench_gt_2024_03_30__difficulty_medium__model=qwen3_5_27b.json",
+      "benchmark_id": "livecodebench_gt_2024_03_30__difficulty_medium",
+      "model_alias": "qwen3_5_27b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_livecodebench_release_v5_runner_v3",
+      "sha256": "3ee68f71e3bf0e44833d62155528e116f7fd237c847647d73ad73bca1460ea0c"
+    },
+    {
+      "file": "benchmark=livecodebench_gt_2024_03_30__difficulty_medium__model=qwen3_5_4b.json",
+      "benchmark_id": "livecodebench_gt_2024_03_30__difficulty_medium",
+      "model_alias": "qwen3_5_4b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_livecodebench_release_v5_runner_v3",
+      "sha256": "fe267e55e71c446c4c65df6f886a1027d36d93fd745423c5324e15ad4a9d1c74"
+    },
+    {
+      "file": "benchmark=livecodebench_gt_2024_03_30__difficulty_medium__model=qwen3_5_9b.json",
+      "benchmark_id": "livecodebench_gt_2024_03_30__difficulty_medium",
+      "model_alias": "qwen3_5_9b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_livecodebench_release_v5_runner_v3",
+      "sha256": "c7359593ed1f67755332e83058dfcad8c05accde959505008edbdecafe1344eb"
+    },
+    {
+      "file": "benchmark=math_100__model=qwen2_5_32b.json",
+      "benchmark_id": "math_100",
+      "model_alias": "qwen2_5_32b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "evalchemy_math500_6ed6741_v1",
+      "sha256": "8ee8be09b6468e3268cfca4a9a958706592d45604e612a9ccada2374300dcd13"
+    },
+    {
+      "file": "benchmark=math_100__model=qwen2_5_3b.json",
+      "benchmark_id": "math_100",
+      "model_alias": "qwen2_5_3b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "evalchemy_math500_6ed6741_v1",
+      "sha256": "acb59a5b7b7eddbc9ad76c25a77b9e06dc035fdacde9c38e63da55aaaced9db7"
+    },
+    {
+      "file": "benchmark=math_100__model=qwen2_5_7b.json",
+      "benchmark_id": "math_100",
+      "model_alias": "qwen2_5_7b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "evalchemy_math500_6ed6741_v1",
+      "sha256": "8fe32e4043e1f900e488749374f533827dcfb65396d50400d3d5fb198c56ab29"
+    },
+    {
+      "file": "benchmark=math_100__model=qwen3_5_27b.json",
+      "benchmark_id": "math_100",
+      "model_alias": "qwen3_5_27b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "evalchemy_math500_6ed6741_v1",
+      "sha256": "84c6303eee1c05708839999c1cff44757cf535e727ea81a2ba3ff957e3090719"
+    },
+    {
+      "file": "benchmark=math_100__model=qwen3_5_4b.json",
+      "benchmark_id": "math_100",
+      "model_alias": "qwen3_5_4b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "evalchemy_math500_6ed6741_v1",
+      "sha256": "76dd8e3a729190a3b8fef36501b9b784b7c1c85b2ee64ac4ee4a8c9b9e9e2ba5"
+    },
+    {
+      "file": "benchmark=math_100__model=qwen3_5_9b.json",
+      "benchmark_id": "math_100",
+      "model_alias": "qwen3_5_9b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "evalchemy_math500_6ed6741_v1",
+      "sha256": "cdac6762503b3c57817ec364417a9a18d62e0b1187a73f9ce1d6b6c15998d30d"
+    },
+    {
+      "file": "benchmark=mmlu_science__subject_college_biology__model=qwen2_5_32b.json",
+      "benchmark_id": "mmlu_science__subject_college_biology",
+      "model_alias": "qwen2_5_32b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_mmlu_science_choice_bare_compatible_v2",
+      "sha256": "2090a8e15795be7ed667d888eb7df3512adc1792e5ec89e4458f94027eaa8363"
+    },
+    {
+      "file": "benchmark=mmlu_science__subject_college_biology__model=qwen2_5_3b.json",
+      "benchmark_id": "mmlu_science__subject_college_biology",
+      "model_alias": "qwen2_5_3b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_mmlu_science_choice_bare_compatible_v2",
+      "sha256": "3f317e4fe9ea6752bee32ec48a6be38930e94124cbaad27ba9e2c8809d7f99f9"
+    },
+    {
+      "file": "benchmark=mmlu_science__subject_college_biology__model=qwen2_5_7b.json",
+      "benchmark_id": "mmlu_science__subject_college_biology",
+      "model_alias": "qwen2_5_7b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_mmlu_science_choice_bare_compatible_v2",
+      "sha256": "67f05651941743a960634cf121fcfa7869e8c32ed68cb5dd3161b270686c48b3"
+    },
+    {
+      "file": "benchmark=mmlu_science__subject_college_biology__model=qwen3_5_27b.json",
+      "benchmark_id": "mmlu_science__subject_college_biology",
+      "model_alias": "qwen3_5_27b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_mmlu_science_choice_bare_compatible_v2",
+      "sha256": "6032b5840aafa1a93c97c2d6d5e72d597f28ca632b60a2427ab375cc8821b666"
+    },
+    {
+      "file": "benchmark=mmlu_science__subject_college_biology__model=qwen3_5_4b.json",
+      "benchmark_id": "mmlu_science__subject_college_biology",
+      "model_alias": "qwen3_5_4b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_mmlu_science_choice_bare_compatible_v2",
+      "sha256": "b4b4be04c5b44af85c68e928ed91ade03ae7e32eb4f81fc6c6c44b00481d5c8b"
+    },
+    {
+      "file": "benchmark=mmlu_science__subject_college_biology__model=qwen3_5_9b.json",
+      "benchmark_id": "mmlu_science__subject_college_biology",
+      "model_alias": "qwen3_5_9b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_mmlu_science_choice_bare_compatible_v2",
+      "sha256": "5505d1279bbb77fb8d4d2fa8b097ab8e36e78f76f158ade41d56fd600db96f66"
+    },
+    {
+      "file": "benchmark=mmlu_science__subject_college_chemistry__model=qwen2_5_32b.json",
+      "benchmark_id": "mmlu_science__subject_college_chemistry",
+      "model_alias": "qwen2_5_32b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_mmlu_science_choice_bare_compatible_v2",
+      "sha256": "391981219b375336e7f09427fd492378f7787be1cf7bddaa1e410e7af51f4153"
+    },
+    {
+      "file": "benchmark=mmlu_science__subject_college_chemistry__model=qwen2_5_3b.json",
+      "benchmark_id": "mmlu_science__subject_college_chemistry",
+      "model_alias": "qwen2_5_3b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_mmlu_science_choice_bare_compatible_v2",
+      "sha256": "701f092ff7ee17c102ada3c083e382b7a94b1e8f6586c69156ffde6b037ef6b5"
+    },
+    {
+      "file": "benchmark=mmlu_science__subject_college_chemistry__model=qwen2_5_7b.json",
+      "benchmark_id": "mmlu_science__subject_college_chemistry",
+      "model_alias": "qwen2_5_7b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_mmlu_science_choice_bare_compatible_v2",
+      "sha256": "da426903cf9ccb8ce1ebbf14a72f666b66a54f3d41fa72915835226f822de5ee"
+    },
+    {
+      "file": "benchmark=mmlu_science__subject_college_chemistry__model=qwen3_5_27b.json",
+      "benchmark_id": "mmlu_science__subject_college_chemistry",
+      "model_alias": "qwen3_5_27b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_mmlu_science_choice_bare_compatible_v2",
+      "sha256": "afb01ae0ef6c92f1d9fccb5cfbb14f2d66e045429b0b514e8f18ac253a9237af"
+    },
+    {
+      "file": "benchmark=mmlu_science__subject_college_chemistry__model=qwen3_5_4b.json",
+      "benchmark_id": "mmlu_science__subject_college_chemistry",
+      "model_alias": "qwen3_5_4b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_mmlu_science_choice_bare_compatible_v2",
+      "sha256": "b7c7d7fe24cc5321f9a867dfc2f462e1176f4ea9b5a65a0a85edd93e29c615a9"
+    },
+    {
+      "file": "benchmark=mmlu_science__subject_college_chemistry__model=qwen3_5_9b.json",
+      "benchmark_id": "mmlu_science__subject_college_chemistry",
+      "model_alias": "qwen3_5_9b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_mmlu_science_choice_bare_compatible_v2",
+      "sha256": "cccbb712ad2994f03aa4b98f826afebe6801f1bc9b73d59a81f59011df0d1579"
+    },
+    {
+      "file": "benchmark=mmlu_science__subject_college_physics__model=qwen2_5_32b.json",
+      "benchmark_id": "mmlu_science__subject_college_physics",
+      "model_alias": "qwen2_5_32b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_mmlu_science_choice_bare_compatible_v2",
+      "sha256": "dae2f6e1cc2ec4e56bbe9412238b5a8d49290a972f8d3c533e252152d0bc7972"
+    },
+    {
+      "file": "benchmark=mmlu_science__subject_college_physics__model=qwen2_5_3b.json",
+      "benchmark_id": "mmlu_science__subject_college_physics",
+      "model_alias": "qwen2_5_3b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_mmlu_science_choice_bare_compatible_v2",
+      "sha256": "18cbaac3e7fd5402439bd7de23c607e69f787e21a0d6238e84a9b502ee1a2abf"
+    },
+    {
+      "file": "benchmark=mmlu_science__subject_college_physics__model=qwen2_5_7b.json",
+      "benchmark_id": "mmlu_science__subject_college_physics",
+      "model_alias": "qwen2_5_7b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_mmlu_science_choice_bare_compatible_v2",
+      "sha256": "e5f3a8aa129390172b8b33e33b0377b1bb633aad7d40e8c74197932fa5bbba72"
+    },
+    {
+      "file": "benchmark=mmlu_science__subject_college_physics__model=qwen3_5_27b.json",
+      "benchmark_id": "mmlu_science__subject_college_physics",
+      "model_alias": "qwen3_5_27b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_mmlu_science_choice_bare_compatible_v2",
+      "sha256": "c96194f3946a465d7914012f2118265310c73d9823c6b799339935b77bc5a30f"
+    },
+    {
+      "file": "benchmark=mmlu_science__subject_college_physics__model=qwen3_5_4b.json",
+      "benchmark_id": "mmlu_science__subject_college_physics",
+      "model_alias": "qwen3_5_4b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_mmlu_science_choice_bare_compatible_v2",
+      "sha256": "5369ea51510e2663a66b2bda75f4d1b359fd6cbdc571982aa295f2f72b26124a"
+    },
+    {
+      "file": "benchmark=mmlu_science__subject_college_physics__model=qwen3_5_9b.json",
+      "benchmark_id": "mmlu_science__subject_college_physics",
+      "model_alias": "qwen3_5_9b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_mmlu_science_choice_bare_compatible_v2",
+      "sha256": "6b1f0ab6ac8ffda172bf83dbccf678a479dc1cc2bd6715f691d41726a54a9a99"
+    },
+    {
+      "file": "benchmark=supergpqa_science__field_biology__model=qwen2_5_32b.json",
+      "benchmark_id": "supergpqa_science__field_biology",
+      "model_alias": "qwen2_5_32b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_supergpqa_science_choice_bare_compatible_v2",
+      "sha256": "c517d1e0ae74d60702b278dcca3d26aed5a3e02388f4d816881921b2ee832e6a"
+    },
+    {
+      "file": "benchmark=supergpqa_science__field_biology__model=qwen2_5_3b.json",
+      "benchmark_id": "supergpqa_science__field_biology",
+      "model_alias": "qwen2_5_3b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_supergpqa_science_choice_bare_compatible_v2",
+      "sha256": "6fed65bf2b38f321d903cdcc9aa09158247e24feb0a55a4ca34a75bd19d9105d"
+    },
+    {
+      "file": "benchmark=supergpqa_science__field_biology__model=qwen2_5_7b.json",
+      "benchmark_id": "supergpqa_science__field_biology",
+      "model_alias": "qwen2_5_7b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_supergpqa_science_choice_bare_compatible_v2",
+      "sha256": "f7bf77b536d2d99eab2b9f3daeb54e0c45bae6513a0d2b12d165af3a158d0514"
+    },
+    {
+      "file": "benchmark=supergpqa_science__field_biology__model=qwen3_5_27b.json",
+      "benchmark_id": "supergpqa_science__field_biology",
+      "model_alias": "qwen3_5_27b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_supergpqa_science_choice_bare_compatible_v2",
+      "sha256": "7e1f3207df423dcb9d78371748b9372c7fe7ac15dbe0964bf8900dc2273fbce7"
+    },
+    {
+      "file": "benchmark=supergpqa_science__field_biology__model=qwen3_5_4b.json",
+      "benchmark_id": "supergpqa_science__field_biology",
+      "model_alias": "qwen3_5_4b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_supergpqa_science_choice_bare_compatible_v2",
+      "sha256": "78457a772fdda05d1366c7fdcc4496ddce2c32275a602f0832ec34797198d12a"
+    },
+    {
+      "file": "benchmark=supergpqa_science__field_biology__model=qwen3_5_9b.json",
+      "benchmark_id": "supergpqa_science__field_biology",
+      "model_alias": "qwen3_5_9b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_supergpqa_science_choice_bare_compatible_v2",
+      "sha256": "d80c955caf566d2a01607cf270333afed6045621b2496c8ead85e457b79efdca"
+    },
+    {
+      "file": "benchmark=supergpqa_science__field_chemistry__model=qwen2_5_32b.json",
+      "benchmark_id": "supergpqa_science__field_chemistry",
+      "model_alias": "qwen2_5_32b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_supergpqa_science_choice_bare_compatible_v2",
+      "sha256": "6499d1bfc140102b873c2a2af26269ab7b9763947bdf1238d3a983af68931f42"
+    },
+    {
+      "file": "benchmark=supergpqa_science__field_chemistry__model=qwen2_5_3b.json",
+      "benchmark_id": "supergpqa_science__field_chemistry",
+      "model_alias": "qwen2_5_3b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_supergpqa_science_choice_bare_compatible_v2",
+      "sha256": "945e34f1db550d22f4afb753554f917a9b75cf27e86dd540bde1b01153ec05fa"
+    },
+    {
+      "file": "benchmark=supergpqa_science__field_chemistry__model=qwen2_5_7b.json",
+      "benchmark_id": "supergpqa_science__field_chemistry",
+      "model_alias": "qwen2_5_7b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_supergpqa_science_choice_bare_compatible_v2",
+      "sha256": "043c5518477237fc49ffff482b60e63d4df8e5f2e8c77b936d015126a66c44c0"
+    },
+    {
+      "file": "benchmark=supergpqa_science__field_chemistry__model=qwen3_5_27b.json",
+      "benchmark_id": "supergpqa_science__field_chemistry",
+      "model_alias": "qwen3_5_27b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_supergpqa_science_choice_bare_compatible_v2",
+      "sha256": "6cd316959a40683e32034ef471eb555b9141a4341e4db6d33ea0e01bc15f14a6"
+    },
+    {
+      "file": "benchmark=supergpqa_science__field_chemistry__model=qwen3_5_4b.json",
+      "benchmark_id": "supergpqa_science__field_chemistry",
+      "model_alias": "qwen3_5_4b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_supergpqa_science_choice_bare_compatible_v2",
+      "sha256": "66f8a1947c7ff726f6596958a4cbb66b7eef5134de0827aba6b47ff1648a421f"
+    },
+    {
+      "file": "benchmark=supergpqa_science__field_chemistry__model=qwen3_5_9b.json",
+      "benchmark_id": "supergpqa_science__field_chemistry",
+      "model_alias": "qwen3_5_9b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_supergpqa_science_choice_bare_compatible_v2",
+      "sha256": "9082a7a1ef95687ff63fd18a0a7bd581e7259b3b4b6d496f98bf336f6a2b627b"
+    },
+    {
+      "file": "benchmark=supergpqa_science__field_physics__model=qwen2_5_32b.json",
+      "benchmark_id": "supergpqa_science__field_physics",
+      "model_alias": "qwen2_5_32b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_supergpqa_science_choice_bare_compatible_v2",
+      "sha256": "29c6a3d0ec7e4142c478492cece7c7c60cd9fa924150f5d43a978da1e61571f6"
+    },
+    {
+      "file": "benchmark=supergpqa_science__field_physics__model=qwen2_5_3b.json",
+      "benchmark_id": "supergpqa_science__field_physics",
+      "model_alias": "qwen2_5_3b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_supergpqa_science_choice_bare_compatible_v2",
+      "sha256": "0bbc1ec52166326c901d2013fa527901237b67f954a0bcd5c000abadd2db3923"
+    },
+    {
+      "file": "benchmark=supergpqa_science__field_physics__model=qwen2_5_7b.json",
+      "benchmark_id": "supergpqa_science__field_physics",
+      "model_alias": "qwen2_5_7b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_supergpqa_science_choice_bare_compatible_v2",
+      "sha256": "ee9c32ee1f5208454686cb456108f79eea283a493232d0ed1d47b24e306b7a61"
+    },
+    {
+      "file": "benchmark=supergpqa_science__field_physics__model=qwen3_5_27b.json",
+      "benchmark_id": "supergpqa_science__field_physics",
+      "model_alias": "qwen3_5_27b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_supergpqa_science_choice_bare_compatible_v2",
+      "sha256": "80e85064b20fa258c337c4a753a9efa993818a587cfdfeffb8a7982aa23f3e1e"
+    },
+    {
+      "file": "benchmark=supergpqa_science__field_physics__model=qwen3_5_4b.json",
+      "benchmark_id": "supergpqa_science__field_physics",
+      "model_alias": "qwen3_5_4b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_supergpqa_science_choice_bare_compatible_v2",
+      "sha256": "e2f194a989f8a7403c1d0572fd510041126ade83b38ec376fd9a17614c8ca8d3"
+    },
+    {
+      "file": "benchmark=supergpqa_science__field_physics__model=qwen3_5_9b.json",
+      "benchmark_id": "supergpqa_science__field_physics",
+      "model_alias": "qwen3_5_9b",
+      "tested_k": 1024,
+      "task_count": 100,
+      "scorer_version": "ade_supergpqa_science_choice_bare_compatible_v2",
+      "sha256": "7c954a515171a182716841a98542d1e3296cb181581b5dc7c168f620791ae58e"
+    }
+  ]
+}

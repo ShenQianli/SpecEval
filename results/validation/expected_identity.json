@@ -1,0 +1,2142 @@
+{
+  "aime24__model=qwen2_5_32b__b=008": {
+    "expected_allocation_sha256": "eaa0fe1a88cca6ee8e036be1595bde8ff1d5140fd5eaab2e8d5b823e0e0df5f0",
+    "expected_accepted_sha256": "b1af4bca449e1bb26118f68cb3be56245d9fafeb97a7cb78db06157c2151cd67",
+    "expected_reward_fingerprint": "0a8161654187ca7faefc6fed095ed24722d20a46ffbe2d3d2d4a4f1b965d631d"
+  },
+  "aime24__model=qwen2_5_32b__b=016": {
+    "expected_allocation_sha256": "00f0f912a9f48f12176025d7320b69624fb5c1ad0d312b9a56b35fb8dde3aed1",
+    "expected_accepted_sha256": "ab219b566e45f186064c6f7b31c7a8907cf4e2d7ef91f5fbd7e8bb78877634a9",
+    "expected_reward_fingerprint": "0a8161654187ca7faefc6fed095ed24722d20a46ffbe2d3d2d4a4f1b965d631d"
+  },
+  "aime24__model=qwen2_5_32b__b=032": {
+    "expected_allocation_sha256": "e9ef7f5baff7a25c49b1bff5ef4b67e41cd98405e1a976010b4d0b4ff2e10228",
+    "expected_accepted_sha256": "95cf56177c5d43d2eb9d445111c8657aca4caea6062f24f4d721071c32712f0f",
+    "expected_reward_fingerprint": "0a8161654187ca7faefc6fed095ed24722d20a46ffbe2d3d2d4a4f1b965d631d"
+  },
+  "aime24__model=qwen2_5_32b__b=064": {
+    "expected_allocation_sha256": "4932a10e05fdafb0868916322412fa4ca3ee7d381beeefa369fe4b07dba272a4",
+    "expected_accepted_sha256": "961ef927dd99a84987749419eb55b8839ad977a62c717b062b75c6b4f69936cb",
+    "expected_reward_fingerprint": "0a8161654187ca7faefc6fed095ed24722d20a46ffbe2d3d2d4a4f1b965d631d"
+  },
+  "aime24__model=qwen2_5_3b__b=008": {
+    "expected_allocation_sha256": "7f2fd076949b8a7d14805393e393f1a1a85695667da3a0680037abb241b41586",
+    "expected_accepted_sha256": "d384a386ba273593af80a7230fdf866241627625f5920b4d7280f536dddc4259",
+    "expected_reward_fingerprint": "2b0c3e5240c5444cf1dbc669265235b57e290f80760b0487b68758184a24705b"
+  },
+  "aime24__model=qwen2_5_3b__b=016": {
+    "expected_allocation_sha256": "063e4825ec5a9cc043ab5fc4251e1617aa21eb4ad82f5b55f1fa692e40f51f03",
+    "expected_accepted_sha256": "f41ad573a5ea48433c5438dc7079affb0235e17f320219fd76901b6285c8bf66",
+    "expected_reward_fingerprint": "2b0c3e5240c5444cf1dbc669265235b57e290f80760b0487b68758184a24705b"
+  },
+  "aime24__model=qwen2_5_3b__b=032": {
+    "expected_allocation_sha256": "14419f2067464d1d6d9768899da7a51a7ea8718c5b027cae7a6c6fc34271b867",
+    "expected_accepted_sha256": "fb37c80bb4634dc9c93e15a8844a678b3f23a66e5879a2fb6141db92236038d8",
+    "expected_reward_fingerprint": "2b0c3e5240c5444cf1dbc669265235b57e290f80760b0487b68758184a24705b"
+  },
+  "aime24__model=qwen2_5_3b__b=064": {
+    "expected_allocation_sha256": "9f208edea1a8b589d96733d81702510fd2e6543d08276fd233cb5e9a17eefbba",
+    "expected_accepted_sha256": "203a5a15faf5b1d0441b631a0fda822a13826326d55797ada9aba6cdea61eec7",
+    "expected_reward_fingerprint": "2b0c3e5240c5444cf1dbc669265235b57e290f80760b0487b68758184a24705b"
+  },
+  "aime24__model=qwen2_5_7b__b=008": {
+    "expected_allocation_sha256": "b8eb78801945b82dd460f180580e3f028b42510d15dd1249fa647d08a704817c",
+    "expected_accepted_sha256": "5b08c8006080eeda9a0044f0f0b4695566b33253c956b03914b8539a2ab40f6c",
+    "expected_reward_fingerprint": "604d300abc77d99471aeee11d5a539b881a02c100b5eb245b113d669a351a652"
+  },
+  "aime24__model=qwen2_5_7b__b=016": {
+    "expected_allocation_sha256": "a09e98a4866c40afdafd71207ab8d1acbc63dd20a5f476f67195241f7a7364e4",
+    "expected_accepted_sha256": "b689912f340607d0942eae4def3a2070474dbfe22098bd7cedf167133365ecbe",
+    "expected_reward_fingerprint": "604d300abc77d99471aeee11d5a539b881a02c100b5eb245b113d669a351a652"
+  },
+  "aime24__model=qwen2_5_7b__b=032": {
+    "expected_allocation_sha256": "f02de4c778d2a29f3cfa4da554f11d5452c4018e06dfd57a6aa3c097207c52d9",
+    "expected_accepted_sha256": "d1aa8cf59b4f70dfa5bb872f91539f62a4d09bf298c93a370f408fed42a1e3bf",
+    "expected_reward_fingerprint": "604d300abc77d99471aeee11d5a539b881a02c100b5eb245b113d669a351a652"
+  },
+  "aime24__model=qwen2_5_7b__b=064": {
+    "expected_allocation_sha256": "c9981b2ab8140bab88b3944bdf00abeeb5b76bc631e961105282b1b618284ec1",
+    "expected_accepted_sha256": "3244a0c7552eb9bdbfd477eaa0bbffbe2426c44722a8df66bb14cac9d4d95c9b",
+    "expected_reward_fingerprint": "604d300abc77d99471aeee11d5a539b881a02c100b5eb245b113d669a351a652"
+  },
+  "aime24__model=qwen3_5_27b__b=008": {
+    "expected_allocation_sha256": "4e5c8570f3b78fd28f401b74bfe8b1d6e056fc55fef9fd62587e18943ed94091",
+    "expected_accepted_sha256": "8b4ac173f76e8d5d5f5378a996c745f04cd2cd3232e324de22ede6c54d33539c",
+    "expected_reward_fingerprint": "255314ebce5e97b266a0a801e2de5b57eed63b28c24123d123105f1fb13f2ecc"
+  },
+  "aime24__model=qwen3_5_27b__b=016": {
+    "expected_allocation_sha256": "84aef93d51947b2b171dbab046ee739dd8425885eec905de0bb3ffff86787738",
+    "expected_accepted_sha256": "a9dfb93de6bc91ce7b5bd515865b5394159506baed04350a511d0beda0ef597d",
+    "expected_reward_fingerprint": "255314ebce5e97b266a0a801e2de5b57eed63b28c24123d123105f1fb13f2ecc"
+  },
+  "aime24__model=qwen3_5_27b__b=032": {
+    "expected_allocation_sha256": "458e45a7f382e001f90553ad8b5555d48348cccd72560e6fe46a67b818147f8d",
+    "expected_accepted_sha256": "fde3f099341e7a468895481fc9aeb1b844f90d8e421887d212baae9a869bfed8",
+    "expected_reward_fingerprint": "255314ebce5e97b266a0a801e2de5b57eed63b28c24123d123105f1fb13f2ecc"
+  },
+  "aime24__model=qwen3_5_27b__b=064": {
+    "expected_allocation_sha256": "bca77dd38b734f2f6b9f16377b9f08c4cbbecf30863560f1777c62c83b051632",
+    "expected_accepted_sha256": "1a744dd5e9933ca1c98f9c06d5435b9612ff39aeef81a9603007b8ca2cd29315",
+    "expected_reward_fingerprint": "255314ebce5e97b266a0a801e2de5b57eed63b28c24123d123105f1fb13f2ecc"
+  },
+  "aime24__model=qwen3_5_4b__b=008": {
+    "expected_allocation_sha256": "1c8147563528eb96590deec3257414f845cb8f6f2ad3e96e6b0624665fccadf8",
+    "expected_accepted_sha256": "d08fef841e0d62b001c8440b08fdc3bd96260aa743c586fe8b39770bec0274e4",
+    "expected_reward_fingerprint": "e747236f9b70854a1b8251ff23981893786e650f8660cc88dead7f6fc90112a8"
+  },
+  "aime24__model=qwen3_5_4b__b=016": {
+    "expected_allocation_sha256": "74f18461c563bc86f1217379bd72b9d82d5175a28836863ec4373544b19510d5",
+    "expected_accepted_sha256": "38acd5d1d178666c9e4d2251472de5e5ce1c39517e564a209eb396139d4f2a86",
+    "expected_reward_fingerprint": "e747236f9b70854a1b8251ff23981893786e650f8660cc88dead7f6fc90112a8"
+  },
+  "aime24__model=qwen3_5_4b__b=032": {
+    "expected_allocation_sha256": "08ff90bfbbdd0c251c3ad0d307ec9e5a0dc6b8c73ed1c689802b65c424650b9b",
+    "expected_accepted_sha256": "d6548078a45b4841b91998b1a867a5332c9459d942029c684bc05e520631daf0",
+    "expected_reward_fingerprint": "e747236f9b70854a1b8251ff23981893786e650f8660cc88dead7f6fc90112a8"
+  },
+  "aime24__model=qwen3_5_4b__b=064": {
+    "expected_allocation_sha256": "8c6ba7d187127fcb1f7b01c08dbc24ecb3eb033c4f1eb8fa09c1a2807f124ded",
+    "expected_accepted_sha256": "eab5e44c28d804a41af1adf2c12025bf61d9ba2791502bcda05aa1c1253e3ca0",
+    "expected_reward_fingerprint": "e747236f9b70854a1b8251ff23981893786e650f8660cc88dead7f6fc90112a8"
+  },
+  "aime24__model=qwen3_5_9b__b=008": {
+    "expected_allocation_sha256": "c0fc62e66ac57790c0e066d7a48381dc62bd802b6d641a0e9b7a780986f4d3e7",
+    "expected_accepted_sha256": "7147388aaac616f5ba03660a76bdecac360d7b2b679c3b4c21983ed0a7b1d41a",
+    "expected_reward_fingerprint": "d7512120212b80a526871d06e4a6df12881a5cb98e861ded7d23e5b31d9dfac5"
+  },
+  "aime24__model=qwen3_5_9b__b=016": {
+    "expected_allocation_sha256": "3378daa79eeb2bae9f8d30233a8f266fdfcfd98a806d3a3f9227b6b38d862970",
+    "expected_accepted_sha256": "ae700bf21a6a45cd49b9d570678b79a032ac7abc0d1473e1de4aa85916529c81",
+    "expected_reward_fingerprint": "d7512120212b80a526871d06e4a6df12881a5cb98e861ded7d23e5b31d9dfac5"
+  },
+  "aime24__model=qwen3_5_9b__b=032": {
+    "expected_allocation_sha256": "ddb7cb481d2653326d4270c64b886dc9ff4b44bcbd3c28946ffa462ff09ba98d",
+    "expected_accepted_sha256": "e173be515d71145b9b50fd5f6b597587c6506d2d20be1964161f6f82876aed67",
+    "expected_reward_fingerprint": "d7512120212b80a526871d06e4a6df12881a5cb98e861ded7d23e5b31d9dfac5"
+  },
+  "aime24__model=qwen3_5_9b__b=064": {
+    "expected_allocation_sha256": "75a7a572ed08a74ce4cb3389cbe566dcfcc025bc757e570396a66e05a5795fee",
+    "expected_accepted_sha256": "3899e1de27335c99e8a14eb79a90d53d09dc251fd2fb8ddc15665a5c81ec8811",
+    "expected_reward_fingerprint": "d7512120212b80a526871d06e4a6df12881a5cb98e861ded7d23e5b31d9dfac5"
+  },
+  "aime25__model=qwen2_5_32b__b=008": {
+    "expected_allocation_sha256": "94d4fa7834c35349cf3e0f34412a6aa81fa356c8802a177ab07a6d26975c5487",
+    "expected_accepted_sha256": "63e080883a297c7677b6f002b8d89c2441a29b534b410610b0051fcbd2c29aca",
+    "expected_reward_fingerprint": "e6ab55dca5848f46f66991193464febb7bbf11158d8c7b765ff7864dbecb3e34"
+  },
+  "aime25__model=qwen2_5_32b__b=016": {
+    "expected_allocation_sha256": "2b2524d90ed29ee5069e524bb681f9d99475d07a39ac4270a9048a233da0ed2a",
+    "expected_accepted_sha256": "87a6e4a087bb250f63828db390068c8894c8b8046e5968714581854d5ad37408",
+    "expected_reward_fingerprint": "e6ab55dca5848f46f66991193464febb7bbf11158d8c7b765ff7864dbecb3e34"
+  },
+  "aime25__model=qwen2_5_32b__b=032": {
+    "expected_allocation_sha256": "9f765f8ff94b111204b0f590018b698110debde6e4af63fddc8018d810699a89",
+    "expected_accepted_sha256": "f2eeee15da2aa78876312553114c54958eea6d09cfbbdd1043511cb2cd83f865",
+    "expected_reward_fingerprint": "e6ab55dca5848f46f66991193464febb7bbf11158d8c7b765ff7864dbecb3e34"
+  },
+  "aime25__model=qwen2_5_32b__b=064": {
+    "expected_allocation_sha256": "1a74b9e1fa723e90495b5f89a523fdca29e7753d2ed36ff1eb1123854a3e749b",
+    "expected_accepted_sha256": "5d0674721abdcda042374978fb5a42c68d1db4a131ddcbc5729152aa113bea65",
+    "expected_reward_fingerprint": "e6ab55dca5848f46f66991193464febb7bbf11158d8c7b765ff7864dbecb3e34"
+  },
+  "aime25__model=qwen2_5_3b__b=008": {
+    "expected_allocation_sha256": "df26dac5bd6e9c774c888e9ff266c4951f87771901a357d26f0e493d4fc47c48",
+    "expected_accepted_sha256": "f452b74bf3a217cb3d1d5f768de8750a523b10208b457ae4f13387016f20ead4",
+    "expected_reward_fingerprint": "7e37a920d50331c0fab6469c7ed6a7814466c0dea022af0c2d8dac98bf374144"
+  },
+  "aime25__model=qwen2_5_3b__b=016": {
+    "expected_allocation_sha256": "06f34eca25a47596d5076ea5f4fe5680f9a30f21abff6369f8add27038d3fa95",
+    "expected_accepted_sha256": "1373b215bc5e037a3ee9536bf8b3b4b8155bd47c475ceb38bce096cffdd94962",
+    "expected_reward_fingerprint": "7e37a920d50331c0fab6469c7ed6a7814466c0dea022af0c2d8dac98bf374144"
+  },
+  "aime25__model=qwen2_5_3b__b=032": {
+    "expected_allocation_sha256": "f78f9e02c398ad7093d63cd391f9b79b972eec8f26bcaaa4d9a0eda9e0b27787",
+    "expected_accepted_sha256": "82f3e0c8536d1ac98003284d7fcda274e42426a15a3f12d13a9e86d20f2d6501",
+    "expected_reward_fingerprint": "7e37a920d50331c0fab6469c7ed6a7814466c0dea022af0c2d8dac98bf374144"
+  },
+  "aime25__model=qwen2_5_3b__b=064": {
+    "expected_allocation_sha256": "c22d7913b8df473aef0b8d6a0e471a0dd4386758ab1431a0295ff8c7e894414c",
+    "expected_accepted_sha256": "01f594dff845b4c4af8e0df08dbf3f0f1537bf5f3f423e71147100b1fe164d45",
+    "expected_reward_fingerprint": "7e37a920d50331c0fab6469c7ed6a7814466c0dea022af0c2d8dac98bf374144"
+  },
+  "aime25__model=qwen2_5_7b__b=008": {
+    "expected_allocation_sha256": "07a831e1c9b4021e02869af8f959dd436d67adc8f4b095a5da64ff69a7a4de87",
+    "expected_accepted_sha256": "6869259d3ccb169fa0626282d73c98918af87014025a1020df79192873adaf19",
+    "expected_reward_fingerprint": "9277d34f74f85e690149b3c573c1d5439a5eecdae54db867da31f05abfc049aa"
+  },
+  "aime25__model=qwen2_5_7b__b=016": {
+    "expected_allocation_sha256": "ed9ed12aaaeea2e2e9f5663465a93ed83bc69bc85f28939573ef5f132c3ac3fa",
+    "expected_accepted_sha256": "76b8b0791327e41ad2d06b6d640a4ee5fd856b03936e5f5ce759c8cb66109f7e",
+    "expected_reward_fingerprint": "9277d34f74f85e690149b3c573c1d5439a5eecdae54db867da31f05abfc049aa"
+  },
+  "aime25__model=qwen2_5_7b__b=032": {
+    "expected_allocation_sha256": "e36a8b6d26f7825528ae4d95617c9d2fa0ccf5c3a064f60c1dbf0a5c08944a45",
+    "expected_accepted_sha256": "b10bc47cc2fd2b0bb139a27f4de335561405ff8f71e9cffbf025ad176d2f1ec5",
+    "expected_reward_fingerprint": "9277d34f74f85e690149b3c573c1d5439a5eecdae54db867da31f05abfc049aa"
+  },
+  "aime25__model=qwen2_5_7b__b=064": {
+    "expected_allocation_sha256": "aee6ae966ad3681825567d1b776f41b93d01ac5d10712b573032b27adb8cdbf5",
+    "expected_accepted_sha256": "166c42f7550515be4e55b762e63dfc93096697f691b4162e037ff32cbcec7821",
+    "expected_reward_fingerprint": "9277d34f74f85e690149b3c573c1d5439a5eecdae54db867da31f05abfc049aa"
+  },
+  "aime25__model=qwen3_5_27b__b=008": {
+    "expected_allocation_sha256": "d331c2bc55e89fed630da049955db8527dc01ae06bccb0224c3784972523ecfa",
+    "expected_accepted_sha256": "27d4d7f9dfc779801a25c9e42ff20645697d1e88f770647e9be3a9f730673b17",
+    "expected_reward_fingerprint": "1475617bf4e58d03c7361a9333e2749a35c43a3f624b30ff0cf11cf5e1cd021b"
+  },
+  "aime25__model=qwen3_5_27b__b=016": {
+    "expected_allocation_sha256": "d1aa647c733413dd11f6265f22d1f7b22ca3d3ecaad0576c2b468cdadeb03749",
+    "expected_accepted_sha256": "aa2273610e840d2dd411bfd44006186b2b6347e4a5d8384336abc5393e57944d",
+    "expected_reward_fingerprint": "1475617bf4e58d03c7361a9333e2749a35c43a3f624b30ff0cf11cf5e1cd021b"
+  },
+  "aime25__model=qwen3_5_27b__b=032": {
+    "expected_allocation_sha256": "e0ba0a8e4383652dacf3cd14907a41a1b2d7b7bd03c3c8eac42be31398897732",
+    "expected_accepted_sha256": "a95d796fd4ba6516f52a671d0638de6342f8a9a3d7466d91ee24c233feeda9c3",
+    "expected_reward_fingerprint": "1475617bf4e58d03c7361a9333e2749a35c43a3f624b30ff0cf11cf5e1cd021b"
+  },
+  "aime25__model=qwen3_5_27b__b=064": {
+    "expected_allocation_sha256": "035856135eebd5b6e74484b10a57ab98059f1e08718cdcba07db5bc3690c184b",
+    "expected_accepted_sha256": "a952404831d1b2b835c566278b51953c47fecdfe963225160ce65a85c4cad21b",
+    "expected_reward_fingerprint": "1475617bf4e58d03c7361a9333e2749a35c43a3f624b30ff0cf11cf5e1cd021b"
+  },
+  "aime25__model=qwen3_5_4b__b=008": {
+    "expected_allocation_sha256": "aed857e1c5be4baabd669b3c2416f49104787f34b9df058c134173c2d5f0a449",
+    "expected_accepted_sha256": "b10d1392ee6df945afdf4ec236c46f7bd110adb57e6b0413b94926fa74f05f92",
+    "expected_reward_fingerprint": "83dd886fd90e1f0dbceb7fe839c1edea9599ea5e7edaddd314f3991ba919e6f9"
+  },
+  "aime25__model=qwen3_5_4b__b=016": {
+    "expected_allocation_sha256": "caede30f094c7fa95a41473246bbe64481d6deeb5b829f2f95e6097d64bbac35",
+    "expected_accepted_sha256": "7919bbb282a554c7e4b3bb1df501e5ab60d7ece9c7deaa23eae3c01fa9b16816",
+    "expected_reward_fingerprint": "83dd886fd90e1f0dbceb7fe839c1edea9599ea5e7edaddd314f3991ba919e6f9"
+  },
+  "aime25__model=qwen3_5_4b__b=032": {
+    "expected_allocation_sha256": "b44a12ebbb9d1c6dcda2e8894b4791e214879c99903f231f3b17e322e88425d2",
+    "expected_accepted_sha256": "22e06cdcb4a7f530ac34a4c394bad2319b3051309d42c8e19676a96136ebbb1d",
+    "expected_reward_fingerprint": "83dd886fd90e1f0dbceb7fe839c1edea9599ea5e7edaddd314f3991ba919e6f9"
+  },
+  "aime25__model=qwen3_5_4b__b=064": {
+    "expected_allocation_sha256": "f31cf4595af8019250b9831c407b17ee1c81240b5e37cc765e5182d93c89ca2d",
+    "expected_accepted_sha256": "ca504098a7dca2436bbe6e15beb2c2eb59ad1c1bf4a232f1f365b9208dbd52e3",
+    "expected_reward_fingerprint": "83dd886fd90e1f0dbceb7fe839c1edea9599ea5e7edaddd314f3991ba919e6f9"
+  },
+  "aime25__model=qwen3_5_9b__b=008": {
+    "expected_allocation_sha256": "bd14f979f55ee9f526793a82d23c36430a4a2da928e0897d1b8e795ca90fd414",
+    "expected_accepted_sha256": "78747fe6eba88ca5344acac034cd56d29a271f9a7f18eedc34b363f908a28d50",
+    "expected_reward_fingerprint": "a191d1ed67674c3d4b89f79ccfee601a75a3ee654b7a541b8898e8c85493037a"
+  },
+  "aime25__model=qwen3_5_9b__b=016": {
+    "expected_allocation_sha256": "f3edc5fc274ebaef597b412f98f4b67ef93b8e9b3e5a716152d1f64eae0ec5af",
+    "expected_accepted_sha256": "7945b963d225762183e15f41925260d1bdb5ebfd5b46b88e7886a68b4ce5375b",
+    "expected_reward_fingerprint": "a191d1ed67674c3d4b89f79ccfee601a75a3ee654b7a541b8898e8c85493037a"
+  },
+  "aime25__model=qwen3_5_9b__b=032": {
+    "expected_allocation_sha256": "d943d40ce064a28994264798a5c622f048c5b53b2bf1821d37df87d756c9d930",
+    "expected_accepted_sha256": "17dc0e2960a5e1d8a67866706a858ec9198473296c0403e93c903922359a8ec8",
+    "expected_reward_fingerprint": "a191d1ed67674c3d4b89f79ccfee601a75a3ee654b7a541b8898e8c85493037a"
+  },
+  "aime25__model=qwen3_5_9b__b=064": {
+    "expected_allocation_sha256": "eb508c7e7f1297809ab701af2841a4fbccc82e362fe01d0127e1b74be8e28f37",
+    "expected_accepted_sha256": "892e89c642e728dfccc97f1d386bd331913f47188d639bef51974420e58a1e1a",
+    "expected_reward_fingerprint": "a191d1ed67674c3d4b89f79ccfee601a75a3ee654b7a541b8898e8c85493037a"
+  },
+  "aime26__model=qwen2_5_32b__b=008": {
+    "expected_allocation_sha256": "8dc88b781d525b64e28833534c0fe7384af7dcbf5f7375bbd8f9734718379cdb",
+    "expected_accepted_sha256": "79ffd19585157ca2b67c97deed4d8eb1561574cb288dbe329e1fb3b6d042c7ab",
+    "expected_reward_fingerprint": "6ea6812a2fedf150e3970c6cfb6387d19af86867bf0d215bae93e7e181a2860d"
+  },
+  "aime26__model=qwen2_5_32b__b=016": {
+    "expected_allocation_sha256": "e1a7ec3bea32eb5bd68a347cbafa2460a59d55542b4232eb736efcd5c267592c",
+    "expected_accepted_sha256": "b0ee8b7f625d3e90b0ce4b97a68f1b173c61fbb7b0e67c113a0d21193d816028",
+    "expected_reward_fingerprint": "6ea6812a2fedf150e3970c6cfb6387d19af86867bf0d215bae93e7e181a2860d"
+  },
+  "aime26__model=qwen2_5_32b__b=032": {
+    "expected_allocation_sha256": "a173bad605ca09527308366916ed7ab15b600032236d92ea4c21c6e456f665ea",
+    "expected_accepted_sha256": "89d722c7cd5060c1b59bee0da4448ef0209906a7f3495c0d5a298f622e3559e7",
+    "expected_reward_fingerprint": "6ea6812a2fedf150e3970c6cfb6387d19af86867bf0d215bae93e7e181a2860d"
+  },
+  "aime26__model=qwen2_5_32b__b=064": {
+    "expected_allocation_sha256": "2696145f8b658f6d28c5d7c872a1b15e11ddc1f045c720578a6ab5540dd4e289",
+    "expected_accepted_sha256": "e9aca99e54578000c7c31504f6b8c0539f97049f6cbd8214f28e601d08ca63aa",
+    "expected_reward_fingerprint": "6ea6812a2fedf150e3970c6cfb6387d19af86867bf0d215bae93e7e181a2860d"
+  },
+  "aime26__model=qwen2_5_3b__b=008": {
+    "expected_allocation_sha256": "a4a4e2800c57555d9020197b784f52f2e59bf86c3b12a7b3f511e5ff198014c8",
+    "expected_accepted_sha256": "1597e05cfd82f09bda0e4bc30b716c3ca1e3102e33c8b9070bd80e7460170ccf",
+    "expected_reward_fingerprint": "0dbedcccde76c81984ae59f1a6a88f29cc0d573ce7b9c0b5aa9c6b2171bbcc13"
+  },
+  "aime26__model=qwen2_5_3b__b=016": {
+    "expected_allocation_sha256": "ae405e547d3f93091f87e5587ba9e1e2b88d718d6127ec28b08ab6247d1dd12b",
+    "expected_accepted_sha256": "cebe1b03affb5514802fe7f14f9b55401dd0ea7c8e30d5c530abc797fb36fd92",
+    "expected_reward_fingerprint": "0dbedcccde76c81984ae59f1a6a88f29cc0d573ce7b9c0b5aa9c6b2171bbcc13"
+  },
+  "aime26__model=qwen2_5_3b__b=032": {
+    "expected_allocation_sha256": "61c78fc3dd62a9660f56ea4077c7845109df6b29e77904b6472bf90b3392e84b",
+    "expected_accepted_sha256": "6ecdccbbb72a10036ad70a78a7aa27d3aa7e7a488cf338bad28e11dd982a22f8",
+    "expected_reward_fingerprint": "0dbedcccde76c81984ae59f1a6a88f29cc0d573ce7b9c0b5aa9c6b2171bbcc13"
+  },
+  "aime26__model=qwen2_5_3b__b=064": {
+    "expected_allocation_sha256": "48f67802c9a439dd71ffbf46870a7d7bcd236f3ff77683419e7b425b150e4a30",
+    "expected_accepted_sha256": "60e4bb60e9f8c0c87d13512381859dddb683c6d5b9acd4e45463cf5a0a49123b",
+    "expected_reward_fingerprint": "0dbedcccde76c81984ae59f1a6a88f29cc0d573ce7b9c0b5aa9c6b2171bbcc13"
+  },
+  "aime26__model=qwen2_5_7b__b=008": {
+    "expected_allocation_sha256": "de09d100d6d82b6adcbf74f54f2733dc6e2758cf3b3a6c2d0a3394c126c15016",
+    "expected_accepted_sha256": "fb27f072a9ab032275c4ac82589abef19e7d82152b6825de43b29c7edfe716b0",
+    "expected_reward_fingerprint": "4e956f5c09f1b235c9184937931cba99257b4cb0c2259e3ef99b737f8700dfc1"
+  },
+  "aime26__model=qwen2_5_7b__b=016": {
+    "expected_allocation_sha256": "4112b2ec1e562088a2e64d92cbcb7bf849007642e63e83caf2c115bf7b87ef52",
+    "expected_accepted_sha256": "a44e0ef9e8e667358986256dbc186697ac8f4b3b721095d3779045005f28d48c",
+    "expected_reward_fingerprint": "4e956f5c09f1b235c9184937931cba99257b4cb0c2259e3ef99b737f8700dfc1"
+  },
+  "aime26__model=qwen2_5_7b__b=032": {
+    "expected_allocation_sha256": "983bf5c085ed257743a0d00e63cca1ea64ddb02d30ac52c663b025d3b0390056",
+    "expected_accepted_sha256": "1bb6efea63ead4d59a721f5a95a741bd57959488009003bf959959b5e1acbc22",
+    "expected_reward_fingerprint": "4e956f5c09f1b235c9184937931cba99257b4cb0c2259e3ef99b737f8700dfc1"
+  },
+  "aime26__model=qwen2_5_7b__b=064": {
+    "expected_allocation_sha256": "e02b07402503e3c01ed739bc1c62e41c33e9bc13428aa0a1167d0b8f4776fa48",
+    "expected_accepted_sha256": "54e1add5d28f5232f60eadc4d786c8cf3b60f555ceca3cc5776049f278683a13",
+    "expected_reward_fingerprint": "4e956f5c09f1b235c9184937931cba99257b4cb0c2259e3ef99b737f8700dfc1"
+  },
+  "aime26__model=qwen3_5_27b__b=008": {
+    "expected_allocation_sha256": "1d0e16d6b0667d42d1e179426ebf9b820ac3b08caae061a22353b66b4a0b6adf",
+    "expected_accepted_sha256": "11139a29b3c76824a41fc8607405ee537b6954fa706e4c1a1d23fda8feaef125",
+    "expected_reward_fingerprint": "4572bbeb66c3941e5dbb23918deb3b7445685e87855cec1648ea364176bcb149"
+  },
+  "aime26__model=qwen3_5_27b__b=016": {
+    "expected_allocation_sha256": "2ed4e6f3cddf15e5ffe1dbc349e8954627298094955667a2ae546d77176713e4",
+    "expected_accepted_sha256": "026eb1fb8462b9623a14adeca5bcf4047038ed39a18ad9f9626312d2c0d1c40e",
+    "expected_reward_fingerprint": "4572bbeb66c3941e5dbb23918deb3b7445685e87855cec1648ea364176bcb149"
+  },
+  "aime26__model=qwen3_5_27b__b=032": {
+    "expected_allocation_sha256": "2d6d34f27bf72f1082adcad08bbc79b3e65fa9929bd7071408107f97bb152979",
+    "expected_accepted_sha256": "9356e7e166c06eb3f4aaa3ac6a66fc3787c863a527bbe6bf17d031acb2459f15",
+    "expected_reward_fingerprint": "4572bbeb66c3941e5dbb23918deb3b7445685e87855cec1648ea364176bcb149"
+  },
+  "aime26__model=qwen3_5_27b__b=064": {
+    "expected_allocation_sha256": "c4485b58c076a5b7825ce60c2417e3b0743f2ec52b98cb6dfea571324444ce56",
+    "expected_accepted_sha256": "00100831a51000738e0625ae1bd5b81a82999cf31dab0eefb9b0041b94ea5fa6",
+    "expected_reward_fingerprint": "4572bbeb66c3941e5dbb23918deb3b7445685e87855cec1648ea364176bcb149"
+  },
+  "aime26__model=qwen3_5_4b__b=008": {
+    "expected_allocation_sha256": "645c39b0bff93907317191ed3f865d88b33699c248b2e961ea82a208e895ff15",
+    "expected_accepted_sha256": "56451bdb09406986a975ce33eeabd6ac7cca19dc896c277e92f49fbee0324c14",
+    "expected_reward_fingerprint": "0bde495d967aaf6a7494536e5049f80cd0e6d54aa76456c9951c14957e7d73ea"
+  },
+  "aime26__model=qwen3_5_4b__b=016": {
+    "expected_allocation_sha256": "b171fa02f6f3323f79a7b3ac7b029b2772b8f9f9a4993bb18ad42788380b7878",
+    "expected_accepted_sha256": "d1202147943318155f4498fab6ebd02e69da7c1c1f7b30959cdeb53fbe2533fd",
+    "expected_reward_fingerprint": "0bde495d967aaf6a7494536e5049f80cd0e6d54aa76456c9951c14957e7d73ea"
+  },
+  "aime26__model=qwen3_5_4b__b=032": {
+    "expected_allocation_sha256": "af3544fd1d523f818e7db59b92d410b7430f25ffaaf5ea460c059aa802829938",
+    "expected_accepted_sha256": "3ce762e848cb4e1ad1760303b2ab98942fd6075a91d9747e549622985031b725",
+    "expected_reward_fingerprint": "0bde495d967aaf6a7494536e5049f80cd0e6d54aa76456c9951c14957e7d73ea"
+  },
+  "aime26__model=qwen3_5_4b__b=064": {
+    "expected_allocation_sha256": "fd172ccd2a9ca83af6db4ef9edeacfb652732ca695f87616b1565fb107541ca4",
+    "expected_accepted_sha256": "f95e204236ce23247f68a7a01574f12e60f7aaffa88ca3443e63bd47fe464361",
+    "expected_reward_fingerprint": "0bde495d967aaf6a7494536e5049f80cd0e6d54aa76456c9951c14957e7d73ea"
+  },
+  "aime26__model=qwen3_5_9b__b=008": {
+    "expected_allocation_sha256": "7e8c566336cf3ba648dc99b3c6a88fa1504384c5b27f8775ba223cf931632ce6",
+    "expected_accepted_sha256": "88380f50f66f786a2a8a953febc66427bfba9a354d9de994b1cbcec25f7d0d18",
+    "expected_reward_fingerprint": "444738405214dd35ae0697ad16a20bc74936b38b17bdee4171da668e330cfa16"
+  },
+  "aime26__model=qwen3_5_9b__b=016": {
+    "expected_allocation_sha256": "5f281499cc6bf1a5998dd90b0fa2f81ad9bd5aafaf06dcecaf25a3a13ba43c0f",
+    "expected_accepted_sha256": "2435400da60c9543aa3337be8aab624cb7e2074d1a7ac5300a8cc333c54286bd",
+    "expected_reward_fingerprint": "444738405214dd35ae0697ad16a20bc74936b38b17bdee4171da668e330cfa16"
+  },
+  "aime26__model=qwen3_5_9b__b=032": {
+    "expected_allocation_sha256": "035935f762e61b28294d2f0846d3fc53deba535771a5e693ac0be9412ed10d78",
+    "expected_accepted_sha256": "953004c15e681192e8fcd0422b4976031b58783bf31cfafc942b9f408ba11ecd",
+    "expected_reward_fingerprint": "444738405214dd35ae0697ad16a20bc74936b38b17bdee4171da668e330cfa16"
+  },
+  "aime26__model=qwen3_5_9b__b=064": {
+    "expected_allocation_sha256": "a4a60a63ce178872c4e7603d625a5d0f713c3991060fe31a9b2debb46a5f739c",
+    "expected_accepted_sha256": "a5753a81be07f4c2333413362e2daf7c4c5d71b4b9f6c1e52d017a3e682df384",
+    "expected_reward_fingerprint": "444738405214dd35ae0697ad16a20bc74936b38b17bdee4171da668e330cfa16"
+  },
+  "gpqa_diamond__domain_biology__model=qwen2_5_32b__b=008": {
+    "expected_allocation_sha256": "73bebf92d1afb3eadb4db0a76d21450922afaa4dc38c47ac9da8b9f39a6ada6a",
+    "expected_accepted_sha256": "3263a412264209c560d8c4c9caac95d5f06779088a2ca4d2d898b2f10e5bafd2",
+    "expected_reward_fingerprint": "dac2837200d285c3f94c943856abc62eb909f587265d4132eacf415955764f2e"
+  },
+  "gpqa_diamond__domain_biology__model=qwen2_5_32b__b=016": {
+    "expected_allocation_sha256": "31fe466215232e106c9c77a907f7fc3843adc18be4d4c22ac31b4dfc01b5284f",
+    "expected_accepted_sha256": "c9d2de507f56fc4bb4296a1f7a0082279121ef880bd7477f1f2fc3c796d7915a",
+    "expected_reward_fingerprint": "dac2837200d285c3f94c943856abc62eb909f587265d4132eacf415955764f2e"
+  },
+  "gpqa_diamond__domain_biology__model=qwen2_5_32b__b=032": {
+    "expected_allocation_sha256": "dd374b5304d4cf4a43611f11a41a62a3781c206143c625d0c4a87036338c4df2",
+    "expected_accepted_sha256": "5f7f41875a12cb0da9036c3e3afc08d5c625ebc4eb3910732924f147a18ef482",
+    "expected_reward_fingerprint": "dac2837200d285c3f94c943856abc62eb909f587265d4132eacf415955764f2e"
+  },
+  "gpqa_diamond__domain_biology__model=qwen2_5_32b__b=064": {
+    "expected_allocation_sha256": "503ef013acd715cd19714acce5b497c20a3a8d49d3a26f9622c85696d59e4e8d",
+    "expected_accepted_sha256": "c3e66b90085067abb8c4410ecac755fbb699e36a57c6394bddaafe440b6b6912",
+    "expected_reward_fingerprint": "dac2837200d285c3f94c943856abc62eb909f587265d4132eacf415955764f2e"
+  },
+  "gpqa_diamond__domain_biology__model=qwen2_5_7b__b=008": {
+    "expected_allocation_sha256": "2c626d39ec8c22ba79824a788f7d9345abcbb92e00422168da32dd595b7f49c0",
+    "expected_accepted_sha256": "6f445b1126bbd5c15471f2a41e5296f38105f07ca8898375ca3deab05a3a1314",
+    "expected_reward_fingerprint": "c5c5a5368fc63582b4b4966923215b84143ca1ca54f754dbe42da180ef55076a"
+  },
+  "gpqa_diamond__domain_biology__model=qwen2_5_7b__b=016": {
+    "expected_allocation_sha256": "eafa11e59e183774f2e45bf25ba5050bd9cb27e377cdc54ea9504c7e64d1180c",
+    "expected_accepted_sha256": "ad53de7a5d4916538a5a64a0eef3631c1facfdd958b4b82f87cdb1f89d3e965b",
+    "expected_reward_fingerprint": "c5c5a5368fc63582b4b4966923215b84143ca1ca54f754dbe42da180ef55076a"
+  },
+  "gpqa_diamond__domain_biology__model=qwen2_5_7b__b=032": {
+    "expected_allocation_sha256": "a42b9b8d05905c0f81051e0d052f8391b00866849b43dc14da964d9a2c476869",
+    "expected_accepted_sha256": "750d07f5da11d3fa01c819d6beb59ab5da35ffb97c23e94dfc921f17644a4608",
+    "expected_reward_fingerprint": "c5c5a5368fc63582b4b4966923215b84143ca1ca54f754dbe42da180ef55076a"
+  },
+  "gpqa_diamond__domain_biology__model=qwen2_5_7b__b=064": {
+    "expected_allocation_sha256": "39d06155790cdbc65d8e67826b94031822ec802df18eae0dc17ccca517c8b855",
+    "expected_accepted_sha256": "08a540477c9de2fc677909f66e6a6ab0fdfee7375e9b3712e47b45607dc27e54",
+    "expected_reward_fingerprint": "c5c5a5368fc63582b4b4966923215b84143ca1ca54f754dbe42da180ef55076a"
+  },
+  "gpqa_diamond__domain_biology__model=qwen3_5_27b__b=008": {
+    "expected_allocation_sha256": "7a37037eabae4dca4d956fe064be00c6addc3566c95db281d6148866f5901b5c",
+    "expected_accepted_sha256": "a03964bfcf426f182e58551fc92f79fb31bee9a241b842a0ecf57481da8f76d9",
+    "expected_reward_fingerprint": "aefc0ec3b60be6ae9471bd9bc99879ef4814d70537b884d8ec61e541f5fc24cd"
+  },
+  "gpqa_diamond__domain_biology__model=qwen3_5_27b__b=016": {
+    "expected_allocation_sha256": "b0ba93db51b21b12dba8d1c12cea20283d115ceead3000205fe11e1576cc33d5",
+    "expected_accepted_sha256": "a77bb140d54610d97c204982ecf0f8b79b458319f33bde6eff27f0533c98545e",
+    "expected_reward_fingerprint": "aefc0ec3b60be6ae9471bd9bc99879ef4814d70537b884d8ec61e541f5fc24cd"
+  },
+  "gpqa_diamond__domain_biology__model=qwen3_5_27b__b=032": {
+    "expected_allocation_sha256": "766b24d05719cae846618a219ebd2d3d6eaef0ecf821aacade1eae5cc9b8c968",
+    "expected_accepted_sha256": "94e2eb25dcab951a212c2632011ff5155b6d8837432e4eea095226e6bae5786a",
+    "expected_reward_fingerprint": "aefc0ec3b60be6ae9471bd9bc99879ef4814d70537b884d8ec61e541f5fc24cd"
+  },
+  "gpqa_diamond__domain_biology__model=qwen3_5_27b__b=064": {
+    "expected_allocation_sha256": "9a1328479d271d6c2fcb21e963b39e5fb1869f5e2e63664c887693db4dce2adc",
+    "expected_accepted_sha256": "0974dca0c8e26b5efc07039452bc2680ae401cfe021f732f85e1d165677f197d",
+    "expected_reward_fingerprint": "aefc0ec3b60be6ae9471bd9bc99879ef4814d70537b884d8ec61e541f5fc24cd"
+  },
+  "gpqa_diamond__domain_biology__model=qwen3_5_4b__b=008": {
+    "expected_allocation_sha256": "4ca03d6832e6fd7e789993134ac8a5019440a56ce84b2f42ed4b53d59f50ead6",
+    "expected_accepted_sha256": "493cde3d683b9c2d7cb6d3fa46dbff01282b71a04eb630f0d62d0c85ef916567",
+    "expected_reward_fingerprint": "f055ab077dee3c2a4c7516f25548d2ae8c430cb58362052b63ded3136207a153"
+  },
+  "gpqa_diamond__domain_biology__model=qwen3_5_4b__b=016": {
+    "expected_allocation_sha256": "157cc302d2af88554c2362e1d476a6932b83a6ba189991371ce01764ec4753eb",
+    "expected_accepted_sha256": "4bb46616acb00caa3806cc029cce8e6784ac9f9b1ca71d973082623a12e876a8",
+    "expected_reward_fingerprint": "f055ab077dee3c2a4c7516f25548d2ae8c430cb58362052b63ded3136207a153"
+  },
+  "gpqa_diamond__domain_biology__model=qwen3_5_4b__b=032": {
+    "expected_allocation_sha256": "870b98362f2f89b725d8d754ae7eaa702bf939e2401e9bacc8e8341ae1425fa0",
+    "expected_accepted_sha256": "bb31efa32da979181a38e36e58cd84874a105ed5342105cd190154debd1ac96a",
+    "expected_reward_fingerprint": "f055ab077dee3c2a4c7516f25548d2ae8c430cb58362052b63ded3136207a153"
+  },
+  "gpqa_diamond__domain_biology__model=qwen3_5_4b__b=064": {
+    "expected_allocation_sha256": "d8e7938ccf8e98ecd27b48790d7f35bb792836716cb151c80bb267d8a5b87691",
+    "expected_accepted_sha256": "1c12ac2787a40f06a2bec2b1148752cfa2e292093155233217f50c46d3294e9a",
+    "expected_reward_fingerprint": "f055ab077dee3c2a4c7516f25548d2ae8c430cb58362052b63ded3136207a153"
+  },
+  "gpqa_diamond__domain_biology__model=qwen3_5_9b__b=008": {
+    "expected_allocation_sha256": "3f04ca11aaa0c19febe9493e26b3ae2010c55d1be78a4bda12f91c84b9d8efd7",
+    "expected_accepted_sha256": "2508f6b50bffdbff8f85800e8b1735de444c135bcf13829015e2e13ce7e90eb7",
+    "expected_reward_fingerprint": "c6a3ea99da53e8b928a921015eaa7613358e7297bbf1c2b2d544018e1b340ebe"
+  },
+  "gpqa_diamond__domain_biology__model=qwen3_5_9b__b=016": {
+    "expected_allocation_sha256": "5726de9a81664a6e4a0c0fc63387229d8d8aff5218235afd692427333492aa7b",
+    "expected_accepted_sha256": "c72138bb535c6ed1a7fc8c57627bd7c7fa5d8edf15c4bb30846d91e691133f5f",
+    "expected_reward_fingerprint": "c6a3ea99da53e8b928a921015eaa7613358e7297bbf1c2b2d544018e1b340ebe"
+  },
+  "gpqa_diamond__domain_biology__model=qwen3_5_9b__b=032": {
+    "expected_allocation_sha256": "aaebf4ecaf8db744214daae03b9228fd505ff4184024043ecaeeeb40cd80f973",
+    "expected_accepted_sha256": "a108357490bff99ac9ce2fb804895aed9768dae8f4f8a49b449e97905f00e786",
+    "expected_reward_fingerprint": "c6a3ea99da53e8b928a921015eaa7613358e7297bbf1c2b2d544018e1b340ebe"
+  },
+  "gpqa_diamond__domain_biology__model=qwen3_5_9b__b=064": {
+    "expected_allocation_sha256": "c2e361750848ccbdb1af9c36b0853de3aa9ce0c350be4aa15e8c7a785be55fa7",
+    "expected_accepted_sha256": "fbf715e08a1316c843974d280160eba9cca62ccbb8da326f103bdae9f781fdcf",
+    "expected_reward_fingerprint": "c6a3ea99da53e8b928a921015eaa7613358e7297bbf1c2b2d544018e1b340ebe"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen2_5_32b__b=008": {
+    "expected_allocation_sha256": "bb5e24c53c83c6b44d4d9f073e8cec55fc1dd1b4c871bfaf264ada1bba360ae6",
+    "expected_accepted_sha256": "9a8286756007a2cedc57ed5c31ee3b20d5435a1b1f1e57a7a95b9c1c8ef17fb7",
+    "expected_reward_fingerprint": "d8b8873e7f0fbf29eed93ce0a8d0d11aab137eb28fa78ddb8eaa75b3d9d63f80"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen2_5_32b__b=016": {
+    "expected_allocation_sha256": "58aadb25f9f30389bf6286ccfaf5cbb2d221572240214e64349e7503f26704bc",
+    "expected_accepted_sha256": "3fc057c6d75c5bf228491e30f22652bda1875ef28d23fa1e6e72ba9484e0f632",
+    "expected_reward_fingerprint": "d8b8873e7f0fbf29eed93ce0a8d0d11aab137eb28fa78ddb8eaa75b3d9d63f80"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen2_5_32b__b=032": {
+    "expected_allocation_sha256": "e1238a033977a600145085a0cdabebaa6d06e04d3c9f4ea6d160afd1edb68adb",
+    "expected_accepted_sha256": "809e24b1e6ed1e5fb4334eff6577237c30f7bbecf0ea375abb394b5456f408e4",
+    "expected_reward_fingerprint": "d8b8873e7f0fbf29eed93ce0a8d0d11aab137eb28fa78ddb8eaa75b3d9d63f80"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen2_5_32b__b=064": {
+    "expected_allocation_sha256": "7fc92afdb443f36417b52a640674c607eab89d75919687b2bfed65323d17a855",
+    "expected_accepted_sha256": "5fe82885513c1746519ee8ea2c564d9502de7bd9fc69b00cfa74226651baaf39",
+    "expected_reward_fingerprint": "d8b8873e7f0fbf29eed93ce0a8d0d11aab137eb28fa78ddb8eaa75b3d9d63f80"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen2_5_3b__b=008": {
+    "expected_allocation_sha256": "3322504fd21056a40289b7ee5072a303801b8be1f83fd4e2be9f02dac0181bb1",
+    "expected_accepted_sha256": "9f6a4bc6d1892ac9a3a2c3da50e02adb468a4af49dba1a1c5d81f08ad3bb4c2a",
+    "expected_reward_fingerprint": "ab0d1e6e55d72b97fc94520385bf8d96488dbe9087130c31716a50280f2d5632"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen2_5_3b__b=016": {
+    "expected_allocation_sha256": "fe6705d405f7e1f2719c1e2895e28a721e6379fbaa32674c23316158bd2d52f0",
+    "expected_accepted_sha256": "9d3226fc82ea1e77223802fd2863e79c124fcd3c1cae6915e6c117ce9856fef3",
+    "expected_reward_fingerprint": "ab0d1e6e55d72b97fc94520385bf8d96488dbe9087130c31716a50280f2d5632"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen2_5_3b__b=032": {
+    "expected_allocation_sha256": "9aafadf9dc8fdddde8cba4722744ad15eeba2c14bbd9f90210c0a3b904f46b20",
+    "expected_accepted_sha256": "6c4ab2b2339241fdeda87d6d4dc6eda22948dd375864c630d5a80c671747ec0f",
+    "expected_reward_fingerprint": "ab0d1e6e55d72b97fc94520385bf8d96488dbe9087130c31716a50280f2d5632"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen2_5_3b__b=064": {
+    "expected_allocation_sha256": "1002cfa04b604007cbcb9c602c292324623aff6b84bda6a4fb8e099da6067c08",
+    "expected_accepted_sha256": "dbcf7b60ccb63f66e0f6c0cacda2466eff4adfa638e5897b04421648859234f8",
+    "expected_reward_fingerprint": "ab0d1e6e55d72b97fc94520385bf8d96488dbe9087130c31716a50280f2d5632"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen2_5_7b__b=008": {
+    "expected_allocation_sha256": "5f71e42711e45a52e5bda036dfac0883ed7c718d4041844389be6204770f17a4",
+    "expected_accepted_sha256": "3f94043e2b7d438d791618ad2dd5c438518277056f0e74821a81c037f2108392",
+    "expected_reward_fingerprint": "43de9067ee949cc8af33dbf547726e6ed56b6ce06e3116c471177bb57c8581db"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen2_5_7b__b=016": {
+    "expected_allocation_sha256": "e9d46a4be412ec923dd3049c48b3bbad142a72c7ad194389ea5bd0a115748e79",
+    "expected_accepted_sha256": "cacb683af3070558a5320877627f973390c1b24c29ceec1af41964928e9d7105",
+    "expected_reward_fingerprint": "43de9067ee949cc8af33dbf547726e6ed56b6ce06e3116c471177bb57c8581db"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen2_5_7b__b=032": {
+    "expected_allocation_sha256": "42c71434415aa5aa9bd41a3ae56844e7cca0f3b706d42ad26165fc6259ee1d6d",
+    "expected_accepted_sha256": "122987e81300e40f810a91d91a10e17f146d2fb40bf3d9a2426ee764765ba14f",
+    "expected_reward_fingerprint": "43de9067ee949cc8af33dbf547726e6ed56b6ce06e3116c471177bb57c8581db"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen2_5_7b__b=064": {
+    "expected_allocation_sha256": "a1e05e7a0d756f84bf32e3bcde05f031a6530e9dc4fa984bcda15a0c518827c1",
+    "expected_accepted_sha256": "0763fab2ef511dedc55ea07e4de30560497d1d0b36d3b70074eb44bc67dd9aeb",
+    "expected_reward_fingerprint": "43de9067ee949cc8af33dbf547726e6ed56b6ce06e3116c471177bb57c8581db"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen3_5_27b__b=008": {
+    "expected_allocation_sha256": "b9fc305d218e85af4bb1c59d900e472faf98c3166becaf23d1c62d08bb998fd1",
+    "expected_accepted_sha256": "2f55e901161bf778021d79b4bb0f951a85af2ccbdffa3a080527af20b97410d4",
+    "expected_reward_fingerprint": "38ec4986c4a9e2576604605b1c8dd24b450cf46669f19c120eb7e5e5f9836417"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen3_5_27b__b=016": {
+    "expected_allocation_sha256": "81120d01aeafefaff422b48724fec220cc453e88c12eae7c8a856d0fea4389d4",
+    "expected_accepted_sha256": "f0b7104f0fef01dd91576c242087cf113dd1ba43e0872289cf0b41bfbb32b8cd",
+    "expected_reward_fingerprint": "38ec4986c4a9e2576604605b1c8dd24b450cf46669f19c120eb7e5e5f9836417"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen3_5_27b__b=032": {
+    "expected_allocation_sha256": "c8ecc2d25fdacb849d77e4801597dbb07a41719fc72288d5a18847333ff1a3b5",
+    "expected_accepted_sha256": "ba653f1ac76a0e6e9bcf371d4dd9ae266a57d2f42e025353b254019070930501",
+    "expected_reward_fingerprint": "38ec4986c4a9e2576604605b1c8dd24b450cf46669f19c120eb7e5e5f9836417"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen3_5_27b__b=064": {
+    "expected_allocation_sha256": "74af88d3c03f4c9b44dde40e410302337f86074d1fec325100e8d8c25e17a546",
+    "expected_accepted_sha256": "e48daffbdaf43b9cc522f72f0d66a8621a73438422c110287d2ced8a646ca5c9",
+    "expected_reward_fingerprint": "38ec4986c4a9e2576604605b1c8dd24b450cf46669f19c120eb7e5e5f9836417"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen3_5_4b__b=008": {
+    "expected_allocation_sha256": "4003bfa92395879d559c42b474bdc68f105d6e09e56f606c16fb6632e81bcc0c",
+    "expected_accepted_sha256": "0d1903c34e89632b32b2b59631325e246c4966fec585a480def9b5018f68ccb4",
+    "expected_reward_fingerprint": "3480d642f80c9ad992284f64b0afc81676e9f2dcca219426d1e1be1757813d84"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen3_5_4b__b=016": {
+    "expected_allocation_sha256": "fe01dc05451045458dc5509907a691da4059d600badfba3dffae94409b778632",
+    "expected_accepted_sha256": "af8e36727be2fd8a0e2ad751ddc790155213777f5b06decfe0431c42c976edea",
+    "expected_reward_fingerprint": "3480d642f80c9ad992284f64b0afc81676e9f2dcca219426d1e1be1757813d84"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen3_5_4b__b=032": {
+    "expected_allocation_sha256": "d1ef42204a1b7d5f39273d75267f69653f47a9073a190526f0f9b1371f1cba4d",
+    "expected_accepted_sha256": "1ece1481080fdc83e9466df4a391fcb9fb13a21f1184d5aa8dbd7b54a8a20e8a",
+    "expected_reward_fingerprint": "3480d642f80c9ad992284f64b0afc81676e9f2dcca219426d1e1be1757813d84"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen3_5_4b__b=064": {
+    "expected_allocation_sha256": "274068792c0ba53f2ad52ecbe42b41fd8d70f068c11cc2dd718738e78d6cd993",
+    "expected_accepted_sha256": "766b31bd458565db732943ad63ce822debcd0876895e84d4e315e1504a3c9a62",
+    "expected_reward_fingerprint": "3480d642f80c9ad992284f64b0afc81676e9f2dcca219426d1e1be1757813d84"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen3_5_9b__b=008": {
+    "expected_allocation_sha256": "9a1156e180fd8945a20aa2522a8d97521c6c29c27f8d8ed0727e6372dc5b6684",
+    "expected_accepted_sha256": "0e82d757841205132fbc20e8e8161acecdf7c2de90183ff621650973c0203a0e",
+    "expected_reward_fingerprint": "4377132b38c2ca127c5e266e50071e4729534bc000bba60db015cb7d312d815b"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen3_5_9b__b=016": {
+    "expected_allocation_sha256": "7f634cf56062b92627545d78fc277f09e321b03c5ce02c2ff8e03d5d6b9f31ad",
+    "expected_accepted_sha256": "0b4124f0841a1bfa2c6a8cc1ca6f183d8001ec66e15607740ea41974c8c43c1e",
+    "expected_reward_fingerprint": "4377132b38c2ca127c5e266e50071e4729534bc000bba60db015cb7d312d815b"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen3_5_9b__b=032": {
+    "expected_allocation_sha256": "30373befd38f3aad8be128be7f43ddae0d2457788d823e2e0bfa60b5805a58bb",
+    "expected_accepted_sha256": "c4e7f6c49d34171e4d3e74a5433f26488348c48765997cdaabd8a652dd9e6fbb",
+    "expected_reward_fingerprint": "4377132b38c2ca127c5e266e50071e4729534bc000bba60db015cb7d312d815b"
+  },
+  "gpqa_diamond__domain_chemistry__model=qwen3_5_9b__b=064": {
+    "expected_allocation_sha256": "39e2424a4b2d9a72f28ab8ea9f59d153a572f14e8c3b5518576637d8e7be2cf3",
+    "expected_accepted_sha256": "00a6dbb5997f41f0ea61e14856ea02df561e5dc05184a8368c5eeb543fabb34b",
+    "expected_reward_fingerprint": "4377132b38c2ca127c5e266e50071e4729534bc000bba60db015cb7d312d815b"
+  },
+  "gpqa_diamond__domain_physics__model=qwen2_5_32b__b=008": {
+    "expected_allocation_sha256": "e70ac2a5a7ca62c832ff486c6b45ebb46e7d45fe224ad37bd7ec0e8e007170e8",
+    "expected_accepted_sha256": "9e11a0a9abbe4d386d19cdab1b3d978ba8c5efa71b8fd0cac015ae4ce03ae002",
+    "expected_reward_fingerprint": "3069cb8ba1778636705c104ae6446450d7ed95f7a60d996cd1b8cb341704dd1f"
+  },
+  "gpqa_diamond__domain_physics__model=qwen2_5_32b__b=016": {
+    "expected_allocation_sha256": "92b2c5624704ed462ec28922dce9885e084ce55af15bf3fb5fa1b3a0ad08e922",
+    "expected_accepted_sha256": "290cb8e1cf7d588127c9d9f85a37784937eb81df7e12bbd9fdd29e899ded8d62",
+    "expected_reward_fingerprint": "3069cb8ba1778636705c104ae6446450d7ed95f7a60d996cd1b8cb341704dd1f"
+  },
+  "gpqa_diamond__domain_physics__model=qwen2_5_32b__b=032": {
+    "expected_allocation_sha256": "27d6c998c8de54ff994e2643afec1db72fe604fea9443d0e1c0d2fbd0fd359e9",
+    "expected_accepted_sha256": "f26c08dda009cda2d25929b0777187ae997dc3be83c09ea0ba9657b93b19ea97",
+    "expected_reward_fingerprint": "3069cb8ba1778636705c104ae6446450d7ed95f7a60d996cd1b8cb341704dd1f"
+  },
+  "gpqa_diamond__domain_physics__model=qwen2_5_32b__b=064": {
+    "expected_allocation_sha256": "0b407c14f04360004b08388b825ff3ee24232f8ccc9145d68c9274e12d946324",
+    "expected_accepted_sha256": "6f47198508b0395defb9327227b05c53a4373f5a386e0560337af3a5251b0983",
+    "expected_reward_fingerprint": "3069cb8ba1778636705c104ae6446450d7ed95f7a60d996cd1b8cb341704dd1f"
+  },
+  "gpqa_diamond__domain_physics__model=qwen2_5_3b__b=008": {
+    "expected_allocation_sha256": "7ffe0b5cb50a89271b10c435653dd836b2f404c5d2da9febe1d53e994ec45735",
+    "expected_accepted_sha256": "e7b11ece3fd407e7e932bdda44967422f147e06bc7bde5b091cc17541ba55242",
+    "expected_reward_fingerprint": "ba6b62a313a750ecd8873cb5446e4a919e17e010c5a89777d07e84cadfc215e3"
+  },
+  "gpqa_diamond__domain_physics__model=qwen2_5_3b__b=016": {
+    "expected_allocation_sha256": "2e2a5f57668eca720a92ff4cdbdf11487ac30cd064821727fe3e6e7980a73fb8",
+    "expected_accepted_sha256": "e6e7ac132eebf93d133126d2c038428ccf953e1b0a035caac3d5369f4c4c3fda",
+    "expected_reward_fingerprint": "ba6b62a313a750ecd8873cb5446e4a919e17e010c5a89777d07e84cadfc215e3"
+  },
+  "gpqa_diamond__domain_physics__model=qwen2_5_3b__b=032": {
+    "expected_allocation_sha256": "dfd15c7d6345f451d302e346759683d9c1f2dcb00f1f062f0b32386e82573270",
+    "expected_accepted_sha256": "abbb339c639070bd2255b5f5fc06db44e2fc3f713929f8350092d81eede713e5",
+    "expected_reward_fingerprint": "ba6b62a313a750ecd8873cb5446e4a919e17e010c5a89777d07e84cadfc215e3"
+  },
+  "gpqa_diamond__domain_physics__model=qwen2_5_3b__b=064": {
+    "expected_allocation_sha256": "8267cd484ec73da00faf84d4cfdfe68c175a1354a5d389464b91eddc9345c33f",
+    "expected_accepted_sha256": "f394f8e565d30ff2c75dd59e5f0ba1444e421959ab6b6cc25f77bb342246aed1",
+    "expected_reward_fingerprint": "ba6b62a313a750ecd8873cb5446e4a919e17e010c5a89777d07e84cadfc215e3"
+  },
+  "gpqa_diamond__domain_physics__model=qwen2_5_7b__b=008": {
+    "expected_allocation_sha256": "cf81bf5b345cff803415b23e56935344899b60b87ed8623b93c5e9240baae2af",
+    "expected_accepted_sha256": "b455dca596fa641fd47b1cc3918ff7742ec21154cbade3841c2f013e81b41026",
+    "expected_reward_fingerprint": "2f6ff9b7117feb81d7fd156cb5455f3cae7f416bcff7f35e73d35e8bd11a84fb"
+  },
+  "gpqa_diamond__domain_physics__model=qwen2_5_7b__b=016": {
+    "expected_allocation_sha256": "0f51c1a54fa713361ad1af4d3ec0cdde2b7f8b643ead5e3ee7239b2330b4579c",
+    "expected_accepted_sha256": "a69ce811e85c0c57ba04a6f667b606fbf575241181f59875522acb05ffff47f5",
+    "expected_reward_fingerprint": "2f6ff9b7117feb81d7fd156cb5455f3cae7f416bcff7f35e73d35e8bd11a84fb"
+  },
+  "gpqa_diamond__domain_physics__model=qwen2_5_7b__b=032": {
+    "expected_allocation_sha256": "5c646f8b6688dbd38adbd3d5209702f78a36a682fe69770c19b7dba151a35f9f",
+    "expected_accepted_sha256": "35d9f2072dbdc5ba5f2047cee0dd74c19d280b0592ca810a3696d311a0c08b29",
+    "expected_reward_fingerprint": "2f6ff9b7117feb81d7fd156cb5455f3cae7f416bcff7f35e73d35e8bd11a84fb"
+  },
+  "gpqa_diamond__domain_physics__model=qwen2_5_7b__b=064": {
+    "expected_allocation_sha256": "e67019b6f90c262b88f172d3e5056f9ea39eebfc6cfa78bcac13fc530fed9a84",
+    "expected_accepted_sha256": "796171d2741863f493f3cf2ecaa19f52253ca19d9f68a4b97d8f219a6f973d9d",
+    "expected_reward_fingerprint": "2f6ff9b7117feb81d7fd156cb5455f3cae7f416bcff7f35e73d35e8bd11a84fb"
+  },
+  "gpqa_diamond__domain_physics__model=qwen3_5_27b__b=008": {
+    "expected_allocation_sha256": "9fd4d2759ec78af10da1612137e43354b845622b951c123234763c7a0412aab7",
+    "expected_accepted_sha256": "33f80b67e0c1153f82a9c044676b98ec34d05a48ca98d599a5ffbaf0e198084b",
+    "expected_reward_fingerprint": "f0a7966ba54d6230c6628680830649af63b7391340b32c714035fc048998c54b"
+  },
+  "gpqa_diamond__domain_physics__model=qwen3_5_27b__b=016": {
+    "expected_allocation_sha256": "5c210bfd8a8cb024fba236107e97af46876c32af04e36b2cfa9af58e24ac6e7d",
+    "expected_accepted_sha256": "cc7450048ed0f3ffe36f0457d96a6eb36136577508b2a512e1853f79b88c5061",
+    "expected_reward_fingerprint": "f0a7966ba54d6230c6628680830649af63b7391340b32c714035fc048998c54b"
+  },
+  "gpqa_diamond__domain_physics__model=qwen3_5_27b__b=032": {
+    "expected_allocation_sha256": "57828f0c1917244565ed5e4b0edd23ae22db9649ed0fded3ae06e9a9dbced805",
+    "expected_accepted_sha256": "7587a7382eeb2a82d0833b2eac046684110b671c0c5dedcf4904ed5e8b198212",
+    "expected_reward_fingerprint": "f0a7966ba54d6230c6628680830649af63b7391340b32c714035fc048998c54b"
+  },
+  "gpqa_diamond__domain_physics__model=qwen3_5_27b__b=064": {
+    "expected_allocation_sha256": "03b39cbde0e0c6883ee4b96c73fe4672d2ff76e55368fa4e7f5c54e62ea896d4",
+    "expected_accepted_sha256": "f431e700a201affea3c75176bbbfe6458d8546d0f83442e70db821b7b4db43bd",
+    "expected_reward_fingerprint": "f0a7966ba54d6230c6628680830649af63b7391340b32c714035fc048998c54b"
+  },
+  "gpqa_diamond__domain_physics__model=qwen3_5_4b__b=008": {
+    "expected_allocation_sha256": "4d49daa9b8735c214b11e9633770f63d4f80c0bd884d77a9a9484d9c4ee6a2a4",
+    "expected_accepted_sha256": "633b1d188ba67cb4365e6fef55f12f709924c4f12b1a6ac15e1c405d99036bce",
+    "expected_reward_fingerprint": "03f8bcb1ee9e31860d72ba998731dc2e87ba3d001d4c87fcfb4e7cbbaf464fed"
+  },
+  "gpqa_diamond__domain_physics__model=qwen3_5_4b__b=016": {
+    "expected_allocation_sha256": "d5d89ff8c51e199cc067bb780a08edfc44fe957bf0a1a3cdc2a5adca862dd298",
+    "expected_accepted_sha256": "c7947a9d95e3d1e1d7ec18655184407fd755414c12da2d757502efaabe577341",
+    "expected_reward_fingerprint": "03f8bcb1ee9e31860d72ba998731dc2e87ba3d001d4c87fcfb4e7cbbaf464fed"
+  },
+  "gpqa_diamond__domain_physics__model=qwen3_5_4b__b=032": {
+    "expected_allocation_sha256": "c0a38835e2bd55ec1fdcc24a054001f0a9335f1fd48e318f35b8f57f62d3eb2f",
+    "expected_accepted_sha256": "484c98dea3df3bffc5676276aa1c96efd6344405d4f9f7476be7d6adebd928ac",
+    "expected_reward_fingerprint": "03f8bcb1ee9e31860d72ba998731dc2e87ba3d001d4c87fcfb4e7cbbaf464fed"
+  },
+  "gpqa_diamond__domain_physics__model=qwen3_5_4b__b=064": {
+    "expected_allocation_sha256": "22fbc3d9a27ab521dad1780ed3786745991df30cc79a8ec5de63507863f341e1",
+    "expected_accepted_sha256": "4218c1bc2c1af6c4e0a2b7edc61c2a2cad6f109f446d778ac4d4c0de1ae0ab89",
+    "expected_reward_fingerprint": "03f8bcb1ee9e31860d72ba998731dc2e87ba3d001d4c87fcfb4e7cbbaf464fed"
+  },
+  "gpqa_diamond__domain_physics__model=qwen3_5_9b__b=008": {
+    "expected_allocation_sha256": "3bc2b5aa8bb0ea172f96f1b7ea6a6c6a6064ad2ee0db2ffdc2016162298d9374",
+    "expected_accepted_sha256": "026adf28f298a00cb67c3f3e3ffcd08e53a19e8c4c5e4bc7eed03b0fb08e02af",
+    "expected_reward_fingerprint": "eeabddc211b381dd92bb05827095ac8054ab6ad6a79434d6af0fb3bd02bac305"
+  },
+  "gpqa_diamond__domain_physics__model=qwen3_5_9b__b=016": {
+    "expected_allocation_sha256": "4ff181fc1398b97c0712a7d7cff20bf3cbffa518261b061bc7b913d2968a7acb",
+    "expected_accepted_sha256": "431ac12e63ad3333115919dd2e0180b09ee05770325229540701b12f6907044b",
+    "expected_reward_fingerprint": "eeabddc211b381dd92bb05827095ac8054ab6ad6a79434d6af0fb3bd02bac305"
+  },
+  "gpqa_diamond__domain_physics__model=qwen3_5_9b__b=032": {
+    "expected_allocation_sha256": "b6d2736a13ad7bf03a9f52f744e13053cc5c6ca7a5ef1f4967f91d9bc4496dfb",
+    "expected_accepted_sha256": "38c735e8240dc1f8b1e058925360cb8a3d227ed2a806bb8186529ca297db2243",
+    "expected_reward_fingerprint": "eeabddc211b381dd92bb05827095ac8054ab6ad6a79434d6af0fb3bd02bac305"
+  },
+  "gpqa_diamond__domain_physics__model=qwen3_5_9b__b=064": {
+    "expected_allocation_sha256": "fda6ea0df9a0cc233a03f6685087235b03197626dac8a4464a907babd791f2b2",
+    "expected_accepted_sha256": "571ee3e96cad1f5eb1b9f019a07c47a99e0e2b5ca3516a0596d8e2acdcd66a65",
+    "expected_reward_fingerprint": "eeabddc211b381dd92bb05827095ac8054ab6ad6a79434d6af0fb3bd02bac305"
+  },
+  "hle__text_only_sample100__model=qwen2_5_32b__b=008": {
+    "expected_allocation_sha256": "a79e65f448a8924905b0b07ec942016909bc50c5d68537b577bf3a293dde33ab",
+    "expected_accepted_sha256": "824f959aabf779142099fd637a186cb0f1bc5930e2e446827e3b68ee670d27a1",
+    "expected_reward_fingerprint": "e334845a8d439ccaa3e7c474da3ffe2813df97db6c4fd0c7914d3ce4d29b8b03"
+  },
+  "hle__text_only_sample100__model=qwen2_5_32b__b=016": {
+    "expected_allocation_sha256": "8bb8b6e0c1643596deb4f52eefd4ad36b9712ca7f4fbb3534091e3a10f44960e",
+    "expected_accepted_sha256": "05b7dd0295c0811d3c99f9094870cf1ff3f39713bee5a767036e9caf6139778e",
+    "expected_reward_fingerprint": "e334845a8d439ccaa3e7c474da3ffe2813df97db6c4fd0c7914d3ce4d29b8b03"
+  },
+  "hle__text_only_sample100__model=qwen2_5_32b__b=032": {
+    "expected_allocation_sha256": "6215e66effad5bd3fc3216a16ff6b6a46186f7f19f415215127c4da3986af7a7",
+    "expected_accepted_sha256": "9b360ee214e0d453f7dff41e3aa9e413c243a1f80b928fbf66a3910615d6f513",
+    "expected_reward_fingerprint": "e334845a8d439ccaa3e7c474da3ffe2813df97db6c4fd0c7914d3ce4d29b8b03"
+  },
+  "hle__text_only_sample100__model=qwen2_5_32b__b=064": {
+    "expected_allocation_sha256": "637eebac93ad594914ba4352c2492c380959c07a62cc1a4fbd9e3927f8ffee42",
+    "expected_accepted_sha256": "d523be0edf2acb965a43476d585f6a49d268d9ea829c6e9917d51f215621789f",
+    "expected_reward_fingerprint": "e334845a8d439ccaa3e7c474da3ffe2813df97db6c4fd0c7914d3ce4d29b8b03"
+  },
+  "hle__text_only_sample100__model=qwen2_5_3b__b=008": {
+    "expected_allocation_sha256": "3ec1eccebfc0e38ff7d9c70a7a754975a242a919e7e4a0aa98a96beb6af7d78c",
+    "expected_accepted_sha256": "a3a9e691e9e376252616bb9f03297a532cdefbb575da11b9c8d0f01802e1a3fe",
+    "expected_reward_fingerprint": "cac55e855a926df676e1be1c44e212fdd03de5862b251785620d7c0426d9a1ff"
+  },
+  "hle__text_only_sample100__model=qwen2_5_3b__b=016": {
+    "expected_allocation_sha256": "914bcd3ea36e24076dffbd362b485ed53478523d9398b14193cf9b3f235db449",
+    "expected_accepted_sha256": "f93cc2d95eca7213db5995b7ae5e26b9cb019a66fa9e545a205edd17110ee77f",
+    "expected_reward_fingerprint": "cac55e855a926df676e1be1c44e212fdd03de5862b251785620d7c0426d9a1ff"
+  },
+  "hle__text_only_sample100__model=qwen2_5_3b__b=032": {
+    "expected_allocation_sha256": "dddeea57ea8b62ba9f9b471af4f5f51425ee9926d68d2f92a4820d5455537c80",
+    "expected_accepted_sha256": "55765a8358e2f56315a5d16b730e3ebc51269b810cf66a7b4c5d65bd1c7a71e2",
+    "expected_reward_fingerprint": "cac55e855a926df676e1be1c44e212fdd03de5862b251785620d7c0426d9a1ff"
+  },
+  "hle__text_only_sample100__model=qwen2_5_3b__b=064": {
+    "expected_allocation_sha256": "748f56dd1947d1bfe1282ac3d5e95e0a3755a6fa4c9f670f8cc164479959d3f0",
+    "expected_accepted_sha256": "56ae0be20a25ac71b884524969890fcbf4a9a7e1929b1415a01251ebc4157b18",
+    "expected_reward_fingerprint": "cac55e855a926df676e1be1c44e212fdd03de5862b251785620d7c0426d9a1ff"
+  },
+  "hle__text_only_sample100__model=qwen2_5_7b__b=008": {
+    "expected_allocation_sha256": "8edd2c71da4c286b080de00b45b599927ef4beb85750991ef9eb4276ccd6e7f1",
+    "expected_accepted_sha256": "687d116005d6bd25259ba040b9bf9d3d5b96cb3323e46790b2b6048f95af2250",
+    "expected_reward_fingerprint": "bbc7ca37fd8695f4f9ead2cafd8a3b2cef2a3296eaf451aa31c48b2ad71b5a51"
+  },
+  "hle__text_only_sample100__model=qwen2_5_7b__b=016": {
+    "expected_allocation_sha256": "5e517cc7c8c4dc3a0124ab6e20ae759cd740ab0ea7da72c23dfd8a4ee7c5e1e6",
+    "expected_accepted_sha256": "b64fc574336532586e7df40dc247b0cd52dc7b86333324c5297a16cc9aac218a",
+    "expected_reward_fingerprint": "bbc7ca37fd8695f4f9ead2cafd8a3b2cef2a3296eaf451aa31c48b2ad71b5a51"
+  },
+  "hle__text_only_sample100__model=qwen2_5_7b__b=032": {
+    "expected_allocation_sha256": "e4d854867f4c91aa35a06493308d56c3472f886d6139784331c41c7de5360080",
+    "expected_accepted_sha256": "0e23c9881acfe268fe8c1620a95138a76f916d37a13b822cd685a36411043426",
+    "expected_reward_fingerprint": "bbc7ca37fd8695f4f9ead2cafd8a3b2cef2a3296eaf451aa31c48b2ad71b5a51"
+  },
+  "hle__text_only_sample100__model=qwen2_5_7b__b=064": {
+    "expected_allocation_sha256": "7b0cfbead7cc64ea84ec88bf228304ee077709f8c471f6f3b4e2a06187bbd29b",
+    "expected_accepted_sha256": "4d4545544b3f98e2236e96bd3be6713ab7e8b749d231f8b23478ff1e5eb26eff",
+    "expected_reward_fingerprint": "bbc7ca37fd8695f4f9ead2cafd8a3b2cef2a3296eaf451aa31c48b2ad71b5a51"
+  },
+  "hle__text_only_sample100__model=qwen3_5_27b__b=008": {
+    "expected_allocation_sha256": "f34e6909b749fe1424311ea39d82737f9cf8d728e709bcba6ae4088c76a6845e",
+    "expected_accepted_sha256": "791e3add7c8776e8fe27311027d2f19782ce0cb628496c72802ed70660f60b49",
+    "expected_reward_fingerprint": "f544ba7cfa83fff8179bf0cfa4aa883105d88e1cab06e5da2b5d1279bbe3f00e"
+  },
+  "hle__text_only_sample100__model=qwen3_5_27b__b=016": {
+    "expected_allocation_sha256": "a6717aa5f8f8c35caba6cce7113c087257294570670b1b8c44422091bef281de",
+    "expected_accepted_sha256": "f60065ad52e6ab99043c7adfd852390d91cdfb99bcfef6fb3d9e5bb61e775c49",
+    "expected_reward_fingerprint": "f544ba7cfa83fff8179bf0cfa4aa883105d88e1cab06e5da2b5d1279bbe3f00e"
+  },
+  "hle__text_only_sample100__model=qwen3_5_27b__b=032": {
+    "expected_allocation_sha256": "8459f4b43f20bace3ca2678fa1afee69cc89ba8981a408c83c36d009213ca45a",
+    "expected_accepted_sha256": "b1e20933e1f45778696a60c490601f7c2a1f2acd2e6976700d750b4d9977cf08",
+    "expected_reward_fingerprint": "f544ba7cfa83fff8179bf0cfa4aa883105d88e1cab06e5da2b5d1279bbe3f00e"
+  },
+  "hle__text_only_sample100__model=qwen3_5_27b__b=064": {
+    "expected_allocation_sha256": "4537f3ecbd1a9b1b5db43e71939f9e0c9b3f950b10f0aaf41542e287fd7d3128",
+    "expected_accepted_sha256": "6c476ceb7d0acec4d69991d22a32f27d7890d33bdcc9814363ba084b484c11e1",
+    "expected_reward_fingerprint": "f544ba7cfa83fff8179bf0cfa4aa883105d88e1cab06e5da2b5d1279bbe3f00e"
+  },
+  "hle__text_only_sample100__model=qwen3_5_4b__b=008": {
+    "expected_allocation_sha256": "9231e0c36cd18a846de04b4802f134d433fa19b51729fc20d762cd359cd87738",
+    "expected_accepted_sha256": "34a5b0b12275a733447911e7f0f71f424090636365ae7ed12552628ca07b347b",
+    "expected_reward_fingerprint": "bae72b219c0d739a178d554c4265e464dbe9d58dfe5d190341bc46022de28d01"
+  },
+  "hle__text_only_sample100__model=qwen3_5_4b__b=016": {
+    "expected_allocation_sha256": "cfeb6093e16214683a26fd46bdd984aedaab95fa470bf98a621b33ed090ac831",
+    "expected_accepted_sha256": "bbb6652f4b703790ccc0b669e6cda56f76fc890e506ce791691cbe6319bd32cf",
+    "expected_reward_fingerprint": "bae72b219c0d739a178d554c4265e464dbe9d58dfe5d190341bc46022de28d01"
+  },
+  "hle__text_only_sample100__model=qwen3_5_4b__b=032": {
+    "expected_allocation_sha256": "8e089ccef34a460dfc88fdf51678f2959ec4e32f3bf547186cfdabb40bbe6b6d",
+    "expected_accepted_sha256": "e3fe256cda180e2ec0a41654b4822c79c2b15c20426cef313e9d247e792d560f",
+    "expected_reward_fingerprint": "bae72b219c0d739a178d554c4265e464dbe9d58dfe5d190341bc46022de28d01"
+  },
+  "hle__text_only_sample100__model=qwen3_5_4b__b=064": {
+    "expected_allocation_sha256": "0c1d54ce2bd1bfd739919541e6459e76ce71e69c005417114a8e031233ebc1fc",
+    "expected_accepted_sha256": "886f45124f6b377ce7ca95a1c1c5b9b6ec408c0934aef8c622aa677850bba384",
+    "expected_reward_fingerprint": "bae72b219c0d739a178d554c4265e464dbe9d58dfe5d190341bc46022de28d01"
+  },
+  "hle__text_only_sample100__model=qwen3_5_9b__b=008": {
+    "expected_allocation_sha256": "aa035650de93a75aa7447fcb44bd411a424579429bcbdba01d9e539a5ff5ab5e",
+    "expected_accepted_sha256": "5af9b5d177b379918748256fa839aa0218d58d89b2f78ca841acb1f4bee143ba",
+    "expected_reward_fingerprint": "e9b79c99fa1f71d00a7114203c1ae4a4ac931dc5de57aa8c6d60909af3888be0"
+  },
+  "hle__text_only_sample100__model=qwen3_5_9b__b=016": {
+    "expected_allocation_sha256": "ffe32ce681929eeabfd29f874c77eb855b4340ea15f50c9fe370643d8b6cad75",
+    "expected_accepted_sha256": "124f72378434d74e96ee2bb068b2d575ceb142e0699774cd572033b3dbb41a78",
+    "expected_reward_fingerprint": "e9b79c99fa1f71d00a7114203c1ae4a4ac931dc5de57aa8c6d60909af3888be0"
+  },
+  "hle__text_only_sample100__model=qwen3_5_9b__b=032": {
+    "expected_allocation_sha256": "51b4703d5d7a5c3cae237bf3b770645a220a54f7509df754201aafcbeab7c1e8",
+    "expected_accepted_sha256": "15a94730c9fac825c5889462654cb0be25274f4360de65e166fe04f277895e14",
+    "expected_reward_fingerprint": "e9b79c99fa1f71d00a7114203c1ae4a4ac931dc5de57aa8c6d60909af3888be0"
+  },
+  "hle__text_only_sample100__model=qwen3_5_9b__b=064": {
+    "expected_allocation_sha256": "33a79508cfc7e164730f0e985d307aaf28bd70b1bce8f7b837c6fb5a8753be08",
+    "expected_accepted_sha256": "fa302c1083c426dd9aee81fa4133183185e3dfbcf3e1e3b2caeb405811b7b4f5",
+    "expected_reward_fingerprint": "e9b79c99fa1f71d00a7114203c1ae4a4ac931dc5de57aa8c6d60909af3888be0"
+  },
+  "hmmt__model=qwen2_5_32b__b=008": {
+    "expected_allocation_sha256": "aa7b6d65d08f2126b4dfd5147e607efbf9ada0564361119d975d8a91f9acac96",
+    "expected_accepted_sha256": "22d6ce61adda6ce0da9a1bf96ecc4231f25ccedf7147a8f15974a029a7e8fcfa",
+    "expected_reward_fingerprint": "4de04e64407ad337fc5f40d8a81164f9d7da2e339f28609d9edd6c97c37daf1d"
+  },
+  "hmmt__model=qwen2_5_32b__b=016": {
+    "expected_allocation_sha256": "d6aa69acd0cfa3f10ec921de55d4630d3d21d7ccaa6705b032f9614fa69b8e16",
+    "expected_accepted_sha256": "3926b83a42af53b60ba244379c920503a107c9ee206434bde12ee75341186536",
+    "expected_reward_fingerprint": "4de04e64407ad337fc5f40d8a81164f9d7da2e339f28609d9edd6c97c37daf1d"
+  },
+  "hmmt__model=qwen2_5_32b__b=032": {
+    "expected_allocation_sha256": "aafc6347deb9ce18ec50f476d5114b31634c993e2dc654af6593ea2548f20876",
+    "expected_accepted_sha256": "c67a18651daf7b668ae63a8afbc3e5d9b62b118969ba88a4eed9c24419f7ad37",
+    "expected_reward_fingerprint": "4de04e64407ad337fc5f40d8a81164f9d7da2e339f28609d9edd6c97c37daf1d"
+  },
+  "hmmt__model=qwen2_5_32b__b=064": {
+    "expected_allocation_sha256": "19cf3460f1b374e32a9b82fad03da5e15e310b5bad1561b19e1b8a5ad06e5d63",
+    "expected_accepted_sha256": "3dc6e1629b09ece1b2c3684ac8f75f1fc26beb7ef4a822b5d4d7498ee2eee1ce",
+    "expected_reward_fingerprint": "4de04e64407ad337fc5f40d8a81164f9d7da2e339f28609d9edd6c97c37daf1d"
+  },
+  "hmmt__model=qwen2_5_3b__b=008": {
+    "expected_allocation_sha256": "272c5adb61d994657db745863ec422ed89160bf0c8f0c5cd09a88fe2ccca0a9d",
+    "expected_accepted_sha256": "cdf6aba581db29659d0836defcd58555539dffa672b7688bf7f81f89fb08b5d9",
+    "expected_reward_fingerprint": "16d50a1d4fce909151c25a40f307acd4050ed782f0a3b68a2bded3638a3bc2eb"
+  },
+  "hmmt__model=qwen2_5_3b__b=016": {
+    "expected_allocation_sha256": "2481a095e0362aabb84dae8ea0add4828eb8369eef681306ef69977d963c0ff0",
+    "expected_accepted_sha256": "cdcaea79d8ec61d62d623a38b82a759d0353f741f3ddaccae045aacb7105dd8b",
+    "expected_reward_fingerprint": "16d50a1d4fce909151c25a40f307acd4050ed782f0a3b68a2bded3638a3bc2eb"
+  },
+  "hmmt__model=qwen2_5_3b__b=032": {
+    "expected_allocation_sha256": "909b032769fa84b0ce94ed4ed4b8939a48ba51d44db30d24dc8d3f1c8cbdff82",
+    "expected_accepted_sha256": "ba1d10a11ceaa707759443428249172e53bf2868d5d9affafdbb1b16828af8a8",
+    "expected_reward_fingerprint": "16d50a1d4fce909151c25a40f307acd4050ed782f0a3b68a2bded3638a3bc2eb"
+  },
+  "hmmt__model=qwen2_5_3b__b=064": {
+    "expected_allocation_sha256": "5cd976e9e046dbdb50b3a55006cadf770c24a3d5f78e0d9288969e9b09cfae09",
+    "expected_accepted_sha256": "0b82e952ba6b272d1394b8ea883b616b485cd1b65a69c80b27e2b81fdc38e50c",
+    "expected_reward_fingerprint": "16d50a1d4fce909151c25a40f307acd4050ed782f0a3b68a2bded3638a3bc2eb"
+  },
+  "hmmt__model=qwen2_5_7b__b=008": {
+    "expected_allocation_sha256": "4258945eae0bf11c912112733958bef290b8a5532382488e3a59496929e5529e",
+    "expected_accepted_sha256": "8e26b0cbf8f88de5e62812b5c8f554950dd60277851e0f775ff2bea2453bd842",
+    "expected_reward_fingerprint": "35ec52e32edf5c22e6ba66b1b8320a8ed2df1395a34a837a917b0b78ae7bcf4c"
+  },
+  "hmmt__model=qwen2_5_7b__b=016": {
+    "expected_allocation_sha256": "d18b7c2fdd2900ca9ea350f64ad2f24bf44584d705fd09770e251ff1340fe825",
+    "expected_accepted_sha256": "bf376d1e91ca613a1baee2184694659da0236a8cf7ebf7b90f7e69e464893a6e",
+    "expected_reward_fingerprint": "35ec52e32edf5c22e6ba66b1b8320a8ed2df1395a34a837a917b0b78ae7bcf4c"
+  },
+  "hmmt__model=qwen2_5_7b__b=032": {
+    "expected_allocation_sha256": "6a3f5be4dec52da0fa8ca5eb65e9c84765c844ff536b673cc5ac870d917cdd12",
+    "expected_accepted_sha256": "bcf2eb86ce5d0cbf8cc249e1c8871e7f47002bda29f5bef0e7b9917497d3e449",
+    "expected_reward_fingerprint": "35ec52e32edf5c22e6ba66b1b8320a8ed2df1395a34a837a917b0b78ae7bcf4c"
+  },
+  "hmmt__model=qwen2_5_7b__b=064": {
+    "expected_allocation_sha256": "ce6e58e21e6ac7f185164b5fa533d533b4b21515bf91b64bbb3f46091ddc9db5",
+    "expected_accepted_sha256": "083b2db41e5a40161948837d6a466c0814e8ab8622f1928d5c5df558ccd9e408",
+    "expected_reward_fingerprint": "35ec52e32edf5c22e6ba66b1b8320a8ed2df1395a34a837a917b0b78ae7bcf4c"
+  },
+  "hmmt__model=qwen3_5_27b__b=008": {
+    "expected_allocation_sha256": "9bda0bfdc9c2b84987eec658bddc5b80c1da11f3e18e93df3aad06aafc8e7b3a",
+    "expected_accepted_sha256": "5bdddff3debc850add291df8361433a3600ac2641daca367b463581d570673f7",
+    "expected_reward_fingerprint": "506bd96205e2cff0433157a60976e1948165a544c1fda6ac6c39ef3c1e150c52"
+  },
+  "hmmt__model=qwen3_5_27b__b=016": {
+    "expected_allocation_sha256": "36dd6f83c8041df1f3dc3b2635b4ff5a6281c9132ca7674185caa5da5bdf3057",
+    "expected_accepted_sha256": "b4b9a4336a375d19e128751b1f056a72b63563bec8bbaeaa3e20be7cbb6280da",
+    "expected_reward_fingerprint": "506bd96205e2cff0433157a60976e1948165a544c1fda6ac6c39ef3c1e150c52"
+  },
+  "hmmt__model=qwen3_5_27b__b=032": {
+    "expected_allocation_sha256": "a4639fcb8b435e8fcd6a435bdd58cab72d1b8e52a5c9e5a6dab8e0cca3a384ff",
+    "expected_accepted_sha256": "312a2f2e53fddc26c6697caf6ce7707f6c4bd94bc8a60157e38d5fa744714806",
+    "expected_reward_fingerprint": "506bd96205e2cff0433157a60976e1948165a544c1fda6ac6c39ef3c1e150c52"
+  },
+  "hmmt__model=qwen3_5_27b__b=064": {
+    "expected_allocation_sha256": "20ba4ac63923deaa2fb27934fad1e97ebca6dcf2680691ff05bdf2e6fac4404f",
+    "expected_accepted_sha256": "45d7514a5f11177f8ebf4a71ff2fbc2f17e62c3543497eb77b144ddc1c432fa3",
+    "expected_reward_fingerprint": "506bd96205e2cff0433157a60976e1948165a544c1fda6ac6c39ef3c1e150c52"
+  },
+  "hmmt__model=qwen3_5_4b__b=008": {
+    "expected_allocation_sha256": "db6dccdc68a2e01fdbf139fc8b41c92be40e4acb63a3a716f11b836039dcf449",
+    "expected_accepted_sha256": "674dcbcb808d5ba331c915a37d2827bf95cf6d5b01d062f23ba0274f3cbd3705",
+    "expected_reward_fingerprint": "5238405047ffb30aad80bff5dca0931443cd999c8db4a5501731f8cee72ad703"
+  },
+  "hmmt__model=qwen3_5_4b__b=016": {
+    "expected_allocation_sha256": "6eff0b4c128619d2f988a72caf8458f644ac91afa6f5eb7cf75c78da661035e7",
+    "expected_accepted_sha256": "67ae1ddacb2dda8754c46da83c39fe3b46f3006fb2ce00ea5be01e38a7271e62",
+    "expected_reward_fingerprint": "5238405047ffb30aad80bff5dca0931443cd999c8db4a5501731f8cee72ad703"
+  },
+  "hmmt__model=qwen3_5_4b__b=032": {
+    "expected_allocation_sha256": "6bc4d6a1cb29ec5cec88151d3db763ed4e601a9b94c5a6dca9be1e4212e4c903",
+    "expected_accepted_sha256": "50b3902d0e6be55a12fcdb9676f6b39806a32acb75ad0c039d47561f67d0816b",
+    "expected_reward_fingerprint": "5238405047ffb30aad80bff5dca0931443cd999c8db4a5501731f8cee72ad703"
+  },
+  "hmmt__model=qwen3_5_4b__b=064": {
+    "expected_allocation_sha256": "332e26de2266f91ac088c0cde8a18187a1aba273351488584d2cd4ff4e7c4083",
+    "expected_accepted_sha256": "37ef6860343385ab97f8be01454e03c368e89b46a257dc118d91be8a38be79cd",
+    "expected_reward_fingerprint": "5238405047ffb30aad80bff5dca0931443cd999c8db4a5501731f8cee72ad703"
+  },
+  "hmmt__model=qwen3_5_9b__b=008": {
+    "expected_allocation_sha256": "b92012df98ccabb338638d5b9f827e8c1109464d5086a29c07d96236cbc30f20",
+    "expected_accepted_sha256": "e6cd4db27d7fe95d4b7ac84c0d69c17edf45f2ce2b7294e74dbfc720a9681815",
+    "expected_reward_fingerprint": "ba46b77abf627d199df08bd9463e539791f1e7fc3d80ad1c3cc4e9b74c078531"
+  },
+  "hmmt__model=qwen3_5_9b__b=016": {
+    "expected_allocation_sha256": "c6450f0d284324ffb29d0ae3ac87b97bf575e728414c63f8e2b5abc0f49aec6e",
+    "expected_accepted_sha256": "3eea672d97d570c306cf9004bd3cb1476c6b8d5186ead4777d5a8be14985a097",
+    "expected_reward_fingerprint": "ba46b77abf627d199df08bd9463e539791f1e7fc3d80ad1c3cc4e9b74c078531"
+  },
+  "hmmt__model=qwen3_5_9b__b=032": {
+    "expected_allocation_sha256": "bd0401ecee2c7f3046a3d0bf8d51a008883aa77960132946c64608e87cfbfa68",
+    "expected_accepted_sha256": "2d117f33a6d11d9dc26017687c0d2e24eeb0208c358f82d6c4a2d12a99658e12",
+    "expected_reward_fingerprint": "ba46b77abf627d199df08bd9463e539791f1e7fc3d80ad1c3cc4e9b74c078531"
+  },
+  "hmmt__model=qwen3_5_9b__b=064": {
+    "expected_allocation_sha256": "9030b68c817567b5e644c26c0d5dcb5b3233da397bca5e006b79a5e9aea72037",
+    "expected_accepted_sha256": "e05434a5c980c0c33c11fa2968e84a3981b71aa20549aa23915a52f550c83352",
+    "expected_reward_fingerprint": "ba46b77abf627d199df08bd9463e539791f1e7fc3d80ad1c3cc4e9b74c078531"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen2_5_32b__b=008": {
+    "expected_allocation_sha256": "9acc9d3ec24bfc6dc7884e5662ea6ceca1a1c78e3b380517d5c83cdd5fb0435a",
+    "expected_accepted_sha256": "fbd37a07b8f38195f376a46ef6f64ff837a9ac6b6d1396d835c1ccc8f39d3e25",
+    "expected_reward_fingerprint": "60137aa2ca1f33032308f7bb7151cf90f317af132e1c1487d28020cc89d8771c"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen2_5_32b__b=016": {
+    "expected_allocation_sha256": "b98161217cc9f224f664720060ec4c3d40bb3a81a835c8c2d26cf0dae2152c49",
+    "expected_accepted_sha256": "3451d8a0865706f4577d689c2da8e6cae852cbd55df93e8a3840c3f75a6ad1ad",
+    "expected_reward_fingerprint": "60137aa2ca1f33032308f7bb7151cf90f317af132e1c1487d28020cc89d8771c"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen2_5_32b__b=032": {
+    "expected_allocation_sha256": "3f2c476434e75d48c21d95c761c0cf11f4759e8471f3ab00d88cc404bfdcd3b5",
+    "expected_accepted_sha256": "32c1757b0ae3c4a1b3d61bc1e75c49942cc3ce8c7fdee6789c9a2ff238e63093",
+    "expected_reward_fingerprint": "60137aa2ca1f33032308f7bb7151cf90f317af132e1c1487d28020cc89d8771c"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen2_5_32b__b=064": {
+    "expected_allocation_sha256": "a2cfe0c052bafe13859d488576d9bac1ce76f67c326498398122c572bb244f7d",
+    "expected_accepted_sha256": "207a0a5200e71261548c175e72f61db7eff3c981de084651670f95497135da85",
+    "expected_reward_fingerprint": "60137aa2ca1f33032308f7bb7151cf90f317af132e1c1487d28020cc89d8771c"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen2_5_3b__b=008": {
+    "expected_allocation_sha256": "bdeeb71fb412b07290397271addfc1c151bb21b08cf0db09b1bb9e3dda57d801",
+    "expected_accepted_sha256": "9b4ffa640fe6f406bc252121d26431e451133155644f3726fd392eabafb0865c",
+    "expected_reward_fingerprint": "f68ce022ee1a1ac992c9316f455da3d8c0e192cbfb6e4464fbbc19b7b4e7de96"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen2_5_3b__b=016": {
+    "expected_allocation_sha256": "f818ebf3319ea107aaa9a45d68307db1c67d9ffde958fda2347fa5397391cbb0",
+    "expected_accepted_sha256": "79ac4c1f654ebb00cc7bfe65835a670fc208a345728c03276bce658f493a802c",
+    "expected_reward_fingerprint": "f68ce022ee1a1ac992c9316f455da3d8c0e192cbfb6e4464fbbc19b7b4e7de96"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen2_5_3b__b=032": {
+    "expected_allocation_sha256": "b1597498fde269d87d147589cccbf7f889e228569457ead5408a25dc581ac288",
+    "expected_accepted_sha256": "f0f6982a1a6de711f575905ccb8528b44363dbc2e55981d7306ae52475473efc",
+    "expected_reward_fingerprint": "f68ce022ee1a1ac992c9316f455da3d8c0e192cbfb6e4464fbbc19b7b4e7de96"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen2_5_3b__b=064": {
+    "expected_allocation_sha256": "832982f023d538a4eec0bd644924a57e040a420cc5c8568db3923baf7b28af41",
+    "expected_accepted_sha256": "abec3882d47905cc7856c7d2a4f0107f976b319641bff75ff8b6aa2821e8d8a0",
+    "expected_reward_fingerprint": "f68ce022ee1a1ac992c9316f455da3d8c0e192cbfb6e4464fbbc19b7b4e7de96"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen2_5_7b__b=008": {
+    "expected_allocation_sha256": "846513dc8cee179b22cae620a634b6cd1ad7647f45ec642fdb670c7b3e3070b4",
+    "expected_accepted_sha256": "6f518f618e2c7c0b2a12eab4a7ead511d792b1ab0f9f826bd2e4a03d85d0d851",
+    "expected_reward_fingerprint": "ef2ac2f807a7d3c2c5491d3f6cacf033740f5a85afca4cd11ca36e037de1a45a"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen2_5_7b__b=016": {
+    "expected_allocation_sha256": "65c91fdac3e542a0e2c7eda9a3e0491a724c4b8472d2e4f8527289622b9ece0a",
+    "expected_accepted_sha256": "c51abeb39e2c024b00f4465634908e9a5524983de51044764a2ce9ee6186db7e",
+    "expected_reward_fingerprint": "ef2ac2f807a7d3c2c5491d3f6cacf033740f5a85afca4cd11ca36e037de1a45a"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen2_5_7b__b=032": {
+    "expected_allocation_sha256": "a77fbd58cde8ae3734f0c66bdbc4a77f9d9ccbe6d5cf0c914becdcc405431810",
+    "expected_accepted_sha256": "32cb9d752bddcaca630ea97ce5bbc7ab0537ff016b524139dd363dbd70c14f69",
+    "expected_reward_fingerprint": "ef2ac2f807a7d3c2c5491d3f6cacf033740f5a85afca4cd11ca36e037de1a45a"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen2_5_7b__b=064": {
+    "expected_allocation_sha256": "a42ee193e6f43376aa24a8e63ad864ceb6875f9c3a1817c2b4198659f6f33747",
+    "expected_accepted_sha256": "21911e7faec17f1726625c4543ad2d3d68f292907a9cf6080f04e742eff20785",
+    "expected_reward_fingerprint": "ef2ac2f807a7d3c2c5491d3f6cacf033740f5a85afca4cd11ca36e037de1a45a"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen3_5_27b__b=008": {
+    "expected_allocation_sha256": "3f271fa98f165db468214fa254e6c0ba201a6ddb7d49719705e762e150c00383",
+    "expected_accepted_sha256": "2bb6fa7f219c6f6d8cc987d87f96b54836168448097d3540702ff4f56958f326",
+    "expected_reward_fingerprint": "7631bcdaa825c2a24e81ed3042c6f6bf22debaebca64ada5e25f551b12700c5c"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen3_5_27b__b=016": {
+    "expected_allocation_sha256": "eef7b3bdd92af22fac60db5ef077b83cf165d967724e4305e65e8373010f620b",
+    "expected_accepted_sha256": "9bb67b668aef20f516440ae71d0b1f9888c7a4290ad961a5efb79dd830f6baea",
+    "expected_reward_fingerprint": "7631bcdaa825c2a24e81ed3042c6f6bf22debaebca64ada5e25f551b12700c5c"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen3_5_27b__b=032": {
+    "expected_allocation_sha256": "0d9e81ecf9ae54d6f10702710d480f69feb430761b2a3f7352e1a7d58f8f526e",
+    "expected_accepted_sha256": "9235a3731e792f7a5156835edde9b804dbaa0d17567a88f40780b182eb4c19d0",
+    "expected_reward_fingerprint": "7631bcdaa825c2a24e81ed3042c6f6bf22debaebca64ada5e25f551b12700c5c"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen3_5_27b__b=064": {
+    "expected_allocation_sha256": "6334a57565e33086642073730abbc07626315c6526f13a7d5cb410eba3110cf0",
+    "expected_accepted_sha256": "d824e9083a5165863d7dfbe22bdecfaebfdf4e5f6dea85b783146d6bd72178f0",
+    "expected_reward_fingerprint": "7631bcdaa825c2a24e81ed3042c6f6bf22debaebca64ada5e25f551b12700c5c"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen3_5_4b__b=008": {
+    "expected_allocation_sha256": "b405c50201ad9f45560b7b0029a60d00373bb1d8c46e200be66110af7bc59de5",
+    "expected_accepted_sha256": "85527b0966e6c64fb94ca08f9c65e82ce8c2c690f8e0032fd60f0d093c2b8305",
+    "expected_reward_fingerprint": "b30f032b8ef71dfea0495a071b04cc81f6f1fcc1998815a82a1b6b275cca465d"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen3_5_4b__b=016": {
+    "expected_allocation_sha256": "6063eea2a5b4c9c8a6b7ec1ec6a422aa1d1d375cbe2216b009f3fff849d9b1d8",
+    "expected_accepted_sha256": "91969238e07eb187f4a9511143aae51f2a83227b0513ab905b29808947aa7151",
+    "expected_reward_fingerprint": "b30f032b8ef71dfea0495a071b04cc81f6f1fcc1998815a82a1b6b275cca465d"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen3_5_4b__b=032": {
+    "expected_allocation_sha256": "3a1910e89ca220c9b236b9dc3c575d09483991a27f867c37fa592f4bd5796f08",
+    "expected_accepted_sha256": "8f72bded9b72aa8a8d9b0df34077cb6720538d926270b99b984ad38a3e8c4e47",
+    "expected_reward_fingerprint": "b30f032b8ef71dfea0495a071b04cc81f6f1fcc1998815a82a1b6b275cca465d"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen3_5_4b__b=064": {
+    "expected_allocation_sha256": "eb7fe723e21212202dcc355c4cad4d089e9c4333d743c38543f02a2be2345439",
+    "expected_accepted_sha256": "f92c78ce392f7028de1f887233ba1aa5e511ca0301cad2f21ba282827099eafb",
+    "expected_reward_fingerprint": "b30f032b8ef71dfea0495a071b04cc81f6f1fcc1998815a82a1b6b275cca465d"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen3_5_9b__b=008": {
+    "expected_allocation_sha256": "00798b222079ed9208433a113c9986116f7dc6c18e0da7432cdd4ca18f999cc6",
+    "expected_accepted_sha256": "beced80e638b299b96fecf5f47fd9788003df96ac2ceb85b35b6ef098f023c09",
+    "expected_reward_fingerprint": "09052bb004b8c1556f569bd546a72bbefc0514094cad930fc6234982846ad142"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen3_5_9b__b=016": {
+    "expected_allocation_sha256": "086b4d7b5c9ee70ca1677a319185329b0a8a65602a9ba26232f55eb94099a492",
+    "expected_accepted_sha256": "18813a7832a164b6495cb3c786406d250b826e8ee93f3852ecf516d4eb35ac15",
+    "expected_reward_fingerprint": "09052bb004b8c1556f569bd546a72bbefc0514094cad930fc6234982846ad142"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen3_5_9b__b=032": {
+    "expected_allocation_sha256": "6c83eadbd4a9aeacfa0c321b083d423ad81a6ac54617e2a9f2e13547597ad3cd",
+    "expected_accepted_sha256": "378ae8d44cd67b03e7459e25ae54b6d49d0adfc512c5f445ae9398759bdf5843",
+    "expected_reward_fingerprint": "09052bb004b8c1556f569bd546a72bbefc0514094cad930fc6234982846ad142"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_easy__model=qwen3_5_9b__b=064": {
+    "expected_allocation_sha256": "c868fef02fdc1cfbdf6563a394b9ebda8e423534206b1a39534de7176725cb54",
+    "expected_accepted_sha256": "4cc60cd60e336726815a4723662fd5e04e897a11ed81df096358adbdd815c4bc",
+    "expected_reward_fingerprint": "09052bb004b8c1556f569bd546a72bbefc0514094cad930fc6234982846ad142"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen2_5_32b__b=008": {
+    "expected_allocation_sha256": "dd73cbebb4f597bc5a28203f53fd7789e0f1f304c44718db34e748fb3bfe27fb",
+    "expected_accepted_sha256": "a20158712d11e1181ee40312408a2b94644b1d10f5519839479b1cb46df5406f",
+    "expected_reward_fingerprint": "f85472dc218e1ab792e7d47ab7f86b4916c457132b52870d3c417d2836e49f1a"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen2_5_32b__b=016": {
+    "expected_allocation_sha256": "878b0469ea6bac61ddaf766cc2805579f2990dbbceb885f9dc47025c6efac826",
+    "expected_accepted_sha256": "88625ee65406d1975181952653ddae25e8591a56f0f801c7f6a8a744637fb3d5",
+    "expected_reward_fingerprint": "f85472dc218e1ab792e7d47ab7f86b4916c457132b52870d3c417d2836e49f1a"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen2_5_32b__b=032": {
+    "expected_allocation_sha256": "c2a493e0d8b1e01aae26db1bb8cae4f26e5e2b34ce4eaa56aa2dd2d92fba95be",
+    "expected_accepted_sha256": "5131672cf940bf4f7077cedc52a2b3f24004eb43214ac4bfeb3e3950389e74b2",
+    "expected_reward_fingerprint": "f85472dc218e1ab792e7d47ab7f86b4916c457132b52870d3c417d2836e49f1a"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen2_5_32b__b=064": {
+    "expected_allocation_sha256": "9eaa470f03372ead8c144b9a674c638d948bfd48aacfbca7d05e7f871dff077f",
+    "expected_accepted_sha256": "d25aff3c5ec3cac881305caea3ea566f79bb281cd351e938ecc8c6dfc3ffe63b",
+    "expected_reward_fingerprint": "f85472dc218e1ab792e7d47ab7f86b4916c457132b52870d3c417d2836e49f1a"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen2_5_3b__b=008": {
+    "expected_allocation_sha256": "e81c02701a4f4d994c20cc22df83f1007f4bca8fc1b923d48cd569a6453aa82a",
+    "expected_accepted_sha256": "f02bb6d45ab3f46b23180abe6713008693d0640ba86d0cdd667960502d873095",
+    "expected_reward_fingerprint": "bf10a4479b02def04ab3ba10f91e4b9dacf9562e969938501d2a595b92b8c901"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen2_5_3b__b=016": {
+    "expected_allocation_sha256": "56a3473ad7df8bc9fb0d3a3294058a098df01f0ca40fdafa6ea0366bba347786",
+    "expected_accepted_sha256": "39bfa0f1e303ed80c294ce1eb4121a6354b9825138d1f98cb3f185de457bab95",
+    "expected_reward_fingerprint": "bf10a4479b02def04ab3ba10f91e4b9dacf9562e969938501d2a595b92b8c901"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen2_5_3b__b=032": {
+    "expected_allocation_sha256": "36eeff92c15342aca658144e9ba9cf948cfb78a62eaa12348bf1d13bebbc3bde",
+    "expected_accepted_sha256": "a816703a2a08ee8edaf955fa3c33cf410b8b899c56f5295e74321432cbbd2dd7",
+    "expected_reward_fingerprint": "bf10a4479b02def04ab3ba10f91e4b9dacf9562e969938501d2a595b92b8c901"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen2_5_3b__b=064": {
+    "expected_allocation_sha256": "88688fc845a599ecf9ceca66b31eeb816f061967514a918e3d4d7b886b0bed47",
+    "expected_accepted_sha256": "31ea5812ead272e836aadb4cb2ba98cac3e277c940d1d8fe829f3707d6ae38f5",
+    "expected_reward_fingerprint": "bf10a4479b02def04ab3ba10f91e4b9dacf9562e969938501d2a595b92b8c901"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen2_5_7b__b=008": {
+    "expected_allocation_sha256": "252785378bc9dc5c585156e53830c864476728989c7bf6d42f3f714e076782b5",
+    "expected_accepted_sha256": "1cd971023614aa13b41db7ca759004a2443033ddf6b057faa2c5b3d7c51e34bb",
+    "expected_reward_fingerprint": "5b875b35a54846a7246ca9cf9c2ff10704459f0bb04c25c28f383b622e425741"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen2_5_7b__b=016": {
+    "expected_allocation_sha256": "0bf6ef7bebaa447d01c076d97df1e3abef210247a59a16482b95870cc1602544",
+    "expected_accepted_sha256": "4b6c5fbf1409224735e57630e7541d867611ff22615f242e4347b02a03cdd0f3",
+    "expected_reward_fingerprint": "5b875b35a54846a7246ca9cf9c2ff10704459f0bb04c25c28f383b622e425741"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen2_5_7b__b=032": {
+    "expected_allocation_sha256": "1dadbf5eea0051752dbe916a7fb1f6843888814ecc4e7191c018cae539c330f4",
+    "expected_accepted_sha256": "033cfd9f84cd5d997bb667b8cbade1b6ba07efee07681539a10332d7bdd3f7e7",
+    "expected_reward_fingerprint": "5b875b35a54846a7246ca9cf9c2ff10704459f0bb04c25c28f383b622e425741"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen2_5_7b__b=064": {
+    "expected_allocation_sha256": "8af7bc728e1291fcd4cf5de1e4ce412a2734fcbb39ab4ea565bf44959cad2fe4",
+    "expected_accepted_sha256": "a6a1f3c9a36af963818b113ee3666cf1423d527993e92af502b75188df175683",
+    "expected_reward_fingerprint": "5b875b35a54846a7246ca9cf9c2ff10704459f0bb04c25c28f383b622e425741"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen3_5_27b__b=008": {
+    "expected_allocation_sha256": "3526d998cb8659a5e53cf291d63e4e8f9148ef5ca18c1cb294f1f681c24ab37f",
+    "expected_accepted_sha256": "a1817d2987e61bb6be07a10236393f475de76fe240073a0c4a5118b0008b5531",
+    "expected_reward_fingerprint": "cf78c71a031fb7316ff80f02467a7f2a7cfc9288dedc8450c3290057c85d9e36"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen3_5_27b__b=016": {
+    "expected_allocation_sha256": "008d4c10115f63776565cd548e3cc58df74eb1acc2a7a7980fafca7869d56e3e",
+    "expected_accepted_sha256": "604955d8484dc5be66e7cb0e98644c2cb6694670489b962321054b0a785450af",
+    "expected_reward_fingerprint": "cf78c71a031fb7316ff80f02467a7f2a7cfc9288dedc8450c3290057c85d9e36"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen3_5_27b__b=032": {
+    "expected_allocation_sha256": "6f25dc5422e0e4524fd041e48e1409a62417433be5af450a968f287ba71be786",
+    "expected_accepted_sha256": "c76bff6af6a9e2bcd20332563ec0c2d1108a4c43eb62120317f606f08ecc9cd2",
+    "expected_reward_fingerprint": "cf78c71a031fb7316ff80f02467a7f2a7cfc9288dedc8450c3290057c85d9e36"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen3_5_27b__b=064": {
+    "expected_allocation_sha256": "bdb99b9bb4e8cd9704a5ddbeabf7ce22ba96eb9dce4293959f6be2d8bbfbe33a",
+    "expected_accepted_sha256": "a974371a3bb8278a6f632ea288bf09d2bf21047cd482600232d2ff38ce838390",
+    "expected_reward_fingerprint": "cf78c71a031fb7316ff80f02467a7f2a7cfc9288dedc8450c3290057c85d9e36"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen3_5_4b__b=008": {
+    "expected_allocation_sha256": "aa70d962ca72c83049e5d8adce6273efdfd21f06d8f670a7b68a9ae7fb948d25",
+    "expected_accepted_sha256": "0df7127021f6720fbc93e660143d030c658510c5d679279fdd1de2deced0cd29",
+    "expected_reward_fingerprint": "83b766c9d1bc556bc8dd7415c32954a9a7779a4e4503005385d45da4075233e2"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen3_5_4b__b=016": {
+    "expected_allocation_sha256": "53bca0db332896f95149d85843875c759a3f6697e61492b6c8362bb776b70992",
+    "expected_accepted_sha256": "83e0db4820363646400ecfbe547b6766f88b59624d5d7570baba8e429968215e",
+    "expected_reward_fingerprint": "83b766c9d1bc556bc8dd7415c32954a9a7779a4e4503005385d45da4075233e2"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen3_5_4b__b=032": {
+    "expected_allocation_sha256": "8512278d606d680918a68841938c274539d00db92f3d9a31e58dfab5e68e843c",
+    "expected_accepted_sha256": "dd5f9f1bd7d60e5317304a774dc5b7abedf7f501e018e0a96c6ff632453f3b7c",
+    "expected_reward_fingerprint": "83b766c9d1bc556bc8dd7415c32954a9a7779a4e4503005385d45da4075233e2"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen3_5_4b__b=064": {
+    "expected_allocation_sha256": "a998e836b4a5a2135d183ed486f7a6a4cd5c27ac0dacafb023f1fbc85fc1fabd",
+    "expected_accepted_sha256": "30de05122df139a43c78857de4a8569330e2f847febc0b649d389ee2f5ac0388",
+    "expected_reward_fingerprint": "83b766c9d1bc556bc8dd7415c32954a9a7779a4e4503005385d45da4075233e2"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen3_5_9b__b=008": {
+    "expected_allocation_sha256": "9a10025036ba6d609dea5c830b6c5df2d6157e54aca6bf845ea17d32de2646f6",
+    "expected_accepted_sha256": "4b3d741c27ca611dedaa99616ae55fbe9351b830ae134c8e6792a2a08d933d8f",
+    "expected_reward_fingerprint": "3db17ec198f778554cb7dab33cb0453def2d19392499eeec33c6293b9c87dc76"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen3_5_9b__b=016": {
+    "expected_allocation_sha256": "eef1054b000c320112c5f588a37ebb7d05dcdcea9fb8c8693544d41af9975f82",
+    "expected_accepted_sha256": "adf09a1239cb3120603f1d4cdd8b36c6e1120b0c4dcaf1c702745d01c9e001d3",
+    "expected_reward_fingerprint": "3db17ec198f778554cb7dab33cb0453def2d19392499eeec33c6293b9c87dc76"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen3_5_9b__b=032": {
+    "expected_allocation_sha256": "1606698df1467dbfbe6a2cc8ea91698ebed20f668822bff01a01e422bbcc325b",
+    "expected_accepted_sha256": "a60a21e22e7ef696420209f1b42cdd5780f5fde1f9985ad8fa5d3b6975d82c82",
+    "expected_reward_fingerprint": "3db17ec198f778554cb7dab33cb0453def2d19392499eeec33c6293b9c87dc76"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_hard__model=qwen3_5_9b__b=064": {
+    "expected_allocation_sha256": "4e975657ce5984ff478aae74c36016466a5e81c09c846276a8eff9ca6eb4647f",
+    "expected_accepted_sha256": "a6a24fc14fb0f655d21c368c961239e10c0ffa941970aed50ee3b4396a55c61c",
+    "expected_reward_fingerprint": "3db17ec198f778554cb7dab33cb0453def2d19392499eeec33c6293b9c87dc76"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen2_5_32b__b=008": {
+    "expected_allocation_sha256": "dad2371199c2102e5a6d6cd4ed41988b73df01cc038a0c73150e8c86969ccbfd",
+    "expected_accepted_sha256": "9f71b833cdfa60e34ac4c4329d0ff1c3e3fd7bdea51491a6f51c2b7ce6ccd107",
+    "expected_reward_fingerprint": "021a85465111b73d7272b4e991c77fe5b3fa82bec7871010538d43e59382b187"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen2_5_32b__b=016": {
+    "expected_allocation_sha256": "fa8c34243163c00f30bd3539a9b4f38a78ceb6f09f6abc4e1c25d0e2f5778910",
+    "expected_accepted_sha256": "6b5294a79922e454032f35e66dada62f685004182e6de0af58946915b1be217a",
+    "expected_reward_fingerprint": "021a85465111b73d7272b4e991c77fe5b3fa82bec7871010538d43e59382b187"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen2_5_32b__b=032": {
+    "expected_allocation_sha256": "1f83bb89edea6c2037fadd5a9bcb1e821039db79da525e837df74ffc948e0692",
+    "expected_accepted_sha256": "513f02ac3dee889789ca5158242b54607d3534475b4b96f9eef5e48d73ca6262",
+    "expected_reward_fingerprint": "021a85465111b73d7272b4e991c77fe5b3fa82bec7871010538d43e59382b187"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen2_5_32b__b=064": {
+    "expected_allocation_sha256": "095124474e317902f1de172d1b121029fc988b4a1e100a7055d39a088cf2f796",
+    "expected_accepted_sha256": "6c25d8449c8c943bb5ceb1fde7ab4cca6895dd5e2e99c7a48d128499916262f5",
+    "expected_reward_fingerprint": "021a85465111b73d7272b4e991c77fe5b3fa82bec7871010538d43e59382b187"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen2_5_3b__b=008": {
+    "expected_allocation_sha256": "b36229cd4dd4281c3a61a37a5f61faf8e9cf46844baf9fe0bb05241872b7cead",
+    "expected_accepted_sha256": "ea279248231524ae772f410c60073083fda6f0db1759e6eb65968e69c74ce7f1",
+    "expected_reward_fingerprint": "1b15fb3a9719a899b5c90bdc9de31f45859460a52b5b298b2fe229e7ad86e21e"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen2_5_3b__b=016": {
+    "expected_allocation_sha256": "9652fc437ebb1f95effd75bdbe7a1c27d2175aeee50644153d3fe3779eea1f09",
+    "expected_accepted_sha256": "ccc114da57991d87d4adc619e244e7bb41cb44c4454c02e2c1878282fd2c581b",
+    "expected_reward_fingerprint": "1b15fb3a9719a899b5c90bdc9de31f45859460a52b5b298b2fe229e7ad86e21e"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen2_5_3b__b=032": {
+    "expected_allocation_sha256": "f8e0652e08693ecae2863ae8d45e29068fda9d5a0052f272d98b7d28eb2a494d",
+    "expected_accepted_sha256": "04740d386d335f36352b0e9c47fb84cfa0d2f7f82098fc597f57f04c7b11a538",
+    "expected_reward_fingerprint": "1b15fb3a9719a899b5c90bdc9de31f45859460a52b5b298b2fe229e7ad86e21e"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen2_5_3b__b=064": {
+    "expected_allocation_sha256": "6d0e7e38a54579a489568cf2f3a20ca6192eaa989d061495c7c811ee3c283c98",
+    "expected_accepted_sha256": "6ab18e8c9a5a6fd53a109a75707c3ff7fc650cafe5569c7f41bc5eb5231fbd7f",
+    "expected_reward_fingerprint": "1b15fb3a9719a899b5c90bdc9de31f45859460a52b5b298b2fe229e7ad86e21e"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen2_5_7b__b=008": {
+    "expected_allocation_sha256": "5b7b0dc2467bd1e8e36d02111a7487c1141cf25c4fe7407726bfeb731e314aa3",
+    "expected_accepted_sha256": "23a6d89fbc8dc9bb9307c90826e630140e45a422154fbae624668e116ac5c9c3",
+    "expected_reward_fingerprint": "84e0fb9a5cf41a7669c67fbb3b396c2ca0d4f07523af5e7999fe106b9444b982"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen2_5_7b__b=016": {
+    "expected_allocation_sha256": "eaf6a61365958d114e32c99632a9bb028e5d196acd0b5c415dc960e389acd631",
+    "expected_accepted_sha256": "3e7a80019829d894b52a4bf300fa550d6865edbee52ea4771ec6f2b2500da420",
+    "expected_reward_fingerprint": "84e0fb9a5cf41a7669c67fbb3b396c2ca0d4f07523af5e7999fe106b9444b982"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen2_5_7b__b=032": {
+    "expected_allocation_sha256": "8d32ecc74deede407ab76e874143b1559cd29df35d5f2dacdf11a7ef443ba616",
+    "expected_accepted_sha256": "6d9eeb0c2dbbbb14f4e1d3f91c32fd730a8ae530b83f5dea6e4bb95ef367e792",
+    "expected_reward_fingerprint": "84e0fb9a5cf41a7669c67fbb3b396c2ca0d4f07523af5e7999fe106b9444b982"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen2_5_7b__b=064": {
+    "expected_allocation_sha256": "36f99f117344e3a365f76d31a9436d3426e872622c93ee2ff03b397cbdb09287",
+    "expected_accepted_sha256": "73dd04c3dc3c181f45297187919e597471c26d213c869c51dc30299465062e4e",
+    "expected_reward_fingerprint": "84e0fb9a5cf41a7669c67fbb3b396c2ca0d4f07523af5e7999fe106b9444b982"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen3_5_27b__b=008": {
+    "expected_allocation_sha256": "9c0da5ac96dd2f83ce500227e5ebf6a23bbced28e665534dab9620de5be9fd29",
+    "expected_accepted_sha256": "fcf28d651c612b51490aa1a6b15e57dd10ba38c58af8ada5ef8ac559b3b7da46",
+    "expected_reward_fingerprint": "511c3c3dbcc62fd8d61dad1c6816acd74c783b5493f6cddbbe940fe73156f744"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen3_5_27b__b=016": {
+    "expected_allocation_sha256": "394adb30d2c01d0ceb18ddeaff078b8a251c0cf107baffe52775b89d27e27eb8",
+    "expected_accepted_sha256": "1591450119cfda8600b74c7bc99c5c6f7ba9b63bfcf2b6b88a2f1a0e6f34a181",
+    "expected_reward_fingerprint": "511c3c3dbcc62fd8d61dad1c6816acd74c783b5493f6cddbbe940fe73156f744"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen3_5_27b__b=032": {
+    "expected_allocation_sha256": "89df4a05244987a723cd31f2d51212cadea9087327e52af9de86046581ddceae",
+    "expected_accepted_sha256": "636b1180dd8e15e5c7e5b55c6dd5abf9b139eb07bf0a1041d432c2ab2d9100c8",
+    "expected_reward_fingerprint": "511c3c3dbcc62fd8d61dad1c6816acd74c783b5493f6cddbbe940fe73156f744"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen3_5_27b__b=064": {
+    "expected_allocation_sha256": "0680addfbe9e414b770f798cb2e02c1d0f4ffef600353aba0c4b745dd44e1713",
+    "expected_accepted_sha256": "7a106b631725ed7ea3e30b56d7dd42bb781fe3fee273bf90d4c12085f6d251e2",
+    "expected_reward_fingerprint": "511c3c3dbcc62fd8d61dad1c6816acd74c783b5493f6cddbbe940fe73156f744"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen3_5_4b__b=008": {
+    "expected_allocation_sha256": "d8dd0b889d906832ebe5897290d8b8a25131f8376ad6be016f649bea3d2ed293",
+    "expected_accepted_sha256": "d9c5649399038942b78cd83c223a2aea50e38ca63ac699453f7d60facf93a323",
+    "expected_reward_fingerprint": "772fb4a9a24f6a9ff5fd339e2f95d047b268644e7ed486fa814d873d8208a07c"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen3_5_4b__b=016": {
+    "expected_allocation_sha256": "5ebb2aeb33e90f32862c6faea83e9f923900969a1e82feb6df5225345312c9ad",
+    "expected_accepted_sha256": "ffffed0f200afe07f4810b1f07a34f764023179b2a7c3611365140a738e93cd2",
+    "expected_reward_fingerprint": "772fb4a9a24f6a9ff5fd339e2f95d047b268644e7ed486fa814d873d8208a07c"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen3_5_4b__b=032": {
+    "expected_allocation_sha256": "e3961ce0fcfc6c68c31934441e7e9f1acdac2ec087b88bfbb7e17bc4674a7c0e",
+    "expected_accepted_sha256": "b7f6f38a394ea4fd1d1e6540756ccfe2580b5840777b730b3d5dfee2a35e10ec",
+    "expected_reward_fingerprint": "772fb4a9a24f6a9ff5fd339e2f95d047b268644e7ed486fa814d873d8208a07c"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen3_5_4b__b=064": {
+    "expected_allocation_sha256": "bdb5c18b93f39393e618a47bfe60d2bc4c1b9a1e0cab4efd14e0d58d93a7263e",
+    "expected_accepted_sha256": "268d5ea38e7be21e074ffb90a9082d3d411df2f3a0528c5f75427cb768726859",
+    "expected_reward_fingerprint": "772fb4a9a24f6a9ff5fd339e2f95d047b268644e7ed486fa814d873d8208a07c"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen3_5_9b__b=008": {
+    "expected_allocation_sha256": "d03ca012f1c60f144f78b431aac9871f18834fe775e8f6e50a7d36eed9ce30f4",
+    "expected_accepted_sha256": "a757c87fcb02b22a5fc473e7e2f85864cab871f44260677645780513da1795a8",
+    "expected_reward_fingerprint": "6e8d89253603f4fbb3663ebf073ab0e7a89fcabd7a0dc89967e9499987326d4b"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen3_5_9b__b=016": {
+    "expected_allocation_sha256": "e0ddf10fc43859f5600d68fd42b92282d293d7458e6519f526737da2e0283bde",
+    "expected_accepted_sha256": "7f7654be710cef0d1834e1f364c48f8a1db9648cdba166cfb0ff60e652e82c34",
+    "expected_reward_fingerprint": "6e8d89253603f4fbb3663ebf073ab0e7a89fcabd7a0dc89967e9499987326d4b"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen3_5_9b__b=032": {
+    "expected_allocation_sha256": "5271921f28ea9a040e946d27b0a6baf6c3dacf6ab9454dd18b9d25f7a699854e",
+    "expected_accepted_sha256": "f8d300c033c2533365d2c719b36339d70ca0ddc79d25c99d6043d02eb15424fe",
+    "expected_reward_fingerprint": "6e8d89253603f4fbb3663ebf073ab0e7a89fcabd7a0dc89967e9499987326d4b"
+  },
+  "livecodebench_gt_2024_03_30__difficulty_medium__model=qwen3_5_9b__b=064": {
+    "expected_allocation_sha256": "c941c495cfcc829996a7e5f2ff104d776b3ee68d17f7bc2aa04fbade6bd00a9d",
+    "expected_accepted_sha256": "063ecc564f2b3378b372193284c4b545bb74a1e26abe5a33dee932bfe83a7ca7",
+    "expected_reward_fingerprint": "6e8d89253603f4fbb3663ebf073ab0e7a89fcabd7a0dc89967e9499987326d4b"
+  },
+  "math_100__model=qwen2_5_32b__b=008": {
+    "expected_allocation_sha256": "77ea7f568dc127dcca691b536f93331e2428b7eefb42fa938597bc00b69f641e",
+    "expected_accepted_sha256": "283eb05b2e59c750d6046f9fe5bdb17353fc5a856f7ca56f77864e58f4696f5d",
+    "expected_reward_fingerprint": "c3b16817eea8adf0851e5cc99287420c241c702f872d7d3001df01f992a465c4"
+  },
+  "math_100__model=qwen2_5_32b__b=016": {
+    "expected_allocation_sha256": "d7f23dc84acd9fa80f8c203c6675af215f6873a672b43ccdd03d00626bc46bcb",
+    "expected_accepted_sha256": "ba99fb4264a5234ef1f4bc189f5af1dfc040a97c5c941c3e9185e7fc694a2dcf",
+    "expected_reward_fingerprint": "c3b16817eea8adf0851e5cc99287420c241c702f872d7d3001df01f992a465c4"
+  },
+  "math_100__model=qwen2_5_32b__b=032": {
+    "expected_allocation_sha256": "6529d6085a11f01a04a9403ff56390eb8d3a645fb1ae8398ede1c495f06de3cf",
+    "expected_accepted_sha256": "f1913ba436297a088bbf0d4580f51c8e74e002700b987666aca60b3ddf22c567",
+    "expected_reward_fingerprint": "c3b16817eea8adf0851e5cc99287420c241c702f872d7d3001df01f992a465c4"
+  },
+  "math_100__model=qwen2_5_32b__b=064": {
+    "expected_allocation_sha256": "cbe12b4dd26200985bd43531f7e390e99d680de533d11de0fe4b153e8d3eb12e",
+    "expected_accepted_sha256": "6e8ab273f9e30c07d6561cb56695b89852b778d488eddc9ea2bc02866bc9783b",
+    "expected_reward_fingerprint": "c3b16817eea8adf0851e5cc99287420c241c702f872d7d3001df01f992a465c4"
+  },
+  "math_100__model=qwen2_5_3b__b=008": {
+    "expected_allocation_sha256": "d6a2695fc589692d2e09932eba44f0de5e2cb652fffe068c2da31d81f166ba2a",
+    "expected_accepted_sha256": "b430f504cc6b780a65d19e0713d0d9fbb14d516e8a5beb8b5bb77d92e2962f95",
+    "expected_reward_fingerprint": "ff943513126ea6b8a36311fd1affd6cc468af40f7236716e79c858a3451fea7a"
+  },
+  "math_100__model=qwen2_5_3b__b=016": {
+    "expected_allocation_sha256": "091ee3d650adba1b0104428ec8d0bbd969402433910530acc1dc059b967b1107",
+    "expected_accepted_sha256": "82bcb17e8d64cc7c61c2155428112b63fb93bc99d160f91d05d7c15512782967",
+    "expected_reward_fingerprint": "ff943513126ea6b8a36311fd1affd6cc468af40f7236716e79c858a3451fea7a"
+  },
+  "math_100__model=qwen2_5_3b__b=032": {
+    "expected_allocation_sha256": "3771344d57865de14c976645f742795944292448aed8405d69e4fc95833bd467",
+    "expected_accepted_sha256": "6a53c12cb94c9f22164397f6a23d1785a454aecb60ade7462c39f5df67c348b2",
+    "expected_reward_fingerprint": "ff943513126ea6b8a36311fd1affd6cc468af40f7236716e79c858a3451fea7a"
+  },
+  "math_100__model=qwen2_5_3b__b=064": {
+    "expected_allocation_sha256": "1c97687d35d93d70cfab4a4318eefdd2c0c4a97bfa82207940e474601dbca7b8",
+    "expected_accepted_sha256": "1191c5513658ff4ddbc313b7bfc5c800cf80ebfb586ac9f92e3bcae7b8cbc5f0",
+    "expected_reward_fingerprint": "ff943513126ea6b8a36311fd1affd6cc468af40f7236716e79c858a3451fea7a"
+  },
+  "math_100__model=qwen2_5_7b__b=008": {
+    "expected_allocation_sha256": "17b8834890db5c3e9521bc7041f7615012e91b2cbd6d8689d9bb9f301e277b3a",
+    "expected_accepted_sha256": "01f5ce75a1ebb3f50fff6b4f88d765c93a5749f358b5831b55f8558a4eaa739c",
+    "expected_reward_fingerprint": "d4a94266fa36249f1388b01b115c56004a4f434beb613231fa98faaf57664f04"
+  },
+  "math_100__model=qwen2_5_7b__b=016": {
+    "expected_allocation_sha256": "c3804523f4e2caaa14b9630827d801084d8f8fb1d1bf06d5927865cb2c5684c6",
+    "expected_accepted_sha256": "bc9ee18c297678210baf6111e2691d1eadd3efff93be1607fc95fa9425b9e942",
+    "expected_reward_fingerprint": "d4a94266fa36249f1388b01b115c56004a4f434beb613231fa98faaf57664f04"
+  },
+  "math_100__model=qwen2_5_7b__b=032": {
+    "expected_allocation_sha256": "fa2231d1453d845e136466bb7af6f42c911350649e64f38235bc148c676546b6",
+    "expected_accepted_sha256": "a7fce97b696479b1e4528c8e25dffd075c42a4703564003286cb0250038a6986",
+    "expected_reward_fingerprint": "d4a94266fa36249f1388b01b115c56004a4f434beb613231fa98faaf57664f04"
+  },
+  "math_100__model=qwen2_5_7b__b=064": {
+    "expected_allocation_sha256": "70ac49934555d42173ccc0413ab87e922b8e66251d1d4d25158c33242bb7e2cd",
+    "expected_accepted_sha256": "891a2bcec8ab3eab6ae869fa5b70afbc66b302d8d29bd810393c52a4ed4e1501",
+    "expected_reward_fingerprint": "d4a94266fa36249f1388b01b115c56004a4f434beb613231fa98faaf57664f04"
+  },
+  "math_100__model=qwen3_5_27b__b=008": {
+    "expected_allocation_sha256": "2722eaa1fbef58468292c158053871d774e7af543ba121a082120e568d243121",
+    "expected_accepted_sha256": "de2b53f3d798f19ad34bb72d4aa0baef491d49e23d1978b7974e2b61776b0bd7",
+    "expected_reward_fingerprint": "8c2d607bbd7390630e22dbfbf6f127c17690915ff5b00d285d1df9c1000c0d76"
+  },
+  "math_100__model=qwen3_5_27b__b=016": {
+    "expected_allocation_sha256": "dbe16f2e6e57a1b2a0f35ad7c3b46e0ddc7947db0d9e10f19fe29bca7fd71179",
+    "expected_accepted_sha256": "f897efab616dc6451168340a7a2c70c2c6f29d8a212e459fdb7a64c5aef54864",
+    "expected_reward_fingerprint": "8c2d607bbd7390630e22dbfbf6f127c17690915ff5b00d285d1df9c1000c0d76"
+  },
+  "math_100__model=qwen3_5_27b__b=032": {
+    "expected_allocation_sha256": "7d57068e21c8a101f9fd3ea1226444d4bdf71308190773b2f79b4ed219879f37",
+    "expected_accepted_sha256": "195f4fa9728db1113a33334e9cd4cd0a2cf3476c50b1ac6b524739bb7d68da45",
+    "expected_reward_fingerprint": "8c2d607bbd7390630e22dbfbf6f127c17690915ff5b00d285d1df9c1000c0d76"
+  },
+  "math_100__model=qwen3_5_27b__b=064": {
+    "expected_allocation_sha256": "4fecf8e606a15ed1367b125b183ff95bcb202e4ecba4a7ae15ca4cdf28df140c",
+    "expected_accepted_sha256": "4810decbee38c1046cbdfb2b5b2ab42a509bd615f7e02fa4dd352bf15733737a",
+    "expected_reward_fingerprint": "8c2d607bbd7390630e22dbfbf6f127c17690915ff5b00d285d1df9c1000c0d76"
+  },
+  "math_100__model=qwen3_5_4b__b=008": {
+    "expected_allocation_sha256": "b48f46d68d9c9b37e788036e8cc443084278e3609be0f6adb4dacd1887fde435",
+    "expected_accepted_sha256": "e213b4edc8839726721331efc47e6be77d620902ca6c77e0f6f69d835f64023d",
+    "expected_reward_fingerprint": "4b91155e42441395b5064f56efe04215f6865a5eeeaf2b14e1a2d8b89d06a58b"
+  },
+  "math_100__model=qwen3_5_4b__b=016": {
+    "expected_allocation_sha256": "11432f1a93b85d61dc71525e4bfa2f24462acc7804dd3e1b62bbce123231ae6c",
+    "expected_accepted_sha256": "f195fe2031e97f2423ea7591feb87aa939fa9caebe2302d295a80917a05a13c2",
+    "expected_reward_fingerprint": "4b91155e42441395b5064f56efe04215f6865a5eeeaf2b14e1a2d8b89d06a58b"
+  },
+  "math_100__model=qwen3_5_4b__b=032": {
+    "expected_allocation_sha256": "cb649117f8aae2faf1c3ad2ff17c7359e42eb139045a6d6a2c2b95ce982b6a41",
+    "expected_accepted_sha256": "def353ea3d0a15de56e362148fcc347f702aa9fc8806200d0a9259524652aa5e",
+    "expected_reward_fingerprint": "4b91155e42441395b5064f56efe04215f6865a5eeeaf2b14e1a2d8b89d06a58b"
+  },
+  "math_100__model=qwen3_5_4b__b=064": {
+    "expected_allocation_sha256": "0ee931dd42f1081c0d3d61b23d64281be1dfb4775d93befbaadd000f4901a12f",
+    "expected_accepted_sha256": "c01f0201f4d02c0dcb5358a39c9779caef00dc7a2fe306826cb0da29b64c945f",
+    "expected_reward_fingerprint": "4b91155e42441395b5064f56efe04215f6865a5eeeaf2b14e1a2d8b89d06a58b"
+  },
+  "math_100__model=qwen3_5_9b__b=008": {
+    "expected_allocation_sha256": "eaebbc8c01e9e3d0edd7529922b04c387b3764f58f196ed11272ee9547d8f186",
+    "expected_accepted_sha256": "c096930ac09a2392db17315041d60601fb3cd8043d83bc7c122107e331561708",
+    "expected_reward_fingerprint": "0f0acca4ea484af037e013b05c430ad1c77334d23fc3035b9d543e8cf3bb0a85"
+  },
+  "math_100__model=qwen3_5_9b__b=016": {
+    "expected_allocation_sha256": "f6168ff8c5741abeb06bbabb37b930c60eb5a293ad7650b631b650e28afe04c6",
+    "expected_accepted_sha256": "5e91e431898ec18fd560d81e40864a729459dd3e8be1e4264e80fd94eed0a0c1",
+    "expected_reward_fingerprint": "0f0acca4ea484af037e013b05c430ad1c77334d23fc3035b9d543e8cf3bb0a85"
+  },
+  "math_100__model=qwen3_5_9b__b=032": {
+    "expected_allocation_sha256": "bfde4109187b4515b12639015306ad8d9dd629961d933b45c4bb88b636d5cb63",
+    "expected_accepted_sha256": "bb12b133458578960226d1283de248062552eb49c05ee498ea0c1cbd4565f5bd",
+    "expected_reward_fingerprint": "0f0acca4ea484af037e013b05c430ad1c77334d23fc3035b9d543e8cf3bb0a85"
+  },
+  "math_100__model=qwen3_5_9b__b=064": {
+    "expected_allocation_sha256": "a0eedbcdbb0b1120e9c5c5620f9dada7a777ebb8c59376caac5c641e20af4bdb",
+    "expected_accepted_sha256": "d34cfcbf10c838e5822dad874156218403066972dafc5c5a03bf69fbff017946",
+    "expected_reward_fingerprint": "0f0acca4ea484af037e013b05c430ad1c77334d23fc3035b9d543e8cf3bb0a85"
+  },
+  "mmlu_science__subject_college_biology__model=qwen2_5_32b__b=008": {
+    "expected_allocation_sha256": "733e20352ae13c4e5d469a186459a5af3c37329226f5cb1e27c652f9fc7b2a5c",
+    "expected_accepted_sha256": "1242664d12f0ae4cd8cdaa8674babeb4df2c85768cfb24a2d3ea70b48953c6a9",
+    "expected_reward_fingerprint": "6284d869e31fff68d1d4cc16d7b69be275436e374cdc765cca2aee01892f63fa"
+  },
+  "mmlu_science__subject_college_biology__model=qwen2_5_32b__b=016": {
+    "expected_allocation_sha256": "de717d81d19f3bf78daf60793a1a71adb577bbc2e2d837d7921cdf1bc5ff3938",
+    "expected_accepted_sha256": "845deb668f7e569ce6358ab38e25981877bf466fe611ab86dfcb14531659bdc5",
+    "expected_reward_fingerprint": "6284d869e31fff68d1d4cc16d7b69be275436e374cdc765cca2aee01892f63fa"
+  },
+  "mmlu_science__subject_college_biology__model=qwen2_5_32b__b=032": {
+    "expected_allocation_sha256": "e0c153e60a8d8122e40bbf234d136325d050fec230ffb870d4abbb74e281a4f0",
+    "expected_accepted_sha256": "239049cfb978f763c9239fbaf0f7a91c6c796cd5febd67959726cc7977a8691e",
+    "expected_reward_fingerprint": "6284d869e31fff68d1d4cc16d7b69be275436e374cdc765cca2aee01892f63fa"
+  },
+  "mmlu_science__subject_college_biology__model=qwen2_5_32b__b=064": {
+    "expected_allocation_sha256": "2e60798e1966022915f5786c6da0ec5cc3fb7a8c5784ea9dd34a58b32f630d68",
+    "expected_accepted_sha256": "3f7aeadfe6af45767ce0acb8316374014a13e29d56fbe532816649f146511445",
+    "expected_reward_fingerprint": "6284d869e31fff68d1d4cc16d7b69be275436e374cdc765cca2aee01892f63fa"
+  },
+  "mmlu_science__subject_college_biology__model=qwen2_5_3b__b=008": {
+    "expected_allocation_sha256": "e28e11a8fbb795e0feb1479262c83ad91e2b8156151415945025fe4f9d50d2d2",
+    "expected_accepted_sha256": "d6af09a1c52a558e950916cce4725719ecb898f1751c576506beb929540275e1",
+    "expected_reward_fingerprint": "64acfd33aec74d75c82a74daa7101daaea63a010f33068162b22b86c4d64b1d7"
+  },
+  "mmlu_science__subject_college_biology__model=qwen2_5_3b__b=016": {
+    "expected_allocation_sha256": "87e0313c170c6c6d2bd42d3cb7cc010d3a4681c27a2c996db1b9e1c95aa83842",
+    "expected_accepted_sha256": "3726981aeb9c4d783cc64e3bb2b7035529832ca029e9dd872350a4b567fd29cd",
+    "expected_reward_fingerprint": "64acfd33aec74d75c82a74daa7101daaea63a010f33068162b22b86c4d64b1d7"
+  },
+  "mmlu_science__subject_college_biology__model=qwen2_5_3b__b=032": {
+    "expected_allocation_sha256": "7dc20a3d6e310d770835161b44a8915e61ca3ee178360b4fd746b17e6886ea55",
+    "expected_accepted_sha256": "e9f6ccf48e922c811617ee4e8c4a831ceb54ae973761b5c64d446be895098496",
+    "expected_reward_fingerprint": "64acfd33aec74d75c82a74daa7101daaea63a010f33068162b22b86c4d64b1d7"
+  },
+  "mmlu_science__subject_college_biology__model=qwen2_5_3b__b=064": {
+    "expected_allocation_sha256": "69fd24a7fa229c28bd6433ada7096e105268cb877d820c5569f776f24fcdf9ff",
+    "expected_accepted_sha256": "59c3b0522aa5a24f8753291f3ffd8437f18aeb640283de12c8f531f7c3a25a55",
+    "expected_reward_fingerprint": "64acfd33aec74d75c82a74daa7101daaea63a010f33068162b22b86c4d64b1d7"
+  },
+  "mmlu_science__subject_college_biology__model=qwen2_5_7b__b=008": {
+    "expected_allocation_sha256": "8f3647addb50ce6cacd9d115ae035d5c5a62a3ef1a73cdd2b6301db1cb5db29a",
+    "expected_accepted_sha256": "820a7c5f89f951fa568950a3ddd416adb03025c4a9f116b47cb0150f006fba6b",
+    "expected_reward_fingerprint": "72bf825e44d6ce7b3c0853c001e1774f27d89403f435d6a0c1e487621c3e9c4a"
+  },
+  "mmlu_science__subject_college_biology__model=qwen2_5_7b__b=016": {
+    "expected_allocation_sha256": "56d0718ffc908ffa0149f1930429825a1801715076c322f4306ff3d7a9ceaa44",
+    "expected_accepted_sha256": "868a835a89f86026021e0f0eedb700a51cdfcbbc5426700918f15d58492a6986",
+    "expected_reward_fingerprint": "72bf825e44d6ce7b3c0853c001e1774f27d89403f435d6a0c1e487621c3e9c4a"
+  },
+  "mmlu_science__subject_college_biology__model=qwen2_5_7b__b=032": {
+    "expected_allocation_sha256": "f08a9efb51f92c19f5bab517916912c2f08ea55e8461275fd41bdd1881fa2d1f",
+    "expected_accepted_sha256": "12d5035e0726ba3b306f33acb9969ed0736109ed34001f2a477108e14576783d",
+    "expected_reward_fingerprint": "72bf825e44d6ce7b3c0853c001e1774f27d89403f435d6a0c1e487621c3e9c4a"
+  },
+  "mmlu_science__subject_college_biology__model=qwen2_5_7b__b=064": {
+    "expected_allocation_sha256": "95471b5ca840489180a8e2ef26e0e8936adf1fdd182da3c57abb964b0387e798",
+    "expected_accepted_sha256": "c31a2f4ff16923b2dc2f3d1ebc8a9151e64b599f95926d87ab61fa831df14591",
+    "expected_reward_fingerprint": "72bf825e44d6ce7b3c0853c001e1774f27d89403f435d6a0c1e487621c3e9c4a"
+  },
+  "mmlu_science__subject_college_biology__model=qwen3_5_27b__b=008": {
+    "expected_allocation_sha256": "5b26093afb3bf0cf388075a2a9d14329560808308f41dd3597d5755926596f22",
+    "expected_accepted_sha256": "badaf0ad6d1479607858f0b48337e203782c8b449c841b468f2a6fec3f6b661d",
+    "expected_reward_fingerprint": "223a9b03a496676a771ccd79af5a08103c8efea8991558c77ddc33aeb57212b6"
+  },
+  "mmlu_science__subject_college_biology__model=qwen3_5_27b__b=016": {
+    "expected_allocation_sha256": "bd58eacf0feefb9bcce5086ec740d202e250d18bcf4dddbf964bbe52db6ac317",
+    "expected_accepted_sha256": "38f632346c6ce7e8c44d66bb2b46f422163d3a23bbdb5e432b23f14750c3c981",
+    "expected_reward_fingerprint": "223a9b03a496676a771ccd79af5a08103c8efea8991558c77ddc33aeb57212b6"
+  },
+  "mmlu_science__subject_college_biology__model=qwen3_5_27b__b=032": {
+    "expected_allocation_sha256": "5cf7311620dd6a0e88b2cd8c8349364c708019744f5fb7e621be5b90244e0f1e",
+    "expected_accepted_sha256": "c5b2e2c973c54ca23cc22fcf758fa874c8281f3a1ef792807fde1319bf4b321f",
+    "expected_reward_fingerprint": "223a9b03a496676a771ccd79af5a08103c8efea8991558c77ddc33aeb57212b6"
+  },
+  "mmlu_science__subject_college_biology__model=qwen3_5_27b__b=064": {
+    "expected_allocation_sha256": "4dfb86b665bd46706b25592b10708d0b5edc12188003b4663bd423b6c19eba49",
+    "expected_accepted_sha256": "eee08349e59e264b57e9bd17cf6f68f6b30adbc7627dddaddea6c8370a0ade03",
+    "expected_reward_fingerprint": "223a9b03a496676a771ccd79af5a08103c8efea8991558c77ddc33aeb57212b6"
+  },
+  "mmlu_science__subject_college_biology__model=qwen3_5_4b__b=008": {
+    "expected_allocation_sha256": "2ba890ab3a30f9073c7a58f6146054dfece2ccdf380a337d0e8663f9abd5a582",
+    "expected_accepted_sha256": "f1067ea9711f688c03e0186670dc7d2c386cba24d6d62eeba22581a3b320f5a2",
+    "expected_reward_fingerprint": "7b46ca7b4a5e0423dfde224e1bf48e4bade644bacebc6af62eeea721d51ed6ef"
+  },
+  "mmlu_science__subject_college_biology__model=qwen3_5_4b__b=016": {
+    "expected_allocation_sha256": "29cfa2847806257bb7d214196ff8481d3b01d813f90c711bf2cf78c540420504",
+    "expected_accepted_sha256": "1c35f70e8bce307757721f98b3018d3ed9c3d2c68e05010ceece19eb7328ea98",
+    "expected_reward_fingerprint": "7b46ca7b4a5e0423dfde224e1bf48e4bade644bacebc6af62eeea721d51ed6ef"
+  },
+  "mmlu_science__subject_college_biology__model=qwen3_5_4b__b=032": {
+    "expected_allocation_sha256": "3260f0cf78907d591dbad69192e21ec918b7fa725817c214669bda28fd88437d",
+    "expected_accepted_sha256": "7e747a32aa270dafe315120cc03c77f076ac0ca6b17d6dd4cad6171333d5d065",
+    "expected_reward_fingerprint": "7b46ca7b4a5e0423dfde224e1bf48e4bade644bacebc6af62eeea721d51ed6ef"
+  },
+  "mmlu_science__subject_college_biology__model=qwen3_5_4b__b=064": {
+    "expected_allocation_sha256": "0ddd14f73d60a81a2527baabfc080117d92dbe9f9fa1c54b19f8cc9fa3507f5d",
+    "expected_accepted_sha256": "4ba0acac49cfb5664ace905ad308963b83919e852b77f28b391906b0aef53f1a",
+    "expected_reward_fingerprint": "7b46ca7b4a5e0423dfde224e1bf48e4bade644bacebc6af62eeea721d51ed6ef"
+  },
+  "mmlu_science__subject_college_biology__model=qwen3_5_9b__b=008": {
+    "expected_allocation_sha256": "ebdc6be2a39fdb74c21475bd946ce00fcd71d9c153eb698bbdd2fe3ecd4cfa99",
+    "expected_accepted_sha256": "a04ad51b39bef64459a53f2740f3b015692b0280f04c2b7b7f7029f0ead17f78",
+    "expected_reward_fingerprint": "d270b813361087a4ffcfa35fd74e72b98fa298afc2a6924eda86610560a7225c"
+  },
+  "mmlu_science__subject_college_biology__model=qwen3_5_9b__b=016": {
+    "expected_allocation_sha256": "3e79f516a6c04d9a85529309151af6d1544f601c0094d4776e5a20ba79ed87c9",
+    "expected_accepted_sha256": "51ed01ad5a6eed03dc394d51e8d1791db86b233fec9cff294f3a30f231afb637",
+    "expected_reward_fingerprint": "d270b813361087a4ffcfa35fd74e72b98fa298afc2a6924eda86610560a7225c"
+  },
+  "mmlu_science__subject_college_biology__model=qwen3_5_9b__b=032": {
+    "expected_allocation_sha256": "6e19ad578da3fe40d9d0bc287fc235f36390c96e1a25e8f810500b34453fc659",
+    "expected_accepted_sha256": "68a3b6fbeee37504cc934d099d4729887b3fcd3e51d143b4ce58cb2ed0b56f41",
+    "expected_reward_fingerprint": "d270b813361087a4ffcfa35fd74e72b98fa298afc2a6924eda86610560a7225c"
+  },
+  "mmlu_science__subject_college_biology__model=qwen3_5_9b__b=064": {
+    "expected_allocation_sha256": "d60d956cd6a2d8b41e4d676c93b5433db4376239531e7da619bf220bf5369db2",
+    "expected_accepted_sha256": "aef9a28c11f63a5b8f213011751d8e9d69701580b5b9d04ca6d552cae688d089",
+    "expected_reward_fingerprint": "d270b813361087a4ffcfa35fd74e72b98fa298afc2a6924eda86610560a7225c"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen2_5_32b__b=008": {
+    "expected_allocation_sha256": "a69e0733737df5003f82a1f8db6815f348642caf786e9d6bce9b83d0c4164d0e",
+    "expected_accepted_sha256": "5ba0b303f2ea17aa4a0e061e5252aefeeb29cd0e7ec81cc4abd924ef0412c01e",
+    "expected_reward_fingerprint": "e6e6e7f7f657e0fb3c599d05aa24c25ccb20e75e62f3fd447b2c06e6451f27f5"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen2_5_32b__b=016": {
+    "expected_allocation_sha256": "c6c39e7e743d20a2a28e214e30922132e4218cb0a3d4da248ca97109de040fc2",
+    "expected_accepted_sha256": "fc637ebde3e9197c4eebd439942f6eab685ff38806444f72804cd3b40ac5f3f1",
+    "expected_reward_fingerprint": "e6e6e7f7f657e0fb3c599d05aa24c25ccb20e75e62f3fd447b2c06e6451f27f5"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen2_5_32b__b=032": {
+    "expected_allocation_sha256": "e704808c4f90863ef6bff38ea1c5db47eccba3d5566c1abedbb19b624331ccce",
+    "expected_accepted_sha256": "9657bbcb02973c0c552f25a02a3446024b42191251a7d4c142daf1b1d17860d3",
+    "expected_reward_fingerprint": "e6e6e7f7f657e0fb3c599d05aa24c25ccb20e75e62f3fd447b2c06e6451f27f5"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen2_5_32b__b=064": {
+    "expected_allocation_sha256": "5aa09702097b08388c8ce8e8d87c2471f799eaf19023dc685ab14908fa6fb613",
+    "expected_accepted_sha256": "2f6f7ad05bf264aff4e77abada5ea889dc9c4af437a13528bd87b1703db02348",
+    "expected_reward_fingerprint": "e6e6e7f7f657e0fb3c599d05aa24c25ccb20e75e62f3fd447b2c06e6451f27f5"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen2_5_3b__b=008": {
+    "expected_allocation_sha256": "eb9b9713b1d89ee78beaa59b5ccdfebe8cb918ac88611c1eda83ba7e8dc2d9d7",
+    "expected_accepted_sha256": "1445f04f1b473c0ef664eb82b3885dcf3aebee4b38028109f799e3287860742c",
+    "expected_reward_fingerprint": "4b3f0e49c4c758526ed5c918a66989c74b62f9cd55f44dfab9daebebe600fc94"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen2_5_3b__b=016": {
+    "expected_allocation_sha256": "ecf0412deefe970c61db43f69d1b40c123f53a735dfff0c096addbda200b4125",
+    "expected_accepted_sha256": "271233c5c81dc5a4ed824a01e7c966ba262011533b887b3b97ac6a1848b11ffd",
+    "expected_reward_fingerprint": "4b3f0e49c4c758526ed5c918a66989c74b62f9cd55f44dfab9daebebe600fc94"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen2_5_3b__b=032": {
+    "expected_allocation_sha256": "2eafb5d18473bb1eac16a875b52c53c2d38b1d48ffa4654e01ebc80e086bc478",
+    "expected_accepted_sha256": "3818c30307591cab7b2528283e3ae52ad140ea55b03f3fb90ee99c2a4d69272e",
+    "expected_reward_fingerprint": "4b3f0e49c4c758526ed5c918a66989c74b62f9cd55f44dfab9daebebe600fc94"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen2_5_3b__b=064": {
+    "expected_allocation_sha256": "ee8b2ef2b0e3e80af662cb72a9c812d09bee27c8763657fd6ffb5182bf467c1a",
+    "expected_accepted_sha256": "657ded59a2959857483da7bbe7e61fcfd87c303738578b3fb823ef75c568e491",
+    "expected_reward_fingerprint": "4b3f0e49c4c758526ed5c918a66989c74b62f9cd55f44dfab9daebebe600fc94"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen2_5_7b__b=008": {
+    "expected_allocation_sha256": "266c9ae0999833195ff8354ed4fe18158ab233a13bd091bcb7502cc0df5b9672",
+    "expected_accepted_sha256": "f1a522ec63573492f8486e3dfebac738639e9077b5211fe2fc750551a3eaa191",
+    "expected_reward_fingerprint": "7639966cb717e13e728ba53e778763ce9db74321b5eefa54402b2019b74d0029"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen2_5_7b__b=016": {
+    "expected_allocation_sha256": "59f5e9d3085481ec181173d91000303c6a894203e7653b792434ba58f9f2c694",
+    "expected_accepted_sha256": "0d11ff10d1fa897c47399c61134faab860a98b19300e8c5a130751790dd7e9bb",
+    "expected_reward_fingerprint": "7639966cb717e13e728ba53e778763ce9db74321b5eefa54402b2019b74d0029"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen2_5_7b__b=032": {
+    "expected_allocation_sha256": "ae44260655d6a11888d390014c2712899e9819d91eb51e251d747e5f61a10a13",
+    "expected_accepted_sha256": "282c738f4e73f973c42a5cc2ffc1cee2356a238daababc9626511d09b5c927b5",
+    "expected_reward_fingerprint": "7639966cb717e13e728ba53e778763ce9db74321b5eefa54402b2019b74d0029"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen2_5_7b__b=064": {
+    "expected_allocation_sha256": "4f8683afabf718d2a0879e17551ae55f2c3f3cb9163fcb1ec10d49759a11f027",
+    "expected_accepted_sha256": "00e8cf55e4220ada92846e6d8a74a5bff6bf6f41548f87a3391daf8a521860ea",
+    "expected_reward_fingerprint": "7639966cb717e13e728ba53e778763ce9db74321b5eefa54402b2019b74d0029"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen3_5_27b__b=008": {
+    "expected_allocation_sha256": "141e12562ba0b34b90ced9cedf1b4e215795bfbbde801c2f9dc1a00447befcfd",
+    "expected_accepted_sha256": "51cd905830e5a1759922a55a220c971c53a2019783e4e2f27b8c359a709218f2",
+    "expected_reward_fingerprint": "4c76b9888755165f84b2a11dfe9d0bbe134c8a07895889904c6e6774a0664abf"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen3_5_27b__b=016": {
+    "expected_allocation_sha256": "a8153c7f5bfc555c805ae5ce43963139d94202d529ed01ba7fde8c9da52a9c1a",
+    "expected_accepted_sha256": "8796b1ce673c685bd70ef61aaeb60a00cfcdbc9e0dec84713d95a4fc00aba904",
+    "expected_reward_fingerprint": "4c76b9888755165f84b2a11dfe9d0bbe134c8a07895889904c6e6774a0664abf"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen3_5_27b__b=032": {
+    "expected_allocation_sha256": "9a00b332087061e78ee8b84d9a6169f99a98a07afcd98b4859f13aa6e7e2193c",
+    "expected_accepted_sha256": "62f7101ef1d9aea19a176b9688a8d1ee2e74853b7b16865a09af364c952dd72b",
+    "expected_reward_fingerprint": "4c76b9888755165f84b2a11dfe9d0bbe134c8a07895889904c6e6774a0664abf"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen3_5_27b__b=064": {
+    "expected_allocation_sha256": "b8fe290a5f5fa372a32ea9533b7820177a3613457a5cf0eb2ae8ae2a38ace7d1",
+    "expected_accepted_sha256": "956a28a3ac3c252ea21551d2a6c166275f4aff1b98afecfed60ee677754afb79",
+    "expected_reward_fingerprint": "4c76b9888755165f84b2a11dfe9d0bbe134c8a07895889904c6e6774a0664abf"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen3_5_4b__b=008": {
+    "expected_allocation_sha256": "2975a14abeb27b84503fa0bd67a79e90b93947c4b72c081b61df3c96be83191e",
+    "expected_accepted_sha256": "0d58d956f61304428815c8aeca19d331358b13cdaa9b27fb802969df4a4a3557",
+    "expected_reward_fingerprint": "70f76d1b2e86a80f09674a2d6f0bdd3ae19c56f07a0f1d79853f2a099cf156b9"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen3_5_4b__b=016": {
+    "expected_allocation_sha256": "2cb2154605b595d213be272a6c8c0cd85e7ccb0df4f509aca4995c0a9c976561",
+    "expected_accepted_sha256": "09c619e5a6231154ba2c775a35767d3f4a4d07f9bd56ef0c888448f007207b2d",
+    "expected_reward_fingerprint": "70f76d1b2e86a80f09674a2d6f0bdd3ae19c56f07a0f1d79853f2a099cf156b9"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen3_5_4b__b=032": {
+    "expected_allocation_sha256": "22ff9dcc33fe491301dc65a43d00f4a55ed354ea7a411cfd9faf3d33cdd22f1e",
+    "expected_accepted_sha256": "8d51bb3041a134baf123c1c810761da9428c14eac4f5d4f07e5cf89761fe4989",
+    "expected_reward_fingerprint": "70f76d1b2e86a80f09674a2d6f0bdd3ae19c56f07a0f1d79853f2a099cf156b9"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen3_5_4b__b=064": {
+    "expected_allocation_sha256": "6c2811abc7e8820fd807718b62da2c8536d13466becf097b84086074c32cd84c",
+    "expected_accepted_sha256": "773d27327764e7c0abc649d60880a5a7d22cbef7de8dff5907f30dacd96ff09f",
+    "expected_reward_fingerprint": "70f76d1b2e86a80f09674a2d6f0bdd3ae19c56f07a0f1d79853f2a099cf156b9"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen3_5_9b__b=008": {
+    "expected_allocation_sha256": "7e993980f806ee0e316c8010ba1e9b68e45418ea224ef6bebb81b78f0e8a46e4",
+    "expected_accepted_sha256": "af2de82e098ae08f87968a66771cb741157a2344d48c027b6323460a4250231c",
+    "expected_reward_fingerprint": "639b0c063ec93dd2322ac85af79a145216d327b57df8592c65fe89a4591233a9"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen3_5_9b__b=016": {
+    "expected_allocation_sha256": "add2b0b5d71e2a61cf25e4ef7a368f802c21f7e76f22726b19b2094a393a5262",
+    "expected_accepted_sha256": "2e9f204e34534465e6a12c6c57a209e3f06b1c561324dbf63efdcb2aca5a9585",
+    "expected_reward_fingerprint": "639b0c063ec93dd2322ac85af79a145216d327b57df8592c65fe89a4591233a9"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen3_5_9b__b=032": {
+    "expected_allocation_sha256": "76c48c9c297a88aed40003fe424ab146de9077783e96c4a41517193d6145f42b",
+    "expected_accepted_sha256": "2171ce1bc1a668880afaf164a28536bff3e83c84be7f7d00424784aafeb25f82",
+    "expected_reward_fingerprint": "639b0c063ec93dd2322ac85af79a145216d327b57df8592c65fe89a4591233a9"
+  },
+  "mmlu_science__subject_college_chemistry__model=qwen3_5_9b__b=064": {
+    "expected_allocation_sha256": "b4c84f962de8bdd061ede4486c4ba51a7889bf4d15ce16202debf37e0e1c98c5",
+    "expected_accepted_sha256": "d5c2e0d9489c955748453731f40e6409f4ee90e7497299f204ccb3c31164d2f7",
+    "expected_reward_fingerprint": "639b0c063ec93dd2322ac85af79a145216d327b57df8592c65fe89a4591233a9"
+  },
+  "mmlu_science__subject_college_physics__model=qwen2_5_32b__b=008": {
+    "expected_allocation_sha256": "094b6d62b0ea1e27aa0676f3ef32dbeed7666464f0481672fdb18e2cce34b711",
+    "expected_accepted_sha256": "fb3e1339d25491b11c1818b727ab2b41a544e00f98eaaa6767126ae9ebc14993",
+    "expected_reward_fingerprint": "b346fd9e1f419bf2ac4387e78b480fe773966374995e7304ce0ac165762934bf"
+  },
+  "mmlu_science__subject_college_physics__model=qwen2_5_32b__b=016": {
+    "expected_allocation_sha256": "29f8c29e2a208ce77858af3774a0cf3b62a786f8702a0acd3f7b9d7297242235",
+    "expected_accepted_sha256": "2f2e29976c29648f7ee69b516c59d679a8e79ef9eb22401d1799199315e23f4d",
+    "expected_reward_fingerprint": "b346fd9e1f419bf2ac4387e78b480fe773966374995e7304ce0ac165762934bf"
+  },
+  "mmlu_science__subject_college_physics__model=qwen2_5_32b__b=032": {
+    "expected_allocation_sha256": "af9cb07590d71dccdafe0499fdebe3e608cd0daa9879025a44033c7be06758e2",
+    "expected_accepted_sha256": "39f641e34c7119530e3d57b7a522c234655b5721567ba1c6f19617a3315c195d",
+    "expected_reward_fingerprint": "b346fd9e1f419bf2ac4387e78b480fe773966374995e7304ce0ac165762934bf"
+  },
+  "mmlu_science__subject_college_physics__model=qwen2_5_32b__b=064": {
+    "expected_allocation_sha256": "f1ead8ce3196554766b8bc7893fd67fb6afa713de2f791fad0b799386e7c695e",
+    "expected_accepted_sha256": "8c1f5953554b53675e8a6f7b6658e22e61991088650691d8be1003af12064ee8",
+    "expected_reward_fingerprint": "b346fd9e1f419bf2ac4387e78b480fe773966374995e7304ce0ac165762934bf"
+  },
+  "mmlu_science__subject_college_physics__model=qwen2_5_3b__b=008": {
+    "expected_allocation_sha256": "37d87297a892365e96567c52a5ebbffe998aa0c8e64f2099b8b5b49a139fff50",
+    "expected_accepted_sha256": "847705cba45f9e11ab12e66009af9e6330647163803c543fa49ec5ed35ca05fe",
+    "expected_reward_fingerprint": "edce0a03a98105d55eac2a32d651d8cd74a1fc3f1a80485ce7defaef53ac720f"
+  },
+  "mmlu_science__subject_college_physics__model=qwen2_5_3b__b=016": {
+    "expected_allocation_sha256": "877fc2bd50b64cb36a4254674f6d615f82041eb81c77be28f831aebf2427df64",
+    "expected_accepted_sha256": "14a48eb6decabb29e65b68e430cd0f6f268d699b81b984cf31bcb34a0e5ab55f",
+    "expected_reward_fingerprint": "edce0a03a98105d55eac2a32d651d8cd74a1fc3f1a80485ce7defaef53ac720f"
+  },
+  "mmlu_science__subject_college_physics__model=qwen2_5_3b__b=032": {
+    "expected_allocation_sha256": "92ded5d2719177776f53a296f2dc4f38ebd74f916704137fd0944df1392eb5d6",
+    "expected_accepted_sha256": "589bc7fd31ed4dc66d51ea3980b09a30b54598f433098095edc265603d955856",
+    "expected_reward_fingerprint": "edce0a03a98105d55eac2a32d651d8cd74a1fc3f1a80485ce7defaef53ac720f"
+  },
+  "mmlu_science__subject_college_physics__model=qwen2_5_3b__b=064": {
+    "expected_allocation_sha256": "8824fcc25ef40c950004f4260c5e7ae684e1eba43401dc4ba54a53004823ba93",
+    "expected_accepted_sha256": "7b5f450e39a72bdacf0f7ff5ea945693a8ba739764f2ed7820b80d2d98a9ee1b",
+    "expected_reward_fingerprint": "edce0a03a98105d55eac2a32d651d8cd74a1fc3f1a80485ce7defaef53ac720f"
+  },
+  "mmlu_science__subject_college_physics__model=qwen2_5_7b__b=008": {
+    "expected_allocation_sha256": "3135d04b15174538d5795cb92f18c71f9d2c470a347c0e9a199457cdfa3294be",
+    "expected_accepted_sha256": "3752fca72f867eddbfd132d384ab4db334db1c4d68e50f4aa25a111bb942ac5f",
+    "expected_reward_fingerprint": "b12f1002a9612e61d4a6737c2b1bc4408b15368a3bd314ae7e8ce957aa0cda4d"
+  },
+  "mmlu_science__subject_college_physics__model=qwen2_5_7b__b=016": {
+    "expected_allocation_sha256": "f62c93f27044f734c25e971d84284ada2ffe73d6ee14d1747a3875a463adc3d1",
+    "expected_accepted_sha256": "9074795c1a24f3092ece87855f84068ad11fbe292ce8bf4e5fc1a33f60524214",
+    "expected_reward_fingerprint": "b12f1002a9612e61d4a6737c2b1bc4408b15368a3bd314ae7e8ce957aa0cda4d"
+  },
+  "mmlu_science__subject_college_physics__model=qwen2_5_7b__b=032": {
+    "expected_allocation_sha256": "2fdf206153f91b935cf5298243221c68f36d3deb22286c04645ed1a91c2564fd",
+    "expected_accepted_sha256": "74320a6ec37f8ad4f7d2e5cb2f6febd7b0c192b4270ed1cbb4b18e428d7cde66",
+    "expected_reward_fingerprint": "b12f1002a9612e61d4a6737c2b1bc4408b15368a3bd314ae7e8ce957aa0cda4d"
+  },
+  "mmlu_science__subject_college_physics__model=qwen2_5_7b__b=064": {
+    "expected_allocation_sha256": "ab019278c82fdad2aa844546764be0960e1f21bdc34ffa4424d101725d3961bf",
+    "expected_accepted_sha256": "78e0bc3b51a9721727daf4b04ceec6543ee5be86f061dd809d57069fc5530b88",
+    "expected_reward_fingerprint": "b12f1002a9612e61d4a6737c2b1bc4408b15368a3bd314ae7e8ce957aa0cda4d"
+  },
+  "mmlu_science__subject_college_physics__model=qwen3_5_27b__b=008": {
+    "expected_allocation_sha256": "139f8281663b009cb7bb0cac04ddc20f41315687c359d696124fb4eadb0d507a",
+    "expected_accepted_sha256": "2d407efd9f80486819a6f99cfcabd04e7c727cc7a3044c2fbecda9866fbfb087",
+    "expected_reward_fingerprint": "81c6b634a754c6c8d35795dd95cab242d92ab301b85b9cf0fecc3e96fdffa3e2"
+  },
+  "mmlu_science__subject_college_physics__model=qwen3_5_27b__b=016": {
+    "expected_allocation_sha256": "91b65711ff50aa2ab5a4e7ca83df2e8facfcbdbaf28f599a77964d4100afafef",
+    "expected_accepted_sha256": "6484d5fb191caff2f0a0d61308331005566594644e908fd0b030377dc56b3ff6",
+    "expected_reward_fingerprint": "81c6b634a754c6c8d35795dd95cab242d92ab301b85b9cf0fecc3e96fdffa3e2"
+  },
+  "mmlu_science__subject_college_physics__model=qwen3_5_27b__b=032": {
+    "expected_allocation_sha256": "99fced6d7a5c3ebc19f66cdf1cbdaeea60c423b0c842111ab78204088ccffb20",
+    "expected_accepted_sha256": "f4e3c2de480aa927b5af03c5a4472b51fc2c84491d3a1b7a6bfd50c5bc96e89c",
+    "expected_reward_fingerprint": "81c6b634a754c6c8d35795dd95cab242d92ab301b85b9cf0fecc3e96fdffa3e2"
+  },
+  "mmlu_science__subject_college_physics__model=qwen3_5_27b__b=064": {
+    "expected_allocation_sha256": "119325c7fbbc4c0912034833dd9d88f8ad32b22bf23e059d60fd7f5ed7cfeb53",
+    "expected_accepted_sha256": "5cc1432a1077b171117e11127bc7b36729ca2edebae300594a7c39db53a45925",
+    "expected_reward_fingerprint": "81c6b634a754c6c8d35795dd95cab242d92ab301b85b9cf0fecc3e96fdffa3e2"
+  },
+  "mmlu_science__subject_college_physics__model=qwen3_5_4b__b=008": {
+    "expected_allocation_sha256": "bbadf5071c98532be87409c6f213c3fb78079e5ce256e994db8d9d446b85ebe7",
+    "expected_accepted_sha256": "71d7bf46d1411f5a71804d016ea42ca5606551409d510de41f12644e8defa83c",
+    "expected_reward_fingerprint": "15f89a96eaf63e89f724582803e338622b341717b4f77a61e12df77a061c3c44"
+  },
+  "mmlu_science__subject_college_physics__model=qwen3_5_4b__b=016": {
+    "expected_allocation_sha256": "e4a3adafdb335864037323b953e9556a0bfffa45e2ace77d700b4a792ba5be6b",
+    "expected_accepted_sha256": "bf76cc40b2640cfc4f17da301036a4d8c6048feb82a161bff58e109ed599148b",
+    "expected_reward_fingerprint": "15f89a96eaf63e89f724582803e338622b341717b4f77a61e12df77a061c3c44"
+  },
+  "mmlu_science__subject_college_physics__model=qwen3_5_4b__b=032": {
+    "expected_allocation_sha256": "d433ac3c41e3aba8a6afe31d7e1077545c149f9526843a6b7b40e3b4f02a72b3",
+    "expected_accepted_sha256": "3455895277095d3d1e5ff1c0359b89a446cba5d1a1216084e1c7f5d032d1deea",
+    "expected_reward_fingerprint": "15f89a96eaf63e89f724582803e338622b341717b4f77a61e12df77a061c3c44"
+  },
+  "mmlu_science__subject_college_physics__model=qwen3_5_4b__b=064": {
+    "expected_allocation_sha256": "3d6663ffc269442097ba789057c6cb196ba52ecfe37844e5f18fd4888b8c4659",
+    "expected_accepted_sha256": "3f4a67f35bce2b89d1b1ed04073f3de4ed4099b2879d9ce37b4a5866d2587e44",
+    "expected_reward_fingerprint": "15f89a96eaf63e89f724582803e338622b341717b4f77a61e12df77a061c3c44"
+  },
+  "mmlu_science__subject_college_physics__model=qwen3_5_9b__b=008": {
+    "expected_allocation_sha256": "ee77cdebc4e049f1b7c2d2997e853a3d2ce696044e79cc04f8577064ec4f1783",
+    "expected_accepted_sha256": "8d56f7d78ecd7875ebbb168822534bc23dbc76585c49b2a4a2a385975d8e436f",
+    "expected_reward_fingerprint": "49fda4704f5416adba47b8ae5955ec3da324694f955d3bba89b42ef069f068ff"
+  },
+  "mmlu_science__subject_college_physics__model=qwen3_5_9b__b=016": {
+    "expected_allocation_sha256": "3138f91d90313ca2c047588b7af7ebf15c5d7444526768f99c5219d4e5906c93",
+    "expected_accepted_sha256": "2e742292071e98132b5c553a9130555fa99b69348157ffdff6618a6d82972d3d",
+    "expected_reward_fingerprint": "49fda4704f5416adba47b8ae5955ec3da324694f955d3bba89b42ef069f068ff"
+  },
+  "mmlu_science__subject_college_physics__model=qwen3_5_9b__b=032": {
+    "expected_allocation_sha256": "545c141d218d848aad72621f2c5b4a4f9c71d87faddc22a6dccfd7bb01958a33",
+    "expected_accepted_sha256": "65daeebfa4b1ef06bae814c66e5d7632fc08ef59ac4740cbc6d1f91638ebb3cf",
+    "expected_reward_fingerprint": "49fda4704f5416adba47b8ae5955ec3da324694f955d3bba89b42ef069f068ff"
+  },
+  "mmlu_science__subject_college_physics__model=qwen3_5_9b__b=064": {
+    "expected_allocation_sha256": "b56805e6398096e3bf515d570416b1fc6e84bb51516a81c63be542cca26eed25",
+    "expected_accepted_sha256": "04f4e0564bc607674d9c94e48eb0ece6d7423b40b3485d5b20278da8f0d1ca9b",
+    "expected_reward_fingerprint": "49fda4704f5416adba47b8ae5955ec3da324694f955d3bba89b42ef069f068ff"
+  },
+  "supergpqa_science__field_biology__model=qwen2_5_32b__b=008": {
+    "expected_allocation_sha256": "430fd448dda3e2dbadc44c67da36268ba5425331c9220f41be0e11c98770e638",
+    "expected_accepted_sha256": "78cf00a9b04b4c56c042346ef6b76ab8e1d8eee3c16131198f3a1dff435f4d86",
+    "expected_reward_fingerprint": "e771cc8e2b8b9508924ac2e8858d24e792e5e5748e7bf6ea4974367b441ffb7b"
+  },
+  "supergpqa_science__field_biology__model=qwen2_5_32b__b=016": {
+    "expected_allocation_sha256": "d5921626f3bd7146700c07a4bb8e124d83f2c5fe57b4d398b7ddedaff58fb74b",
+    "expected_accepted_sha256": "c308efdd1019f3ed5881f06582dc4f4c1bd2e5b26e14fc2df1a6c2f76d424ba7",
+    "expected_reward_fingerprint": "e771cc8e2b8b9508924ac2e8858d24e792e5e5748e7bf6ea4974367b441ffb7b"
+  },
+  "supergpqa_science__field_biology__model=qwen2_5_32b__b=032": {
+    "expected_allocation_sha256": "28d10693746fafe16846fbe4579d7d5cd5e615c5de241e0f20a8e95ff1ad9567",
+    "expected_accepted_sha256": "7d7b8372cb044b41c6737f2dbfe87ec6fa5ba4f638a718bfc03a93e352e61c8f",
+    "expected_reward_fingerprint": "e771cc8e2b8b9508924ac2e8858d24e792e5e5748e7bf6ea4974367b441ffb7b"
+  },
+  "supergpqa_science__field_biology__model=qwen2_5_32b__b=064": {
+    "expected_allocation_sha256": "c08287fc8985b47efb99f470fb925b479fe6f8f78977adca065f4f82218525b1",
+    "expected_accepted_sha256": "56d0acea33b4cb0a1cf30cf1320e7ad08812cdc0d32b4f8d3afa4521f1ab8924",
+    "expected_reward_fingerprint": "e771cc8e2b8b9508924ac2e8858d24e792e5e5748e7bf6ea4974367b441ffb7b"
+  },
+  "supergpqa_science__field_biology__model=qwen2_5_3b__b=008": {
+    "expected_allocation_sha256": "f8f89547317e4aa2814c3b36bc6ee575a35a5f4b6baac63f7ae6007c1783fdb4",
+    "expected_accepted_sha256": "f511af289403761d070432ffd5561cb411bea898758e9a5be3807932520f650e",
+    "expected_reward_fingerprint": "40de4a40d53486514b534939464309d56dda278a0a2a41a973e8aec5c20d09fd"
+  },
+  "supergpqa_science__field_biology__model=qwen2_5_3b__b=016": {
+    "expected_allocation_sha256": "9d67181becb663e8a41220e374b043fbd62c0d38622dd24e5e2779db82f4294c",
+    "expected_accepted_sha256": "804770d3c6e90ef7abeda89c2071e7863501a726a72845c60c8eab9349ea307e",
+    "expected_reward_fingerprint": "40de4a40d53486514b534939464309d56dda278a0a2a41a973e8aec5c20d09fd"
+  },
+  "supergpqa_science__field_biology__model=qwen2_5_3b__b=032": {
+    "expected_allocation_sha256": "0f2737283673b593464f4cb21e4c9c50e35e256d9e17606a1258953ac4946dbe",
+    "expected_accepted_sha256": "e0b6b419fc5bdd170cc2db85d9e7ecfbc933ffcd90e1d1eaaceacddc15eef27d",
+    "expected_reward_fingerprint": "40de4a40d53486514b534939464309d56dda278a0a2a41a973e8aec5c20d09fd"
+  },
+  "supergpqa_science__field_biology__model=qwen2_5_3b__b=064": {
+    "expected_allocation_sha256": "39fedf4f28099e44f8ca9d8138f6a41c7009d485de1bc0025de55e466ceb6483",
+    "expected_accepted_sha256": "47a703f6ab328f835235c6f534bea7e7deea832fa1b8af2944a1e2b6dd2cfc16",
+    "expected_reward_fingerprint": "40de4a40d53486514b534939464309d56dda278a0a2a41a973e8aec5c20d09fd"
+  },
+  "supergpqa_science__field_biology__model=qwen2_5_7b__b=008": {
+    "expected_allocation_sha256": "87ec0a0811bef7bb373faee24dd62e30528b788632f4ee3d899a1d1838de20b8",
+    "expected_accepted_sha256": "658e9134f23c0d94f13a906b14ab22934023b99e9e55dd9fdf59570c9d5bc1c0",
+    "expected_reward_fingerprint": "8a01c317fecde96e9a6d6efa91d641800bc4c92717f783c833e6ee760f90dabd"
+  },
+  "supergpqa_science__field_biology__model=qwen2_5_7b__b=016": {
+    "expected_allocation_sha256": "8e1a93e50b3e303dd86fc458e2e1b18767aba638986f01c212b6052ef27fb5ab",
+    "expected_accepted_sha256": "8a3d038c62b8500840f8d4df7ef4a5dc476ab6362c5135c100cfdd3b6da36bcf",
+    "expected_reward_fingerprint": "8a01c317fecde96e9a6d6efa91d641800bc4c92717f783c833e6ee760f90dabd"
+  },
+  "supergpqa_science__field_biology__model=qwen2_5_7b__b=032": {
+    "expected_allocation_sha256": "cecd76c7a164351d5b16c5a64089c8c231e4bcd614976435f8f1aa0403c0bfe7",
+    "expected_accepted_sha256": "a73b3ae800cfac25ba8fbb48f3ba747503dc41b8ec2252331d024b342b64a733",
+    "expected_reward_fingerprint": "8a01c317fecde96e9a6d6efa91d641800bc4c92717f783c833e6ee760f90dabd"
+  },
+  "supergpqa_science__field_biology__model=qwen2_5_7b__b=064": {
+    "expected_allocation_sha256": "fdb4ab7e35107cc746bd980c33347ac0e8d9ede73c299d4ee7281c121746bdcf",
+    "expected_accepted_sha256": "2988ecefe81460c0cbd671867b44ce63889766f0dd0133abee21e5ab6279ba6e",
+    "expected_reward_fingerprint": "8a01c317fecde96e9a6d6efa91d641800bc4c92717f783c833e6ee760f90dabd"
+  },
+  "supergpqa_science__field_biology__model=qwen3_5_27b__b=008": {
+    "expected_allocation_sha256": "cf19988161df4931c35670b5ed0c07b5d98d91ba7e8de9534b9c7d0dac08e996",
+    "expected_accepted_sha256": "db417eb3360affe559eff00aa252e547207c102bf60f68594dc701921ff47ad7",
+    "expected_reward_fingerprint": "8415a8a8ccb30a3147f8b2761d05f0541dceecbec0131dd02f637ae932e26f3c"
+  },
+  "supergpqa_science__field_biology__model=qwen3_5_27b__b=016": {
+    "expected_allocation_sha256": "af37f26eb286bcbf041becbafbc9bd4b2d7e742d2cbfcb0d1d2c6f267e01a2e9",
+    "expected_accepted_sha256": "1369cf0036c75c2bae10a812427438e4dd7c7df238e3719fa960912eb81f0cc0",
+    "expected_reward_fingerprint": "8415a8a8ccb30a3147f8b2761d05f0541dceecbec0131dd02f637ae932e26f3c"
+  },
+  "supergpqa_science__field_biology__model=qwen3_5_27b__b=032": {
+    "expected_allocation_sha256": "c824651899acf34948c660abe6f37a1834cb163285c2796bd0c745a4189141eb",
+    "expected_accepted_sha256": "32984589b323d30ec58bec407df26a8ee9b727138298d6572c6b2458109e90a7",
+    "expected_reward_fingerprint": "8415a8a8ccb30a3147f8b2761d05f0541dceecbec0131dd02f637ae932e26f3c"
+  },
+  "supergpqa_science__field_biology__model=qwen3_5_27b__b=064": {
+    "expected_allocation_sha256": "6a4038f942940e75a019d921e81f2ba88a7e56f1daa448d0c9a6969e04d596da",
+    "expected_accepted_sha256": "1523a1da7cabf252cb1dd53c58e2fff6ff9fedbd4539b2ea6b51b8fbe0007fe6",
+    "expected_reward_fingerprint": "8415a8a8ccb30a3147f8b2761d05f0541dceecbec0131dd02f637ae932e26f3c"
+  },
+  "supergpqa_science__field_biology__model=qwen3_5_4b__b=008": {
+    "expected_allocation_sha256": "d96e05eee5d62ef0b8bac91d9ae97675b1198b7036ddcb00f903e2d027419b0f",
+    "expected_accepted_sha256": "2af37a0f781122fe3e8bd1655d44c4d095cbca66f8f81e64e7f7172b1060158f",
+    "expected_reward_fingerprint": "5d4dfc125f514a7a550d85133dd96214d7a8068c5360c46e9592c68453f8d014"
+  },
+  "supergpqa_science__field_biology__model=qwen3_5_4b__b=016": {
+    "expected_allocation_sha256": "aaa3518f69b482ab57fa94eb0196f5a448322552fafda92ab2bf46d920948432",
+    "expected_accepted_sha256": "95bf713479d51c965412c2afe31f3c656537e10b8330ef3fae389a42cf83e750",
+    "expected_reward_fingerprint": "5d4dfc125f514a7a550d85133dd96214d7a8068c5360c46e9592c68453f8d014"
+  },
+  "supergpqa_science__field_biology__model=qwen3_5_4b__b=032": {
+    "expected_allocation_sha256": "2a165116ee726d61f6be132c4462ca2f45595eeff140a992112477dc6a0d692e",
+    "expected_accepted_sha256": "872dc590699f95da5b2e09b7c8d7e391e1b05baa0d695e6863abcfe523bf898e",
+    "expected_reward_fingerprint": "5d4dfc125f514a7a550d85133dd96214d7a8068c5360c46e9592c68453f8d014"
+  },
+  "supergpqa_science__field_biology__model=qwen3_5_4b__b=064": {
+    "expected_allocation_sha256": "30546bf10ffd8cfee76d3d374b6df8bc24aa7258df44cae1dcd282cded4aed58",
+    "expected_accepted_sha256": "89ee23d505f285c683e9fd955fa9fedc9eb23dd206ab2c325376378cba02929c",
+    "expected_reward_fingerprint": "5d4dfc125f514a7a550d85133dd96214d7a8068c5360c46e9592c68453f8d014"
+  },
+  "supergpqa_science__field_biology__model=qwen3_5_9b__b=008": {
+    "expected_allocation_sha256": "78b1fc2c736579cf1127c6ff691fe2be7a11f05e7e73549bcd5cf8295402dbec",
+    "expected_accepted_sha256": "5c348de09e2d009853d34114e4ec124d11e7ec210b0f9a7a6251d4103af40c41",
+    "expected_reward_fingerprint": "3f0d805b74147c04a9da16f469ccd6204e33588ba3416a2a145e770b7361af22"
+  },
+  "supergpqa_science__field_biology__model=qwen3_5_9b__b=016": {
+    "expected_allocation_sha256": "076f3694db07ec55323afaed1f61c4ff4576581c5349de09b44084d790ce653c",
+    "expected_accepted_sha256": "78adb3861d12737224db576952819878ff637ca33a01ea57e62940dc454758fc",
+    "expected_reward_fingerprint": "3f0d805b74147c04a9da16f469ccd6204e33588ba3416a2a145e770b7361af22"
+  },
+  "supergpqa_science__field_biology__model=qwen3_5_9b__b=032": {
+    "expected_allocation_sha256": "c3ef1df2ee055f0770d405c28ce4931e7dd388a13761788754f85f643bf496c5",
+    "expected_accepted_sha256": "89cdb56d74d3cc34576ba7cad0629daaf4c3c9aad7c9fb7acf3f8a3d2b638b56",
+    "expected_reward_fingerprint": "3f0d805b74147c04a9da16f469ccd6204e33588ba3416a2a145e770b7361af22"
+  },
+  "supergpqa_science__field_biology__model=qwen3_5_9b__b=064": {
+    "expected_allocation_sha256": "8a04f27fbb9459cbd4942e915f8c8cbb8253dc37153a5ec17988fd4f3885a578",
+    "expected_accepted_sha256": "d4edfdae3e654efcaef8bfe0faef6d2e4597eb15a656bf177b13bc161aea2496",
+    "expected_reward_fingerprint": "3f0d805b74147c04a9da16f469ccd6204e33588ba3416a2a145e770b7361af22"
+  },
+  "supergpqa_science__field_chemistry__model=qwen2_5_32b__b=008": {
+    "expected_allocation_sha256": "1fb78bad871e3f84ca48591affa09a81d3be9de26014f5d2551a94e521a89e6a",
+    "expected_accepted_sha256": "58051e7e4010cdbdc75b452d5334d9687efbd35568dd23beb33137dc8f9906b4",
+    "expected_reward_fingerprint": "b6976afe9c38e973bce06122de6cceb66e9fb31239d7a19762ca77e111f8616e"
+  },
+  "supergpqa_science__field_chemistry__model=qwen2_5_32b__b=016": {
+    "expected_allocation_sha256": "61b846c6727563e97df0ee4ebc2234f46586ff7bde82e0440f0c1aec0e47cda1",
+    "expected_accepted_sha256": "388d4fb822db7755837637b0dfdc7c3108da795f5f11da5feadd7a3a50be5c65",
+    "expected_reward_fingerprint": "b6976afe9c38e973bce06122de6cceb66e9fb31239d7a19762ca77e111f8616e"
+  },
+  "supergpqa_science__field_chemistry__model=qwen2_5_32b__b=032": {
+    "expected_allocation_sha256": "a2689d976a1e3e70c8fc0772b4a375077b2ec3baf524c07b0794deed5d1ebb6f",
+    "expected_accepted_sha256": "0f148b4e6dda7a67f932f183ff049f72b46b857649652334f7ea3b095ba414c4",
+    "expected_reward_fingerprint": "b6976afe9c38e973bce06122de6cceb66e9fb31239d7a19762ca77e111f8616e"
+  },
+  "supergpqa_science__field_chemistry__model=qwen2_5_32b__b=064": {
+    "expected_allocation_sha256": "5af3a397261c2fb4a6341fa97ef89d0812f3a6993c4a84154892ce882fe2088d",
+    "expected_accepted_sha256": "59f73d98359e29e64faa09df9c192eab4230a77022388ad3318f5c755174e810",
+    "expected_reward_fingerprint": "b6976afe9c38e973bce06122de6cceb66e9fb31239d7a19762ca77e111f8616e"
+  },
+  "supergpqa_science__field_chemistry__model=qwen2_5_3b__b=008": {
+    "expected_allocation_sha256": "2ded1b6631e627aa8539b02314c30491871433db006476359b204bc1d9dbb9dd",
+    "expected_accepted_sha256": "507b9df0e19d544729cf55b2f485044d3ebb6f426779057252e2299d45a1e02b",
+    "expected_reward_fingerprint": "fe8b6a551b8d20356ee3228be57853d7e2f8d5515d2072e97468bce596c12c5a"
+  },
+  "supergpqa_science__field_chemistry__model=qwen2_5_3b__b=016": {
+    "expected_allocation_sha256": "1ebcdeb50f8f66e8d9c0a57b49835df256854ad8bd4693ae29b0acf5a9e66f81",
+    "expected_accepted_sha256": "83bb7a6920170080d5dfdeeabdfa6426d5bb3a2602911421894258e5649be7ff",
+    "expected_reward_fingerprint": "fe8b6a551b8d20356ee3228be57853d7e2f8d5515d2072e97468bce596c12c5a"
+  },
+  "supergpqa_science__field_chemistry__model=qwen2_5_3b__b=032": {
+    "expected_allocation_sha256": "233c4d2db178767f0b8b6042ee300b05a875c97e1e9a2e3e63ddbde15fe5914a",
+    "expected_accepted_sha256": "ec3085bf32dfa664e56a5e60e28c9719d3bff0e2c97aa065e2b610f8da05e242",
+    "expected_reward_fingerprint": "fe8b6a551b8d20356ee3228be57853d7e2f8d5515d2072e97468bce596c12c5a"
+  },
+  "supergpqa_science__field_chemistry__model=qwen2_5_3b__b=064": {
+    "expected_allocation_sha256": "0ecc1e6be6a8ab3dc2f11796e2e4ae7f46dfd6fadeaf34a324d21cfe6dfa6c84",
+    "expected_accepted_sha256": "db5d5f6378706562a2425c88471e3ccffe82027c0b4a60311b636c65c2e160c1",
+    "expected_reward_fingerprint": "fe8b6a551b8d20356ee3228be57853d7e2f8d5515d2072e97468bce596c12c5a"
+  },
+  "supergpqa_science__field_chemistry__model=qwen2_5_7b__b=008": {
+    "expected_allocation_sha256": "c1ab00e58e211ff475e6725721d79c78cb69c0c52ef51a975640e59d54565c68",
+    "expected_accepted_sha256": "ca8e88db42dd7a6685ee11779b39911d3459a1f1409224334b4bdb8968a80b4c",
+    "expected_reward_fingerprint": "d8e73bd719abc331d6015b72692a1c3fbd4319ac69fd5d0291d738e88a35d4d0"
+  },
+  "supergpqa_science__field_chemistry__model=qwen2_5_7b__b=016": {
+    "expected_allocation_sha256": "cdd4587c6c59d6090ab398e00f8706bd177279a2fa9f8c0740b5b564bb4a90dd",
+    "expected_accepted_sha256": "b7350c43720373f527c3c9c4abb21bbef512a6e66a70d22713eb135111971d1a",
+    "expected_reward_fingerprint": "d8e73bd719abc331d6015b72692a1c3fbd4319ac69fd5d0291d738e88a35d4d0"
+  },
+  "supergpqa_science__field_chemistry__model=qwen2_5_7b__b=032": {
+    "expected_allocation_sha256": "b990bc0b8bdae524a48b72527c11e054d4018a78123a586fb759fbddaa3f175d",
+    "expected_accepted_sha256": "2976c1a440eb2031d7721f47e8df4a03fca867679268e7599ac2485cce67d533",
+    "expected_reward_fingerprint": "d8e73bd719abc331d6015b72692a1c3fbd4319ac69fd5d0291d738e88a35d4d0"
+  },
+  "supergpqa_science__field_chemistry__model=qwen2_5_7b__b=064": {
+    "expected_allocation_sha256": "9365ab00b87554fed49f4f84543e54a4d3cf374b3339e9804394de8ead7f7914",
+    "expected_accepted_sha256": "85eff9bd1dc763e8697703783aef9256545c2a844569d3a7d2481134068e139b",
+    "expected_reward_fingerprint": "d8e73bd719abc331d6015b72692a1c3fbd4319ac69fd5d0291d738e88a35d4d0"
+  },
+  "supergpqa_science__field_chemistry__model=qwen3_5_27b__b=008": {
+    "expected_allocation_sha256": "b25ce09271a376afb6b9cd2534f38d5af8f82f7f6ce37c8f8c066e953b1fe92b",
+    "expected_accepted_sha256": "f93c2bbd079a17218794e2a8f8b40580da3c933411724975d8aee902f923483e",
+    "expected_reward_fingerprint": "a7aefa62037bf0b149ec35c528b6027388329488d34d21f7e623c81d30b7f54f"
+  },
+  "supergpqa_science__field_chemistry__model=qwen3_5_27b__b=016": {
+    "expected_allocation_sha256": "edf3c5fd31fc951cae8d8ef724cf516fea0aad79f23af083d1b9f2d034527bd6",
+    "expected_accepted_sha256": "4dd28732db0e507bebf0f721f8f4fc14c58abc3594fc5f7da5be857414d1e4b7",
+    "expected_reward_fingerprint": "a7aefa62037bf0b149ec35c528b6027388329488d34d21f7e623c81d30b7f54f"
+  },
+  "supergpqa_science__field_chemistry__model=qwen3_5_27b__b=032": {
+    "expected_allocation_sha256": "402d1fb37192772923f776e94f6c4a6ebc77b838af7a6fdb1356b993887dd017",
+    "expected_accepted_sha256": "ca42b10810b9da2c0a4a8d72444c706655f4907b7e88aa558eefa3d816a57fb9",
+    "expected_reward_fingerprint": "a7aefa62037bf0b149ec35c528b6027388329488d34d21f7e623c81d30b7f54f"
+  },
+  "supergpqa_science__field_chemistry__model=qwen3_5_27b__b=064": {
+    "expected_allocation_sha256": "bd1c328ddd53c80cea741c8c2bc372e53998943bbac3ce2a71807789b2568426",
+    "expected_accepted_sha256": "904b897890791a727430e625d79c697ea70e4956734b4088239ef48a4e1b94a0",
+    "expected_reward_fingerprint": "a7aefa62037bf0b149ec35c528b6027388329488d34d21f7e623c81d30b7f54f"
+  },
+  "supergpqa_science__field_chemistry__model=qwen3_5_4b__b=008": {
+    "expected_allocation_sha256": "9523ce7f128e97ee5cbbb0414c40417a9c52abdfddfd8d4e55e3310f9ba18f41",
+    "expected_accepted_sha256": "c12ab31f2cf29ffcbdcaff9e4a84ee85135c3f3ce692ec2d4b967f739284bcaa",
+    "expected_reward_fingerprint": "0655013bb786075dcdabfbc9382065d4d17836a93f79d9f728986caa935ce210"
+  },
+  "supergpqa_science__field_chemistry__model=qwen3_5_4b__b=016": {
+    "expected_allocation_sha256": "23d3f4f540d7784c19c7f876af2147a4f7c687cf6c4400640671e47c9c072103",
+    "expected_accepted_sha256": "c38c92289c0bc78cc36404cac38e2a74dde4916bb5b8f37185932c19d22176d7",
+    "expected_reward_fingerprint": "0655013bb786075dcdabfbc9382065d4d17836a93f79d9f728986caa935ce210"
+  },
+  "supergpqa_science__field_chemistry__model=qwen3_5_4b__b=032": {
+    "expected_allocation_sha256": "a24fcf7ad0db2187b0bf059f229d689eae26e58cc287b6be918809fb83c78116",
+    "expected_accepted_sha256": "a08378bd0926d687817006698255f5b2213315d2c51c1d6a0049d19915e68105",
+    "expected_reward_fingerprint": "0655013bb786075dcdabfbc9382065d4d17836a93f79d9f728986caa935ce210"
+  },
+  "supergpqa_science__field_chemistry__model=qwen3_5_4b__b=064": {
+    "expected_allocation_sha256": "6248e212b8c0da5d1ef0bccf87661fbd5bbaee845a466a3891d9b3562eed52a7",
+    "expected_accepted_sha256": "4445c77a614d19fa0405163893ba029935983852a27d03ca87a880a23fbf65a9",
+    "expected_reward_fingerprint": "0655013bb786075dcdabfbc9382065d4d17836a93f79d9f728986caa935ce210"
+  },
+  "supergpqa_science__field_chemistry__model=qwen3_5_9b__b=008": {
+    "expected_allocation_sha256": "4ae74493fec36d19e4b84396e1c79c7b4ab95da2cd3520bc1b6859fb51bd3c00",
+    "expected_accepted_sha256": "658d06caed745caee2bf662bb70075f9671a6481a7da032417e0bebe75b33643",
+    "expected_reward_fingerprint": "a136f368fa58f731de3c95cdd67ba66dec6b45a11644e9effd5b38d9f7e94495"
+  },
+  "supergpqa_science__field_chemistry__model=qwen3_5_9b__b=016": {
+    "expected_allocation_sha256": "a475d80c16ded5330aadfb04d16ca3e4f1da52ab2edfd93cb8a3c6e344815732",
+    "expected_accepted_sha256": "79bf64a5382be1b91db60e888e8ec03c66bf641db57820db696b8473259fee33",
+    "expected_reward_fingerprint": "a136f368fa58f731de3c95cdd67ba66dec6b45a11644e9effd5b38d9f7e94495"
+  },
+  "supergpqa_science__field_chemistry__model=qwen3_5_9b__b=032": {
+    "expected_allocation_sha256": "7f3e719ab1fbab4c5f8b2b0d899bd5c1c35ea5a50b06231cc19134e441252595",
+    "expected_accepted_sha256": "03618a7bda4360452fe1d296a813b3b7c81b1eb67f4585e141cacb718d7f3150",
+    "expected_reward_fingerprint": "a136f368fa58f731de3c95cdd67ba66dec6b45a11644e9effd5b38d9f7e94495"
+  },
+  "supergpqa_science__field_chemistry__model=qwen3_5_9b__b=064": {
+    "expected_allocation_sha256": "f5d5897daf7cb6906c88f021d8ca54cc15f5415ba17553fb59f58583b0d31e4e",
+    "expected_accepted_sha256": "0da1ed6fb45aae641a8bdf7f22bc21fc8604583c955e57657d84332af6d57bd3",
+    "expected_reward_fingerprint": "a136f368fa58f731de3c95cdd67ba66dec6b45a11644e9effd5b38d9f7e94495"
+  },
+  "supergpqa_science__field_physics__model=qwen2_5_32b__b=008": {
+    "expected_allocation_sha256": "eea989b4db9229fdd0f27ced659ea991fbcdcf9b28944a4c878085332683cd4e",
+    "expected_accepted_sha256": "990fdc448dd7a8ebee32519eef04d26675ae1e76d054458c8ec0058f68544f3b",
+    "expected_reward_fingerprint": "5d6a31806d83b4a3081d4253250ba8ba448f151d69e8367541b2b0acb7ecd1d0"
+  },
+  "supergpqa_science__field_physics__model=qwen2_5_32b__b=016": {
+    "expected_allocation_sha256": "e5c7c66dca97d94aebaff29fd1dc42323f96737b548f1ce73c82d037d2fd8368",
+    "expected_accepted_sha256": "000bead9355396ffb183c0dc3d8be594bc888f1daa7fce67bd35bb6447dbe02f",
+    "expected_reward_fingerprint": "5d6a31806d83b4a3081d4253250ba8ba448f151d69e8367541b2b0acb7ecd1d0"
+  },
+  "supergpqa_science__field_physics__model=qwen2_5_32b__b=032": {
+    "expected_allocation_sha256": "f10a4504a895665b9614243cd01c914e4eb96d23ba8f19bcc30839e2b1fae002",
+    "expected_accepted_sha256": "69061a811ca24cd0473651e59f7668ad7caed829ccf4e2560c2c1f506817255e",
+    "expected_reward_fingerprint": "5d6a31806d83b4a3081d4253250ba8ba448f151d69e8367541b2b0acb7ecd1d0"
+  },
+  "supergpqa_science__field_physics__model=qwen2_5_32b__b=064": {
+    "expected_allocation_sha256": "5635cddd4acdf464998f9cbe342b642ebbbd6e34a32a69cb38db39bea9c6ef14",
+    "expected_accepted_sha256": "a9de3b09d688ab9b963ab77b08996cb3baa512395772aea3ed053c9b779cb41c",
+    "expected_reward_fingerprint": "5d6a31806d83b4a3081d4253250ba8ba448f151d69e8367541b2b0acb7ecd1d0"
+  },
+  "supergpqa_science__field_physics__model=qwen2_5_3b__b=008": {
+    "expected_allocation_sha256": "000256f6c6b1a5053204f9598b5c7016d66bf55cc0a5473345baa1b09f5f9224",
+    "expected_accepted_sha256": "6b3fc825fe63a92388443924e2231cc70fc37b4b68a38c24b5b3a04e60fb503d",
+    "expected_reward_fingerprint": "bae70a80ebbf3bbf1213464e830b2bcae8d7c91a4489cf607ecb32a097b0adaa"
+  },
+  "supergpqa_science__field_physics__model=qwen2_5_3b__b=016": {
+    "expected_allocation_sha256": "84275c935863f2f0062999a595ec5365a72f19e57eb391bae3ac5f31d9eccc04",
+    "expected_accepted_sha256": "90dd31c28b0bfb539855e9e915c2789e03eca76cfd7e724f56cfe9d07dcc9710",
+    "expected_reward_fingerprint": "bae70a80ebbf3bbf1213464e830b2bcae8d7c91a4489cf607ecb32a097b0adaa"
+  },
+  "supergpqa_science__field_physics__model=qwen2_5_3b__b=032": {
+    "expected_allocation_sha256": "6380b39d21dd9b18ddca31d2f4ecd38b501a73e82a3f2a2e90b44d508b29c8bd",
+    "expected_accepted_sha256": "4be37e3c4e0d7e619445fd89061910c085197c7c932a79fc8d67a344abbe432b",
+    "expected_reward_fingerprint": "bae70a80ebbf3bbf1213464e830b2bcae8d7c91a4489cf607ecb32a097b0adaa"
+  },
+  "supergpqa_science__field_physics__model=qwen2_5_3b__b=064": {
+    "expected_allocation_sha256": "6f01b7969fb028fd8e050c82281cc4dfd43e1e67f4323e5b56a4f875102ab856",
+    "expected_accepted_sha256": "5d1a47ac8b166f55d999c0af56e57f22f8f2839501e09acf79b0123c90c98271",
+    "expected_reward_fingerprint": "bae70a80ebbf3bbf1213464e830b2bcae8d7c91a4489cf607ecb32a097b0adaa"
+  },
+  "supergpqa_science__field_physics__model=qwen2_5_7b__b=008": {
+    "expected_allocation_sha256": "f5222e2eba0e54da2eadd5e2a9d92cd6293825f2ac3e5ffd742acabe155e5459",
+    "expected_accepted_sha256": "eaf08d63394b7b33e2debb56317f46231c6c982393dbc90e13d1ebf6619025fb",
+    "expected_reward_fingerprint": "f3fd7f59b34bc02fc91095e715ad731f3c36d83223a9ec1228952ef6abcf6784"
+  },
+  "supergpqa_science__field_physics__model=qwen2_5_7b__b=016": {
+    "expected_allocation_sha256": "1a773b9c0fd0dca2c3a7089099dcb53dabbeeeefa4021fbba673bc6794233f65",
+    "expected_accepted_sha256": "bba72482a3301efef01ec19cdf779ca75ebe97bc0f25bc9389e4cc3f62300118",
+    "expected_reward_fingerprint": "f3fd7f59b34bc02fc91095e715ad731f3c36d83223a9ec1228952ef6abcf6784"
+  },
+  "supergpqa_science__field_physics__model=qwen2_5_7b__b=032": {
+    "expected_allocation_sha256": "07f7c42fb62921041badf2cef2d886e7e051e8d7436829f253732e8a8502db68",
+    "expected_accepted_sha256": "d0c6932ee27e3f05ecaec4146148f557750c32f56a1048966f19bed736d2aa54",
+    "expected_reward_fingerprint": "f3fd7f59b34bc02fc91095e715ad731f3c36d83223a9ec1228952ef6abcf6784"
+  },
+  "supergpqa_science__field_physics__model=qwen2_5_7b__b=064": {
+    "expected_allocation_sha256": "3e824c1db3a2ca8766eda5ee95890b0db85a11846fe8c986d1b8a3b8a978f25d",
+    "expected_accepted_sha256": "7b840c589a75645fafa6e5b3fb229b9494f4174125c662c4a6896fd3ce6ca60e",
+    "expected_reward_fingerprint": "f3fd7f59b34bc02fc91095e715ad731f3c36d83223a9ec1228952ef6abcf6784"
+  },
+  "supergpqa_science__field_physics__model=qwen3_5_27b__b=008": {
+    "expected_allocation_sha256": "46a6ee6bdb1f957d13be178882ee153e467889c9c14ad9d17c8c2c2e6227fe05",
+    "expected_accepted_sha256": "ac515cab630007566b076eb11ac28618aea188b9190a1066add848e19104a686",
+    "expected_reward_fingerprint": "aa84c4b744d5c133922ba78351a8233c97bcaa119a52c5266f661c9bd69c6a81"
+  },
+  "supergpqa_science__field_physics__model=qwen3_5_27b__b=016": {
+    "expected_allocation_sha256": "c61b0d7a3ae02ea7666f680ffc40e8cd48a9dd971769aa8e330aee7e339db776",
+    "expected_accepted_sha256": "68acf11a5ddff521c57473e1f538a57b06486ba5b360aeb992bbf8b5d7647211",
+    "expected_reward_fingerprint": "aa84c4b744d5c133922ba78351a8233c97bcaa119a52c5266f661c9bd69c6a81"
+  },
+  "supergpqa_science__field_physics__model=qwen3_5_27b__b=032": {
+    "expected_allocation_sha256": "98a97db46815324d083b46e241889d715ad42a84c9913eb138e19e39f0800c70",
+    "expected_accepted_sha256": "687e161ba17c670834f069916725350662e1be2e46e9e7c09f95ef441953c4d0",
+    "expected_reward_fingerprint": "aa84c4b744d5c133922ba78351a8233c97bcaa119a52c5266f661c9bd69c6a81"
+  },
+  "supergpqa_science__field_physics__model=qwen3_5_27b__b=064": {
+    "expected_allocation_sha256": "1e40ccb62c2050f1628d3dd29cfc3590246e41b047293c016595010897932fd9",
+    "expected_accepted_sha256": "6c8129cf7a9a9882e2b007b233477a5eb36469420b7b1d1fd31d3669ec3b53e0",
+    "expected_reward_fingerprint": "aa84c4b744d5c133922ba78351a8233c97bcaa119a52c5266f661c9bd69c6a81"
+  },
+  "supergpqa_science__field_physics__model=qwen3_5_4b__b=008": {
+    "expected_allocation_sha256": "e9fb2ce48a0267e7ac979b05df15f6507cee87f9391571cd1c472112c6bf2145",
+    "expected_accepted_sha256": "8f891fe85a7175c1d804ff182e38b798d8d7ffd623bd2a169c8b92c6d7c666cb",
+    "expected_reward_fingerprint": "764197fa44942a71ab394700380511129680cedac0d0ad3baa008e1b7a38d447"
+  },
+  "supergpqa_science__field_physics__model=qwen3_5_4b__b=016": {
+    "expected_allocation_sha256": "1cc94c959c58b3f69a25c7deab42fde6ecc139485527ff76c08bce2eb79096ca",
+    "expected_accepted_sha256": "26b14657f6c5d20f0ba2c9cb104ed25ec913b087055d09719408cf23e2d3cbbe",
+    "expected_reward_fingerprint": "764197fa44942a71ab394700380511129680cedac0d0ad3baa008e1b7a38d447"
+  },
+  "supergpqa_science__field_physics__model=qwen3_5_4b__b=032": {
+    "expected_allocation_sha256": "1f59d6d93db969d1fd15ed5853d0445eea06f24629a27558c980412b674c47e6",
+    "expected_accepted_sha256": "b3f50abb6b53f1986f168d7a62d53da43178550bbe93f7c0dba395edd746cd25",
+    "expected_reward_fingerprint": "764197fa44942a71ab394700380511129680cedac0d0ad3baa008e1b7a38d447"
+  },
+  "supergpqa_science__field_physics__model=qwen3_5_4b__b=064": {
+    "expected_allocation_sha256": "9cae5c946262c17d4a8251f5fbe681a5fc0803fd3de1ee4d19b6a597d53fc4db",
+    "expected_accepted_sha256": "2c4d3059d904776eb867d122b784a994aeb842b44724b658eb4ecbddc249cd94",
+    "expected_reward_fingerprint": "764197fa44942a71ab394700380511129680cedac0d0ad3baa008e1b7a38d447"
+  },
+  "supergpqa_science__field_physics__model=qwen3_5_9b__b=008": {
+    "expected_allocation_sha256": "4cdbbc99c44fb181ad35c305db21e8cc17dfcba2cc72fdc27587da8b1e01b4fb",
+    "expected_accepted_sha256": "390bf2ca1d1093659ea96a435bc7299e97cdf8df04f03f2c9d5ca3b21aa3be23",
+    "expected_reward_fingerprint": "4c116326c7862f8aedb5f5bf093aca91b89388fa944ba335a00599dd01ef5604"
+  },
+  "supergpqa_science__field_physics__model=qwen3_5_9b__b=016": {
+    "expected_allocation_sha256": "dbcb4c79f332f9e5113754d4ee8be3ddd1f3167ac2cedb078c8fe3b3563f3c9d",
+    "expected_accepted_sha256": "64de0a5f3c8050aff4ed4a347e5bb1ab8429ac841d1ddd5cdf55a056fa401c84",
+    "expected_reward_fingerprint": "4c116326c7862f8aedb5f5bf093aca91b89388fa944ba335a00599dd01ef5604"
+  },
+  "supergpqa_science__field_physics__model=qwen3_5_9b__b=032": {
+    "expected_allocation_sha256": "d951a2134a654cd42955854d70d68d0775aba9d4aa8b3cad867003199353d789",
+    "expected_accepted_sha256": "3f5b1301977415e9e87c7d61d1fa6e1e4b7e3409afb609d53109573f4a531cb7",
+    "expected_reward_fingerprint": "4c116326c7862f8aedb5f5bf093aca91b89388fa944ba335a00599dd01ef5604"
+  },
+  "supergpqa_science__field_physics__model=qwen3_5_9b__b=064": {
+    "expected_allocation_sha256": "9e78c5cec2e5ceff84889c1b4a79d31818b3f015861378d44afa33b7d58d9e16",
+    "expected_accepted_sha256": "def5c1d3b16bf4d8d8fbf6a647ea07794a585bdd2ea32b01c77ea22125b54c44",
+    "expected_reward_fingerprint": "4c116326c7862f8aedb5f5bf093aca91b89388fa944ba335a00599dd01ef5604"
+  }
+}

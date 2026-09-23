@@ -1,0 +1,78 @@
+{
+  "qwen2_5_32b": {
+    "core": 31206740992,
+    "lm": 778567680,
+    "full_layers": 64,
+    "attention_width": 5120,
+    "config_sha256": "9c6772f138ef9e5b3d1c18f2c87e451bbc01f5f1a4eabb36f9bf4f53829b903e",
+    "parameter_groups": {
+      "embedding": 778567680,
+      "core": 31206740992,
+      "lm_head": 778567680
+    }
+  },
+  "qwen2_5_3b": {
+    "core": 2774773760,
+    "lm": 311164928,
+    "full_layers": 36,
+    "attention_width": 2048,
+    "config_sha256": "eed00b17e22553979d090fa492e587e92885e328914c8e0b0b78f0a0d3576b3b",
+    "parameter_groups": {
+      "embedding": 311164928,
+      "core": 2774773760
+    }
+  },
+  "qwen2_5_7b": {
+    "core": 6525621760,
+    "lm": 544997376,
+    "full_layers": 28,
+    "attention_width": 3584,
+    "config_sha256": "7463bb0ea78315365e6c6b74de4e73bbcc8359dfb0c5a737584e077d42c0b03c",
+    "parameter_groups": {
+      "embedding": 544997376,
+      "core": 6525621760,
+      "lm_head": 544997376
+    }
+  },
+  "qwen3_5_27b": {
+    "core": 24353201664,
+    "lm": 1271398400,
+    "full_layers": 16,
+    "attention_width": 6144,
+    "config_sha256": "f8d190c5b89c1521220f935d2567a587d6e291ed69066a45a106560b05a2174c",
+    "parameter_groups": {
+      "lm_head": 1271398400,
+      "embedding": 1271398400,
+      "core": 24353201664,
+      "mtp": 424699392,
+      "vision": 460730096
+    }
+  },
+  "qwen3_5_4b": {
+    "core": 3570052096,
+    "lm": 635699200,
+    "full_layers": 8,
+    "attention_width": 4096,
+    "config_sha256": "ce18eb9360451b606a06315e52106a7336b944ba97562e58743e0c129330d1e5",
+    "parameter_groups": {
+      "embedding": 635699200,
+      "core": 3570052096,
+      "mtp": 120599552,
+      "vision": 333514240
+    }
+  },
+  "qwen3_5_9b": {
+    "core": 6919565824,
+    "lm": 1017118720,
+    "full_layers": 8,
+    "attention_width": 4096,
+    "config_sha256": "d0883072e01861ed0b2d47be3c16c36a8e81c224c7ffaa310c6558fb3f932b05",
+    "parameter_groups": {
+      "lm_head": 1017118720,
+      "embedding": 1017118720,
+      "core": 6919565824,
+      "mtp": 243290624,
+      "vision": 456010480
+    }
+  }
+}

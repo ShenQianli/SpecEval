@@ -1,0 +1,39 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "async-hbn"
+version = "0.0.1"
+description = "Single-run Uniform, HBN-sync, and HBN-async system experiments"
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+  "numpy>=2,<3",
+  "pandas",
+  "pyarrow",
+  "pyyaml",
+  "scipy==1.15.3",
+]
+
+[project.optional-dependencies]
+gpu = [
+  "torch",
+  "transformers==4.57.6",
+  "vllm==0.23.0",
+]
+test = ["pytest==8.4.2"]
+
+[project.scripts]
+async-hbn = "async_hbn.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/async_hbn"]
+
+[tool.hatch.build.hooks.custom]
+path = "hatch_build.py"
+
+[tool.pytest.ini_options]
+testpaths = ["tests", "../../tests/systems"]
+addopts = "-q -ra"
+pythonpath = ["src", "../statistical/src", "tests", "../../tests/systems"]

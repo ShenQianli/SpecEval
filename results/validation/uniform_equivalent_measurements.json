@@ -1,0 +1,10 @@
+{
+  "file": "systems/uniform_equivalent_measurements.csv",
+  "sha256": "c453a00d8d9e16e1cb014895a498e14d338fa927a830489ecd20c778eea5db12",
+  "observations": 428,
+  "profiles": 107,
+  "reference_budgets": [8, 16, 32, 64],
+  "audit": "All successful request-level outputs passed equivalent-measurement validation and state/result identity checks; no duplicate observation or run UUID.",
+  "time_metric": "result-ready wall-clock seconds",
+  "target_budget": "floor(reference_budget / fixed_HBN_variance_ratio)"
+}
