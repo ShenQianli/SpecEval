@@ -205,7 +205,7 @@ class Access:
             print(f"  {key}: https://huggingface.co/datasets/{source['repo']}")
         print("GPQA/HLE require personal access approval and request no public redistribution.\n"
               "HMMT has noncommercial/share-alike terms. Other sources retain their own terms.\n"
-              "See data/REDISTRIBUTION.md. This script cannot accept upstream agreements for you.")
+              "See data/SOURCES.md. This script cannot accept upstream agreements for you.")
         if "livecodebench" in sources:
             print("LiveCodeBench's raw files occupy several GiB even though only prompt metadata is used.")
         if self.args.acknowledge_terms:

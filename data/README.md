@@ -6,7 +6,7 @@ Profiles are provided; benchmark tasks/prompts are generated locally from pinned
 upstream files.
 
 Third-party benchmark text is subject to upstream terms, not the software's
-MIT license. See the [redistribution review](REDISTRIBUTION.md) before sharing
+MIT license. See the [source and access information](SOURCES.md) before sharing
 these files.
 
 ## One-command preparation
@@ -71,9 +71,8 @@ GPQA option permutations use `random.Random(42 + child_row_index)`.
 JSONL encoding is UTF-8 with compact separators, fixed field order, and one LF
 after every record. All 18 outputs must match the frozen hashes and the ID/order
 of all 108 profiles. Model-specific chat rendering remains a separate runtime
-check. Preparation verifies JSONL hashes and task order; it does not reconstruct
-source Arrow cache directories. Source-artifact identifiers remain fixed
-components of the published protocol.
+check. Preparation verifies JSONL hashes and task order. Source-artifact
+identifiers remain fixed components of the published protocol.
 
 ## Benchmark tasks and prompts
 

@@ -32,8 +32,8 @@ partial token counts, so waste can underestimate compute before the first output
 The proxy per request is
 `2*core*(P+C) + 2*lm*C + 2*full_layers*attention_width*(P+C)*(P+C+1)`.
 It is not a GPU hardware counter and omits memory traffic, padding, and detailed
-GDN recurrent-state costs. Values here were computed from recorded request traces;
-they are not synthetic timings or predictions.
+GDN recurrent-state costs. FLOP estimates are computed from recorded request
+traces; timings are measured during real generation.
 
 ## Aggregation
 
@@ -53,7 +53,8 @@ Average continuous- and rounded-equivalent budgets divide their respective
 total rollout counts by the total task count across profiles, not by 107.
 
 Frozen rewards align sync/async allocation, not generated text or token lengths.
-These tables support reaggregation, not a substitute for raw request-level audit.
+These tables contain per-run aggregates for reproducing the paper tables;
+request-level traces are not included.
 Data retain the repository's derived-statistics licensing note; underlying models
 and benchmarks retain their own terms. No prompts or generated text are included.
 

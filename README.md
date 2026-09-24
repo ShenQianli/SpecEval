@@ -6,7 +6,7 @@ experiments, and CPU-only reproduction of main-text Tables 1--4 from published r
 
 Benchmark inputs are downloaded and reconstructed locally and are not included
 in this repository. Their use and redistribution remain subject to the
-[upstream terms](data/REDISTRIBUTION.md).
+[source and access information](data/SOURCES.md).
 
 ## Reproduce the paper tables
 
@@ -57,7 +57,7 @@ benchmark--checkpoint profiles (Uniform = 100%). Lower is better.
 | 32 | 39.5% | 91.9% | 74.2% | **73.0%** |
 | 64 | 39.3% | 91.5% | 67.0% | **66.4%** |
 
-The tuning protocols are intentionally different and must remain explicit:
+The methods use the following tuning protocols:
 
 - Tuned EN exhausts every feasible integer pilot size on the 107 evaluation
   profiles and uses the analytic risk-minimizing constant stage weight. It is
