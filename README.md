@@ -1,4 +1,10 @@
-# Speculative Evaluation
+# Speculative Evaluation of Stochastic LLMs
+
+News:
+
+- [Sept 25] Full paper available at [https://arxiv.org/abs/2609.28560](https://arxiv.org/abs/2609.28560)
+- [Sept 24] Short paper accepted by [TAE Workshop](https://tai-eval.github.io/) @ NeurIPS26
+
 
 This release starts from fixed benchmark tasks/prompts and fixed task-probability
 profiles. It provides statistical replay, single-run real-generation system
@@ -206,3 +212,19 @@ Code is released under the MIT License. Benchmark task text and derived
 numerical profiles retain their source terms; the code license does not
 relicense third-party benchmark content. Benchmark sources are listed in
 `data/benchmarks/manifest.json`.
+
+## Citation
+
+If you find this repo useful, please consider citing 
+
+```
+@misc{shen2026speculativeevaluationstochasticllms,
+      title={Speculative Evaluation of Stochastic LLMs}, 
+      author={Qianli Shen and Xiang Li and Ruomeng Ding and Yanxi Chen and Daoyuan Chen and Yaliang Li},
+      year={2026},
+      eprint={2609.28560},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+      url={https://arxiv.org/abs/2609.28560}, 
+}
+```
